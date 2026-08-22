@@ -1,0 +1,3149 @@
+alias_id,character_id,alias_text,source_dataset
+1,1,A.O,onepiece_wiki
+2,2,Bizarre,onepiece_wiki
+3,2,Bizāru,onepiece_wiki
+4,3,Biyo,onepiece_wiki
+5,3,Beeyo,onepiece_wiki
+6,4,Bishamon,onepiece_wiki
+7,5,BB,onepiece_wiki
+8,5,Blackback,onepiece_wiki
+9,5,Bībī (Burakkubakku),onepiece_wiki
+10,6,Black Maria,onepiece_wiki
+11,6,"Kumo Kumo no Mi, Model: Rosamygale Grauvogeli",onepiece_wiki
+12,6,Burakkumaria,onepiece_wiki
+13,7,Bimine,onepiece_wiki
+14,8,Bingoh,onepiece_wiki
+15,8,Bingo,onepiece_wiki
+16,8,Bingō,onepiece_wiki
+17,9,Big Bun,onepiece_wiki
+18,9,Big Pan,onepiece_wiki
+19,9,Biggu Pan,onepiece_wiki
+20,10,Bian,onepiece_wiki
+21,10,"Mushi Mushi no Mi, Model: Suzumebachi",onepiece_wiki
+22,11,Belle-Mère,onepiece_wiki
+23,11,Bellemere,onepiece_wiki
+24,11,Berumēru,onepiece_wiki
+25,11,Bell-mère,onepiece_wiki
+26,12,Bepo,onepiece_wiki
+27,13,Ben Beckman,onepiece_wiki
+28,13,Benn Beckman,onepiece_wiki
+29,13,Ben Bekkuman,onepiece_wiki
+30,14,Bellamy,onepiece_wiki
+31,14,Bane Bane no Mi,onepiece_wiki
+32,14,Beramī,onepiece_wiki
+33,15,"""Mr. 2 Bon Kurei"" (Mr. 2（ミスター・ツー）・ボン・クレー, Misutā Tsū Bon Kurē?, Official Translation: Mr. 2 Bon Clay)",onepiece_wiki
+34,15,Bentham,onepiece_wiki
+35,15,Mane Mane no Mi,onepiece_wiki
+36,15,Bensamu,onepiece_wiki
+37,16,Bellett,onepiece_wiki
+38,16,Beretto,onepiece_wiki
+39,16,Beret,onepiece_wiki
+40,17,Yonta Maria Grand Fleet,onepiece_wiki
+41,17,Yonta Maria Fleet,onepiece_wiki
+42,17,Yonta Maria Dai-sendan,onepiece_wiki
+43,18,Vinsmoke Family,onepiece_wiki
+44,18,Vinsumōku-ke,onepiece_wiki
+45,19,Tontatta Pirates,onepiece_wiki
+46,19,Tontatta Kaizokudan,onepiece_wiki
+47,20,Tightrope Walking Funan Bros,onepiece_wiki
+48,20,Tightrope Funan Boros,onepiece_wiki
+49,20,Tsunawatari Funan Borōzu,onepiece_wiki
+50,21,Kurohige Kaizokudan,onepiece_wiki
+51,21,Black Beard Pirates,onepiece_wiki
+52,21,Blackbeard Pirates,onepiece_wiki
+53,22,Biggu Mamu Kaizokudan,onepiece_wiki
+54,22,Big Mom Pirates,onepiece_wiki
+55,23,Straw Hat Pirates,onepiece_wiki
+56,23,Straw Hat Crew,onepiece_wiki
+57,23,Mugiwara no Ichimi,onepiece_wiki
+58,24,Straw Hat Grand FleetStraw Hat Fleet,onepiece_wiki
+59,24,Straw Hat Grand Fleet,onepiece_wiki
+60,24,Mugiwara Dai-sendan,onepiece_wiki
+61,25,Riku Ichizoku,onepiece_wiki
+62,25,Riku Family,onepiece_wiki
+63,25,Riku Dynasty,onepiece_wiki
+64,26,Orochi Oniwabanshu,onepiece_wiki
+65,26,Orochi's Oniwabanshu,onepiece_wiki
+66,26,Orochi Oniwabanshū,onepiece_wiki
+67,27,Numbers,onepiece_wiki
+68,27,Nanbāzu,onepiece_wiki
+69,28,Nine Red Scabbards,onepiece_wiki
+70,28,Akazaya Kunin Otoko,onepiece_wiki
+71,28,Akazaya Nine,onepiece_wiki
+72,29,WCI 31,onepiece_wiki
+73,29,Daburyū-Shī-Ai Sātī-Wan,onepiece_wiki
+74,30,New Giant Warrior Pirates,onepiece_wiki
+75,30,Shin Kyo Hei Kaizoku-dan,onepiece_wiki
+76,30,New Giant Pirates,onepiece_wiki
+77,31,Nefeltari Family,onepiece_wiki
+78,31,Nefertari Family,onepiece_wiki
+79,31,Neferutari-ke,onepiece_wiki
+80,32,Nepuchūn Ichizoku,onepiece_wiki
+81,32,Neptune Family,onepiece_wiki
+82,33,Kyōshirō Ikka,onepiece_wiki
+83,33,Kyoshiro Family,onepiece_wiki
+84,34,Kōzuki-ke,onepiece_wiki
+85,34,Kouzuki Clan,onepiece_wiki
+86,34,Kozuki Clan,onepiece_wiki
+87,34,Kozuki Family,onepiece_wiki
+88,35,Buggy's Band of Pirates,onepiece_wiki
+89,35,Bagī Kaizokudan,onepiece_wiki
+90,35,Buggy Pirates,onepiece_wiki
+91,36,Mimawarigumi,onepiece_wiki
+92,36,Mimawari-gumi,onepiece_wiki
+93,37,Monban,onepiece_wiki
+94,37,Mansion's Guards,onepiece_wiki
+95,38,Kid Pirates,onepiece_wiki
+96,38,Kiddo Kaizokudan,onepiece_wiki
+97,39,Herculean Destroyers,onepiece_wiki
+98,39,Kairiki Desutoroiyāzu,onepiece_wiki
+99,39,Kairiki Destroyers,onepiece_wiki
+100,40,Eleven Righteous Jurors,onepiece_wiki
+101,40,Just Eleven Jurymen,onepiece_wiki
+102,40,Kōsei-naru Jūichinin no Baishin'in,onepiece_wiki
+103,40,公正なる11人の陪審員,onepiece_wiki
+104,41,Yatoware Bōryokudan Koara-gumi,onepiece_wiki
+105,41,Koala Gang,onepiece_wiki
+106,41,Koala Mercenaries,onepiece_wiki
+107,42,イッシー100（ワンハンドレッド）,onepiece_wiki
+108,42,Isshī Wanhandoreddo,onepiece_wiki
+109,42,Isshi-100,onepiece_wiki
+110,42,100 Doctors,onepiece_wiki
+111,43,Atamayama Thieves Brigade,onepiece_wiki
+112,43,Mt. Atama Thieves,onepiece_wiki
+113,43,Atama-yama Tōzoku-dan,onepiece_wiki
+114,44,Inuarashi Musketeer Squad,onepiece_wiki
+115,44,Musketeers,onepiece_wiki
+116,44,Inuarashi Jūshi-tai,onepiece_wiki
+117,45,Ideo Pirates,onepiece_wiki
+118,45,Ideo Kaizokudan,onepiece_wiki
+119,45,Ideo Pirate Crew,onepiece_wiki
+120,46,Happo Navy,onepiece_wiki
+121,46,Happō Suigun,onepiece_wiki
+122,46,Happosui Army,onepiece_wiki
+123,47,Heart Pirates,onepiece_wiki
+124,47,Hāto no Kaizokudan,onepiece_wiki
+125,48,Yonkō,onepiece_wiki
+126,48,Four Emperors,onepiece_wiki
+127,49,Five Elder Stars,onepiece_wiki
+128,49,Gorōsei,onepiece_wiki
+129,49,Five Elders,onepiece_wiki
+130,50,Qing Jiao Family,onepiece_wiki
+131,50,Chinjao Famirī,onepiece_wiki
+132,50,Chinjao Family,onepiece_wiki
+133,51,Utsukushiki Kaizoku-dan,onepiece_wiki
+134,51,Beautiful Pirates,onepiece_wiki
+135,52,Charlotte Family,onepiece_wiki
+136,52,Shārotto-ke,onepiece_wiki
+137,53,Barto Club,onepiece_wiki
+138,53,Baruto Kurabu,onepiece_wiki
+139,54,Admiral,onepiece_wiki
+140,54,Taishō,onepiece_wiki
+141,55,Animal Kingdom Pirates,onepiece_wiki
+142,55,Beasts Pirates,onepiece_wiki
+143,55,Beast Pirates,onepiece_wiki
+144,55,Hyakujū Kaizokudan,onepiece_wiki
+145,56,Burr,onepiece_wiki
+146,56,Zotto,onepiece_wiki
+147,57,Zunesha,onepiece_wiki
+148,57,Zunīsha,onepiece_wiki
+149,58,Zukka,onepiece_wiki
+150,58,Zucca,onepiece_wiki
+151,59,Zodia,onepiece_wiki
+152,60,Zeusu,onepiece_wiki
+153,60,Zeus,onepiece_wiki
+154,61,Zepo,onepiece_wiki
+155,62,Zeo,onepiece_wiki
+156,63,Zanbai,onepiece_wiki
+157,63,Zambai,onepiece_wiki
+158,64,Zeff,onepiece_wiki
+159,64,Zefu,onepiece_wiki
+160,65,Zala,onepiece_wiki
+161,65,Zara,onepiece_wiki
+162,65,Toge Toge no Mi,onepiece_wiki
+163,65,"Miss Doublefinger (ミス・ダブルフィンガー, Misu Daburufingā?, 4Kids: ""Ms. New Year's Eve"")Paula (ポーラ, Pōra?, VIZ: ""Pola"")",onepiece_wiki
+164,66,Zanki,onepiece_wiki
+165,67,Zabo,onepiece_wiki
+166,67,Zabō,onepiece_wiki
+167,68,Yurikā,onepiece_wiki
+168,68,Eureka,onepiece_wiki
+169,68,Yurikah,onepiece_wiki
+170,69,Yuki,onepiece_wiki
+171,70,Zadie,onepiece_wiki
+172,70,Zeidī,onepiece_wiki
+173,70,Zayde,onepiece_wiki
+174,71,Yūi,onepiece_wiki
+175,71,Yuey,onepiece_wiki
+176,71,Yui,onepiece_wiki
+177,72,Yu,onepiece_wiki
+178,72,Yū,onepiece_wiki
+179,73,Yotsubane,onepiece_wiki
+180,74,Yoshimoto,onepiece_wiki
+181,75,Yosaku,onepiece_wiki
+182,76,Yorki,onepiece_wiki
+183,76,Yōki,onepiece_wiki
+184,77,Yomo,onepiece_wiki
+185,78,Yōku,onepiece_wiki
+186,78,York,onepiece_wiki
+187,79,Yazaemon,onepiece_wiki
+188,80,Yatappe,onepiece_wiki
+189,81,Yokozuna,onepiece_wiki
+190,82,Yasoppu,onepiece_wiki
+191,82,Yasopp,onepiece_wiki
+192,83,Yōkan,onepiece_wiki
+193,83,Yokan,onepiece_wiki
+194,84,Yarisugi,onepiece_wiki
+195,85,Yamenahāre,onepiece_wiki
+196,85,Yamenahare,onepiece_wiki
+197,86,Yamon,onepiece_wiki
+198,87,Yame,onepiece_wiki
+199,87,O-Yame,onepiece_wiki
+200,88,"""Kozuki Oden"" (光月おでん, Kōzuki Oden?)",onepiece_wiki
+201,88,Yamato,onepiece_wiki
+202,88,"Inu Inu no Mi, Model: Okuchi no Makami",onepiece_wiki
+203,89,Yama,onepiece_wiki
+204,90,Woop Slap,onepiece_wiki
+205,90,Ūpu Surappu,onepiece_wiki
+206,91,Yamakaji,onepiece_wiki
+207,92,Waiyā,onepiece_wiki
+208,92,Wire,onepiece_wiki
+209,93,Diesu Dorēku,onepiece_wiki
+210,93,"Ryu Ryu no Mi, Model: Allosaurus",onepiece_wiki
+211,93,X. Drake,onepiece_wiki
+212,93,"Dory (ドリィ, Dorii?, English version: Drie)",onepiece_wiki
+213,94,Wyper,onepiece_wiki
+214,94,FUNimation edited dub),onepiece_wiki
+215,94,Waipā,onepiece_wiki
+216,94,Wyler,onepiece_wiki
+217,95,WickaWicca,onepiece_wiki
+218,95,Wicca,onepiece_wiki
+219,95,Wikka,onepiece_wiki
+220,96,Werinton,onepiece_wiki
+221,96,Wellington,onepiece_wiki
+222,97,Warashi,onepiece_wiki
+223,98,"Neko Neko no Mi, Model: Saber Tiger",onepiece_wiki
+224,98,Who's-Who,onepiece_wiki
+225,98,Fūzu Fū,onepiece_wiki
+226,99,Waruno Furishirō,onepiece_wiki
+227,99,Waruno Furishiro,onepiece_wiki
+228,100,Whitey Bay,onepiece_wiki
+229,100,Howaitibei,onepiece_wiki
+230,101,"""Mad Wanze"" (マッドなワンゼ Maddona Wanze)",onepiece_wiki
+231,101,Wanze,onepiece_wiki
+232,102,Baku Baku no Mi,onepiece_wiki
+233,102,Waporu,onepiece_wiki
+234,102,Wapol,onepiece_wiki
+235,103,Wheel,onepiece_wiki
+236,103,Hoīru,onepiece_wiki
+237,104,Wanyūdō,onepiece_wiki
+238,104,Wanyudo,onepiece_wiki
+239,105,Wanda,onepiece_wiki
+240,106,Warney,onepiece_wiki
+241,106,Wany,onepiece_wiki
+242,106,Wānī,onepiece_wiki
+243,107,Wallem,onepiece_wiki
+244,107,Woremu,onepiece_wiki
+245,108,Woresu,onepiece_wiki
+246,108,Wallace,onepiece_wiki
+247,109,Wakasa,onepiece_wiki
+248,110,Wadatsumi,onepiece_wiki
+249,111,Kagakusha,onepiece_wiki
+250,111,Scientist,onepiece_wiki
+251,112,Vito,onepiece_wiki
+252,113,Vitan,onepiece_wiki
+253,114,Viora,onepiece_wiki
+254,114,"Violet (ヴァイオレット, Vaioretto?)",onepiece_wiki
+255,114,Viola,onepiece_wiki
+256,114,Giro Giro no Mi,onepiece_wiki
+257,115,Vista,onepiece_wiki
+258,115,Bisuta,onepiece_wiki
+259,116,Vinsmoke Yonji,onepiece_wiki
+260,116,Vinsumōku Yonji,onepiece_wiki
+261,117,Vinsumōku Reiju,onepiece_wiki
+262,117,Vinsmoke Reiju,onepiece_wiki
+263,118,Vinsmoke Sora,onepiece_wiki
+264,118,Vinsumōku Sora,onepiece_wiki
+265,119,Vinsmoke Niji,onepiece_wiki
+266,119,Vinsumōku Niji,onepiece_wiki
+267,120,Vikutoria Shiruton Doruyanaika,onepiece_wiki
+268,120,Victoria Shiruton Doruyanaika,onepiece_wiki
+269,120,Victoria Broth Splatterina,onepiece_wiki
+270,121,Vinsumōku Ichiji,onepiece_wiki
+271,121,Vinsmoke Ichiji,onepiece_wiki
+272,122,Victoria Cindry,onepiece_wiki
+273,122,Bikutoria Shindorī,onepiece_wiki
+274,123,Vinsumōku Jajji,onepiece_wiki
+275,123,Vinsmoke Judge,onepiece_wiki
+276,124,Berīguddo,onepiece_wiki
+277,124,Very Good,onepiece_wiki
+278,124,Beri Beri no Mi,onepiece_wiki
+279,124,Berry Good,onepiece_wiki
+280,125,Basuko Shotto,onepiece_wiki
+281,125,Gabu Gabu no Mi,onepiece_wiki
+282,125,Vasco Shot,onepiece_wiki
+283,126,Nomi Nomi no Mi,onepiece_wiki
+284,126,"""Stella"" (本体（ステラ）, Sutera?, kanji literally meaning ""Main Body"")",onepiece_wiki
+285,126,Dr. Vegapunk,onepiece_wiki
+286,126,Dokutā Begapanku,onepiece_wiki
+287,126,Vegapunk,onepiece_wiki
+288,127,Bandā Dekken,onepiece_wiki
+289,127,Vander Decken,onepiece_wiki
+290,128,Bandā Dekken Kyūsei,onepiece_wiki
+291,128,Mato Mato no Mi,onepiece_wiki
+292,128,Vander Decken IX,onepiece_wiki
+293,129,Uzuki Tempura,onepiece_wiki
+294,129,Uzuki Tenpura,onepiece_wiki
+295,130,Uzu,onepiece_wiki
+296,131,Wapu Wapu no Mi,onepiece_wiki
+297,131,Van Ōgā,onepiece_wiki
+298,131,Van Augur,onepiece_wiki
+299,132,Verugo,onepiece_wiki
+300,132,Vergo,onepiece_wiki
+301,132,"Corazon (コラソン, Korason?) (former)",onepiece_wiki
+302,133,Uwattsurā,onepiece_wiki
+303,133,Uwattsura,onepiece_wiki
+304,134,Uta,onepiece_wiki
+305,134,Uta Uta no Mi,onepiece_wiki
+306,135,Usakkofu,onepiece_wiki
+307,135,Bunkov,onepiece_wiki
+308,135,Usakkov,onepiece_wiki
+309,136,Usoppu,onepiece_wiki
+310,136,Usopp,onepiece_wiki
+311,136,"""Sogeking"" (そげキング, Sogekingu?) (former)""Usoland"" (ウソランド, Usorando?)""Uso-hachi"" (ウソ八, Usohachi?, English versions: Usohachi)",onepiece_wiki
+312,137,Usagihebi,onepiece_wiki
+313,138,Urūji,onepiece_wiki
+314,138,Urouge,onepiece_wiki
+315,139,Uruban,onepiece_wiki
+316,139,Urban,onepiece_wiki
+317,140,Ushiano,onepiece_wiki
+318,140,Ushiāno,onepiece_wiki
+319,141,Unigaro,onepiece_wiki
+320,141,Yunigaro,onepiece_wiki
+321,142,Urashima,onepiece_wiki
+322,143,Uni,onepiece_wiki
+323,144,Unforgivable Mask,onepiece_wiki
+324,144,Yurusumaji Mask,onepiece_wiki
+325,144,Yurusumaji Masuku,onepiece_wiki
+326,145,Umitto,onepiece_wiki
+327,145,Umit,onepiece_wiki
+328,146,Ultra King,onepiece_wiki
+329,146,Urutorakingu,onepiece_wiki
+330,146,Ultraking,onepiece_wiki
+331,147,Ulti,onepiece_wiki
+332,147,"Ryu Ryu no Mi, Model: Pachycephalosaurus",onepiece_wiki
+333,147,Uruti,onepiece_wiki
+334,148,Ukon,onepiece_wiki
+335,149,Carelesso,onepiece_wiki
+336,149,Ukkari,onepiece_wiki
+337,149,Ukkarī,onepiece_wiki
+338,150,Uhorishia,onepiece_wiki
+339,150,Uholisia,onepiece_wiki
+340,150,Ooklicia,onepiece_wiki
+341,151,Ook-Ook,onepiece_wiki
+342,151,Uhho,onepiece_wiki
+343,151,Uhhō-kun,onepiece_wiki
+344,152,Bullcy,onepiece_wiki
+345,152,Ucy,onepiece_wiki
+346,152,Moocy,onepiece_wiki
+347,152,Usy,onepiece_wiki
+348,152,Ūshī,onepiece_wiki
+349,153,UK,onepiece_wiki
+350,153,Yū Kē,onepiece_wiki
+351,154,Tiranosaurusu,onepiece_wiki
+352,154,Tyrannosaurus,onepiece_wiki
+353,155,Turco,onepiece_wiki
+354,155,Toruko,onepiece_wiki
+355,155,Turk,onepiece_wiki
+356,156,Ubau,onepiece_wiki
+357,157,Otsuru,onepiece_wiki
+358,157,Tsurujo,onepiece_wiki
+359,158,Woshu Woshu no Mi,onepiece_wiki
+360,158,Tsuru,onepiece_wiki
+361,159,Tsunokkofu,onepiece_wiki
+362,159,Antlerkov,onepiece_wiki
+363,159,Tsunokkov,onepiece_wiki
+364,160,Tsurue Monnosuke,onepiece_wiki
+365,161,Tsunagoro,onepiece_wiki
+366,161,Tsunagorō,onepiece_wiki
+367,162,Tsukimi,onepiece_wiki
+368,163,Toritobū,onepiece_wiki
+369,163,Tritobu,onepiece_wiki
+370,164,Tristan,onepiece_wiki
+371,164,Torisutan,onepiece_wiki
+372,165,Beta Beta no Mi,onepiece_wiki
+373,165,Torēboru,onepiece_wiki
+374,165,Trebol,onepiece_wiki
+375,166,Trafalgar Lammy,onepiece_wiki
+376,166,Trafalgar Lami,onepiece_wiki
+377,166,Torafarugā Rami,onepiece_wiki
+378,167,Toyama Tsujigiro,onepiece_wiki
+379,167,Tōyama Tsujigirō,onepiece_wiki
+380,168,Tsugaru Umi,onepiece_wiki
+381,169,Trafalgar D. Water Law,onepiece_wiki
+382,169,Torafarugā Dī Wāteru Rō,onepiece_wiki
+383,169,Ope Ope no Mi,onepiece_wiki
+384,170,Toto,onepiece_wiki
+385,171,Tosa,onepiece_wiki
+386,172,Tori,onepiece_wiki
+387,173,St. Topman Warcury,onepiece_wiki
+388,173,Toppuman Wōkyurī Sei,onepiece_wiki
+389,173,Topman Warcury,onepiece_wiki
+390,174,Tonjitto,onepiece_wiki
+391,174,Tonjit,onepiece_wiki
+392,175,Tony Tony Chopper,onepiece_wiki
+393,175,Tonī Tonī Choppā,onepiece_wiki
+394,175,Hito Hito no Mi,onepiece_wiki
+395,175,"""Chopa-emon"" (チョッパえもん, Choppaemon?, English versions: Chopperemon)",onepiece_wiki
+396,176,Tomato Gang,onepiece_wiki
+397,176,Tomato Gyangu,onepiece_wiki
+398,177,Tom,onepiece_wiki
+399,177,Tomu,onepiece_wiki
+400,178,Toko,onepiece_wiki
+401,179,"Chaton (茶豚, Chaton?, literally meaning ""Brown Pig"")",onepiece_wiki
+402,179,Tokikake,onepiece_wiki
+403,180,Togare,onepiece_wiki
+404,181,Tokijirō,onepiece_wiki
+405,181,Tokijiro,onepiece_wiki
+406,182,Tairusuton,onepiece_wiki
+407,182,Tilestone,onepiece_wiki
+408,183,Bonī Kaizokudan,onepiece_wiki
+409,183,Bonney Pirates,onepiece_wiki
+410,184,Thatch,onepiece_wiki
+411,184,Satchi,onepiece_wiki
+412,185,Tetsu,onepiece_wiki
+413,186,Tarassa Rūkasu,onepiece_wiki
+414,186,Thalassa Lucas,onepiece_wiki
+415,187,Tibany,onepiece_wiki
+416,187,TibbanyElizabeth,onepiece_wiki
+417,187,Tibanī,onepiece_wiki
+418,188,Tera,onepiece_wiki
+419,189,Terry Gilteo,onepiece_wiki
+420,189,Terī Giruteo,onepiece_wiki
+421,190,Tenjo-Sagari,onepiece_wiki
+422,190,Tenjō-Sagari,onepiece_wiki
+423,191,Terry,onepiece_wiki
+424,191,Terī,onepiece_wiki
+425,192,"""Kurouma"" (黒馬, Kurouma?, literally meaning ""Black Horse"")",onepiece_wiki
+426,192,Tensei,onepiece_wiki
+427,193,Terakotta,onepiece_wiki
+428,193,Terracotta,onepiece_wiki
+429,194,Tegata Ringana,onepiece_wiki
+430,194,Needa Hand,onepiece_wiki
+431,195,Tī Yonsei,onepiece_wiki
+432,195,ティー4世,onepiece_wiki
+433,195,Tea IV,onepiece_wiki
+434,196,Tēto,onepiece_wiki
+435,196,Tate,onepiece_wiki
+436,197,Taroimo,onepiece_wiki
+437,198,Tarō,onepiece_wiki
+438,198,Taro,onepiece_wiki
+439,199,Tararan,onepiece_wiki
+440,199,Taralan,onepiece_wiki
+441,200,Tashigi,onepiece_wiki
+442,201,Tanku Repanto,onepiece_wiki
+443,201,Tank Lepanto,onepiece_wiki
+444,201,Tank Lepant,onepiece_wiki
+445,202,Tamagon,onepiece_wiki
+446,203,Teru,onepiece_wiki
+447,203,Tell,onepiece_wiki
+448,204,Tarara,onepiece_wiki
+449,205,Tamachibi,onepiece_wiki
+450,206,Tama Tama no Mi,onepiece_wiki
+451,206,Tamago,onepiece_wiki
+452,207,Tansui,onepiece_wiki
+453,208,OnionTamanegi,onepiece_wiki
+454,208,Tamanegi,onepiece_wiki
+455,209,Tama,onepiece_wiki
+456,210,Take,onepiece_wiki
+457,211,Takao,onepiece_wiki
+458,212,Taco,onepiece_wiki
+459,212,Tacos,onepiece_wiki
+460,212,Takosu,onepiece_wiki
+461,213,T-Bone,onepiece_wiki
+462,213,Tī Bōn,onepiece_wiki
+463,213,Tボーン,onepiece_wiki
+464,214,Tabuhachirō,onepiece_wiki
+465,214,Tabuhachiro,onepiece_wiki
+466,215,Sweetpea,onepiece_wiki
+467,215,Suitopī,onepiece_wiki
+468,215,Sweet Pea,onepiece_wiki
+469,216,Surume,onepiece_wiki
+470,217,Sanberu,onepiece_wiki
+471,217,Sunbell,onepiece_wiki
+472,217,Sambel,onepiece_wiki
+473,218,Loki Clownin,onepiece_wiki
+474,218,Sukoshiba Kanishitoru,onepiece_wiki
+475,218,Sukoshiba Kanishitōru,onepiece_wiki
+476,219,Suke,onepiece_wiki
+477,219,Suke-san,onepiece_wiki
+478,220,Sureiman,onepiece_wiki
+479,220,Suleiman,onepiece_wiki
+480,221,Shugā,onepiece_wiki
+481,221,Hobi Hobi no Mi,onepiece_wiki
+482,221,Sugar,onepiece_wiki
+483,222,Sugamichi and Warazane,onepiece_wiki
+484,222,Sugamichi; Warazane,onepiece_wiki
+485,223,Su,onepiece_wiki
+486,223,Sū,onepiece_wiki
+487,224,Sutyūshī,onepiece_wiki
+488,224,Stussy,onepiece_wiki
+489,225,Strongheart,onepiece_wiki
+490,225,"Uma Uma no Mi, Model: Pegasus",onepiece_wiki
+491,225,Stronger,onepiece_wiki
+492,225,Sutorongā,onepiece_wiki
+493,226,Stroganoff,onepiece_wiki
+494,226,Sutoroganofu,onepiece_wiki
+495,227,Shutoroizen,onepiece_wiki
+496,227,Streusen,onepiece_wiki
+497,227,Kuku Kuku no Mi,onepiece_wiki
+498,228,Sutoroberī,onepiece_wiki
+499,228,Strawberry,onepiece_wiki
+500,229,Staybe,onepiece_wiki
+501,229,Suteibī,onepiece_wiki
+502,229,Stevie,onepiece_wiki
+503,230,Sterry,onepiece_wiki
+504,230,StellySterry,onepiece_wiki
+505,230,Suterī,onepiece_wiki
+506,231,Sutefan,onepiece_wiki
+507,231,Stefan,onepiece_wiki
+508,231,Stephen,onepiece_wiki
+509,232,Sutōkā,onepiece_wiki
+510,232,Stalker,onepiece_wiki
+511,233,Stansen,onepiece_wiki
+512,233,Sutansen,onepiece_wiki
+513,234,Sukuādo,onepiece_wiki
+514,234,Squard,onepiece_wiki
+515,235,Spoil,onepiece_wiki
+516,235,Supoiru,onepiece_wiki
+517,236,Splash and Splatter,onepiece_wiki
+518,236,Splash and SplattaSplash and Splatter,onepiece_wiki
+519,236,Supurasshu to Supuratta,onepiece_wiki
+520,237,Suterusu Burakku,onepiece_wiki
+521,237,Stealth Black,onepiece_wiki
+522,238,Stainless,onepiece_wiki
+523,238,Sutenresu,onepiece_wiki
+524,239,Sufinkusu,onepiece_wiki
+525,239,Sphinx,onepiece_wiki
+526,240,Supensā,onepiece_wiki
+527,240,Spencer,onepiece_wiki
+528,241,Speed,onepiece_wiki
+529,241,Supīdo,onepiece_wiki
+530,242,Supekutoru,onepiece_wiki
+531,242,Spector,onepiece_wiki
+532,243,Kokoa Wīdo,onepiece_wiki
+533,243,Cocoa Weed,onepiece_wiki
+534,244,Supandain,onepiece_wiki
+535,244,Spandine,onepiece_wiki
+536,245,Speed Jiru,onepiece_wiki
+537,245,Speed Jil,onepiece_wiki
+538,245,Supīdo Jiru,onepiece_wiki
+539,246,Supandamu,onepiece_wiki
+540,246,Spandam,onepiece_wiki
+541,247,Spacey,onepiece_wiki
+542,247,Supēshī Chūi,onepiece_wiki
+543,248,Soro,onepiece_wiki
+544,248,Solo,onepiece_wiki
+545,248,Sōro,onepiece_wiki
+546,249,Suparutan,onepiece_wiki
+547,249,Spartan,onepiece_wiki
+548,250,Sora,onepiece_wiki
+549,251,Sora,onepiece_wiki
+550,251,Sola,onepiece_wiki
+551,252,Sonieh,onepiece_wiki
+552,252,Sonie,onepiece_wiki
+553,253,Some,onepiece_wiki
+554,253,O-Some,onepiece_wiki
+555,253,Osome,onepiece_wiki
+556,254,Sodomu,onepiece_wiki
+557,254,Sodom,onepiece_wiki
+558,255,Solitaire,onepiece_wiki
+559,255,Soritia,onepiece_wiki
+560,256,Sunēkuman,onepiece_wiki
+561,256,Snakeman,onepiece_wiki
+562,257,Smooge,onepiece_wiki
+563,257,Sumūji,onepiece_wiki
+564,257,Smoothie,onepiece_wiki
+565,257,Smoothy,onepiece_wiki
+566,258,Moku Moku no Mi,onepiece_wiki
+567,258,Sumōkā,onepiece_wiki
+568,258,Smoker,onepiece_wiki
+569,259,Smiley,onepiece_wiki
+570,259,"Sara Sara no Mi, Model: Axolotl",onepiece_wiki
+571,259,Sumairī,onepiece_wiki
+572,260,Sleepy,onepiece_wiki
+573,260,Surīpī,onepiece_wiki
+574,261,Skull,onepiece_wiki
+575,261,Sukaru,onepiece_wiki
+576,262,Shindo,onepiece_wiki
+577,262,Sind,onepiece_wiki
+578,262,Synd,onepiece_wiki
+579,263,Rocks Pirates,onepiece_wiki
+580,263,Rokkusu Kaizokudan,onepiece_wiki
+581,264,Silvers Rayleigh,onepiece_wiki
+582,264,Shirubāzu Reirī,onepiece_wiki
+583,265,Shishirī,onepiece_wiki
+584,265,Sicily,onepiece_wiki
+585,266,SharleyShirley,onepiece_wiki
+586,266,Shyarly,onepiece_wiki
+587,266,Shārī,onepiece_wiki
+588,267,Shura,onepiece_wiki
+589,268,Shū,onepiece_wiki
+590,268,Shu,onepiece_wiki
+591,268,Sabi Sabi no Mi,onepiece_wiki
+592,269,Shojoe,onepiece_wiki
+593,269,Shoujou,onepiece_wiki
+594,269,Shojo,onepiece_wiki
+595,269,Shōjō,onepiece_wiki
+596,270,Shishirian,onepiece_wiki
+597,270,Shishilian,onepiece_wiki
+598,271,Suke Suke no Mi,onepiece_wiki
+599,271,Shiryu,onepiece_wiki
+600,271,Shiryū,onepiece_wiki
+601,271,ShiryuShiliew,onepiece_wiki
+602,272,"""Poseidon"" (ポセイドン, Poseidon?)",onepiece_wiki
+603,272,Shirahoshi,onepiece_wiki
+604,273,Saltgrill,onepiece_wiki
+605,273,Shioyaki,onepiece_wiki
+606,274,Shion,onepiece_wiki
+607,275,Shinobu,onepiece_wiki
+608,275,Juku Juku no Mi,onepiece_wiki
+609,276,Shinosuke,onepiece_wiki
+610,277,Shine,onepiece_wiki
+611,277,Shain,onepiece_wiki
+612,278,Stella Live,onepiece_wiki
+613,278,Shin Detamaruka,onepiece_wiki
+614,279,Staya Live,onepiece_wiki
+615,279,Shin Jaiya,onepiece_wiki
+616,280,"""Tonoyasu"" (トの康, Tonoyasu?)",onepiece_wiki
+617,280,Shimotsuki Yasuie,onepiece_wiki
+618,281,St. Shepherd Ju Peter,onepiece_wiki
+619,281,Shepherd Ju Peter,onepiece_wiki
+620,281,Shepādo Jū Pītā Sei,onepiece_wiki
+621,282,Shimotsuki Kozaburo,onepiece_wiki
+622,282,Shimotsuki Kōzaburō,onepiece_wiki
+623,283,Shimotsuki Kuina,onepiece_wiki
+624,284,Shimotsuki Koshiro,onepiece_wiki
+625,284,Shimotsuki Kōshirō,onepiece_wiki
+626,284,Shimotsuki Koushirou,onepiece_wiki
+627,284,Koushirou,onepiece_wiki
+628,285,Shimotsuki Furiko,onepiece_wiki
+629,286,Fuwa Fuwa no Mi,onepiece_wiki
+630,286,Shiki,onepiece_wiki
+631,287,Shimotsuki Ushimaru,onepiece_wiki
+632,288,Sheepshead,onepiece_wiki
+633,288,Shīpusuheddo,onepiece_wiki
+634,289,Sharinguru,onepiece_wiki
+635,289,Sharingle,onepiece_wiki
+636,289,Shari Shari no Mi,onepiece_wiki
+637,290,Shankusu,onepiece_wiki
+638,290,Shanks,onepiece_wiki
+639,291,Shandia Chief,onepiece_wiki
+640,291,Shandia Shūchō,onepiece_wiki
+641,292,Shimotsuki Ryuma,onepiece_wiki
+642,292,Shimotsuki Ryūma,onepiece_wiki
+643,293,Shanba,onepiece_wiki
+644,293,Shamba,onepiece_wiki
+645,294,Sherī,onepiece_wiki
+646,294,Shelly,onepiece_wiki
+647,294,Sherry,onepiece_wiki
+648,295,Sham,onepiece_wiki
+649,295,Shamu,onepiece_wiki
+650,295,SiamSham,onepiece_wiki
+651,296,Saint Shalria,onepiece_wiki
+652,296,Sharuria Gū,onepiece_wiki
+653,296,Shalria,onepiece_wiki
+654,297,Shakuyaku,onepiece_wiki
+655,297,"""Shakky"" (シャッキー, Shakkī?)",onepiece_wiki
+656,298,Seto,onepiece_wiki
+657,299,Shachi,onepiece_wiki
+658,300,Shaka,onepiece_wiki
+659,301,Sentōmaru,onepiece_wiki
+660,301,Sentomaru,onepiece_wiki
+661,302,Sui Sui no Mi,onepiece_wiki
+662,302,Senyōru Pinku,onepiece_wiki
+663,302,Señor Pink,onepiece_wiki
+664,302,Senor Pink,onepiece_wiki
+665,303,Sennorikyuru,onepiece_wiki
+666,303,Sen'norikyūru,onepiece_wiki
+667,303,Sen-no-Rikyuru,onepiece_wiki
+668,304,Serizawa,onepiece_wiki
+669,305,Sengoku,onepiece_wiki
+670,305,"Hito Hito no Mi, Model: Daibutsu",onepiece_wiki
+671,306,Shīmāzu,onepiece_wiki
+672,306,Seamars,onepiece_wiki
+673,307,Seki,onepiece_wiki
+674,308,Seira,onepiece_wiki
+675,309,Seagull Guns Nozdon,onepiece_wiki
+676,309,Shīgaru Ganzu Nozudon,onepiece_wiki
+677,309,Seagull Ganz Nozudon,onepiece_wiki
+678,310,Seaboar,onepiece_wiki
+679,310,Sea Boar,onepiece_wiki
+680,310,Umi Inoshishi,onepiece_wiki
+681,311,Sukotchi,onepiece_wiki
+682,311,Scotch,onepiece_wiki
+683,312,Ieti Kūru Burazāzu,onepiece_wiki
+684,312,イエティ COOL（クール） BROTHERS（ブラザーズ）,onepiece_wiki
+685,312,Yeti Cool Brothers,onepiece_wiki
+686,313,Scratchmen Apoo,onepiece_wiki
+687,313,Oto Oto no Mi,onepiece_wiki
+688,313,Sukuratchimen Apū,onepiece_wiki
+689,314,Schollzo,onepiece_wiki
+690,314,Shoruzō,onepiece_wiki
+691,315,Scopper Gaban,onepiece_wiki
+692,315,Sukoppā Gyaban,onepiece_wiki
+693,316,Scarlet,onepiece_wiki
+694,316,Scarlett,onepiece_wiki
+695,316,Sukāretto,onepiece_wiki
+696,317,Sōsu,onepiece_wiki
+697,317,Sauce,onepiece_wiki
+698,318,Satori,onepiece_wiki
+699,319,Sarū,onepiece_wiki
+700,319,Saru,onepiece_wiki
+701,319,Salou,onepiece_wiki
+702,319,Saruu,onepiece_wiki
+703,320,Sarutobi,onepiece_wiki
+704,321,Sāfankuru,onepiece_wiki
+705,321,Sarfunkel,onepiece_wiki
+706,322,Sarquiss,onepiece_wiki
+707,322,Sākīsu,onepiece_wiki
+708,323,Sarī Nantokanetto,onepiece_wiki
+709,323,Sarie Nantokanette,onepiece_wiki
+710,323,Sally Isntoinette,onepiece_wiki
+711,324,Sapee,onepiece_wiki
+712,324,Sapī,onepiece_wiki
+713,324,Sapi,onepiece_wiki
+714,325,Snake SMILE,onepiece_wiki
+715,325,Sarahebi,onepiece_wiki
+716,326,"""Mr. Prince"" (Mr. プリンス, Misutā Purinsu?)""San-gorou"" (サン五郎, Sangorō?, English versions: Sangoro)""Osoba-mask"" (おそばマスク, O-Soba Masuku?, English versions: ""Soba Mask"")",onepiece_wiki
+717,326,Sanji,onepiece_wiki
+718,327,Sanfan Urufu,onepiece_wiki
+719,327,Deka Deka no Mi,onepiece_wiki
+720,327,Sanjuan Wolf,onepiece_wiki
+721,327,San Juan Wolf,onepiece_wiki
+722,328,Sasaki,onepiece_wiki
+723,328,"Ryu Ryu no Mi, Model: Triceratops",onepiece_wiki
+724,329,Samurai Battsu,onepiece_wiki
+725,329,Samurai Batts,onepiece_wiki
+726,330,Thanklin,onepiece_wiki
+727,330,Sankurin,onepiece_wiki
+728,330,Sancrin,onepiece_wiki
+729,331,Samu-san,onepiece_wiki
+730,331,Sam,onepiece_wiki
+731,332,Samosa,onepiece_wiki
+732,333,Sandayu,onepiece_wiki
+733,333,Sandayū,onepiece_wiki
+734,334,Sarome,onepiece_wiki
+735,334,Salome,onepiece_wiki
+736,335,O-Saki,onepiece_wiki
+737,335,Saki,onepiece_wiki
+738,335,Osaki,onepiece_wiki
+739,336,Saikoro,onepiece_wiki
+740,337,Sakazuki,onepiece_wiki
+741,337,"Akainu (赤犬, Akainu?, literally meaning ""Red Dog"")",onepiece_wiki
+742,337,Magu Magu no Mi,onepiece_wiki
+743,338,Sadi-chan,onepiece_wiki
+744,338,Sadi,onepiece_wiki
+745,338,Sadie,onepiece_wiki
+746,339,Saldeath,onepiece_wiki
+747,339,Sarudesu,onepiece_wiki
+748,340,Sai,onepiece_wiki
+749,341,Seibā,onepiece_wiki
+750,341,Saber,onepiece_wiki
+751,342,S-Snake,onepiece_wiki
+752,342,Esu-Sunēku,onepiece_wiki
+753,342,Mero Mero no Mi (Artificial),onepiece_wiki
+754,343,Sabo,onepiece_wiki
+755,343,"Lucy (ルｰシｰ, Rūshī?)",onepiece_wiki
+756,343,Mera Mera no Mi,onepiece_wiki
+757,344,Esu-Shāku,onepiece_wiki
+758,344,Sui Sui no Mi (Artificial),onepiece_wiki
+759,344,S-Shark,onepiece_wiki
+760,345,S-Hawk,onepiece_wiki
+761,345,Supa Supa no Mi (Artifical),onepiece_wiki
+762,345,Esu-Hōku,onepiece_wiki
+763,346,Nikyu Nikyu no Mi (Artificial),onepiece_wiki
+764,346,Esu-Bea,onepiece_wiki
+765,346,S-Bear,onepiece_wiki
+766,347,Ryunosuke,onepiece_wiki
+767,347,Ryūnosuke,onepiece_wiki
+768,348,Ryūboshi,onepiece_wiki
+769,348,Ryuboshi,onepiece_wiki
+770,349,Rushian,onepiece_wiki
+771,349,Russian,onepiece_wiki
+772,350,Rasshu,onepiece_wiki
+773,350,Rush,onepiece_wiki
+774,351,Lun,onepiece_wiki
+775,351,Run,onepiece_wiki
+776,352,Roxanne,onepiece_wiki
+777,352,Rokusānu,onepiece_wiki
+778,353,Lowwing,onepiece_wiki
+779,353,Rowing,onepiece_wiki
+780,353,Rо̄wingu,onepiece_wiki
+781,354,Rosu,onepiece_wiki
+782,354,Ross,onepiece_wiki
+783,355,Rozuwādo Sei,onepiece_wiki
+784,355,RoswaldRosward,onepiece_wiki
+785,355,Rosward,onepiece_wiki
+786,356,Roronoa Pinzoro,onepiece_wiki
+787,356,Roronoa Pinzolo,onepiece_wiki
+788,357,Roronoa Zoro,onepiece_wiki
+789,357,Roronoa Zolo,onepiece_wiki
+790,357,"""Zoro-juurou"" (ゾロ十郎, Zorojūrō?, Funimation: Zorojuro, VIZ Media: ""Zolojuro"")",onepiece_wiki
+791,358,Rolling Logan,onepiece_wiki
+792,358,Rōringu Rōgan,onepiece_wiki
+793,359,Rokki,onepiece_wiki
+794,360,Roshio,onepiece_wiki
+795,361,Roji,onepiece_wiki
+796,362,Rokkaku,onepiece_wiki
+797,363,Roronoa Arashi,onepiece_wiki
+798,364,Rodi,onepiece_wiki
+799,364,Roddy,onepiece_wiki
+800,365,Rokkusutā,onepiece_wiki
+801,365,Rockstar,onepiece_wiki
+802,366,ロックス・D（ディー）・ジーベック,onepiece_wiki
+803,366,Rox,onepiece_wiki
+804,366,Rocks D. Xebec,onepiece_wiki
+805,366,Rokkusu Dī Jībekku,onepiece_wiki
+806,367,Roshu,onepiece_wiki
+807,367,Roche,onepiece_wiki
+808,368,Road,onepiece_wiki
+809,368,Rōdo,onepiece_wiki
+810,368,Rodo,onepiece_wiki
+811,369,Rob Lucci,onepiece_wiki
+812,369,Robu Rutchi,onepiece_wiki
+813,369,"Neko Neko no Mi, Model: Leopard",onepiece_wiki
+814,370,Rivāzu,onepiece_wiki
+815,370,Rivers,onepiece_wiki
+816,371,Risky Brothers,onepiece_wiki
+817,371,Risukī Kyōdai,onepiece_wiki
+818,372,Robuson,onepiece_wiki
+819,372,Robson,onepiece_wiki
+820,373,Rint,onepiece_wiki
+821,373,Rinto,onepiece_wiki
+822,373,Lint,onepiece_wiki
+823,374,Rippā,onepiece_wiki
+824,374,Ripper,onepiece_wiki
+825,375,リク・ドルド3世,onepiece_wiki
+826,375,Riku Doldo III,onepiece_wiki
+827,375,"""Ricky"" (リッキー, Rikkī?)",onepiece_wiki
+828,375,Riku Dorudo Sansei,onepiece_wiki
+829,376,Rika,onepiece_wiki
+830,377,Ririka,onepiece_wiki
+831,378,Roidā,onepiece_wiki
+832,378,Reuder,onepiece_wiki
+833,379,Rindō,onepiece_wiki
+834,379,Rindo,onepiece_wiki
+835,380,Red King,onepiece_wiki
+836,380,Reddokingu,onepiece_wiki
+837,381,Riforuto,onepiece_wiki
+838,381,Reforte,onepiece_wiki
+839,382,Richie,onepiece_wiki
+840,382,Ritchī,onepiece_wiki
+841,383,Rebecca,onepiece_wiki
+842,383,Rebekka,onepiece_wiki
+843,384,Recycle-Wan,onepiece_wiki
+844,384,Risaikuruwan,onepiece_wiki
+845,384,Recycollie,onepiece_wiki
+846,385,Ranguramu,onepiece_wiki
+847,385,Rangram,onepiece_wiki
+848,385,Langram,onepiece_wiki
+849,386,Reck,onepiece_wiki
+850,386,Wreck,onepiece_wiki
+851,386,Rekku,onepiece_wiki
+852,387,Ran,onepiece_wiki
+853,388,Randorufu,onepiece_wiki
+854,388,Randolph,onepiece_wiki
+855,389,Rāmen,onepiece_wiki
+856,389,Ramen,onepiece_wiki
+857,390,Ranpō,onepiece_wiki
+858,390,Rampo,onepiece_wiki
+859,391,Ratel,onepiece_wiki
+860,391,Rāteru,onepiece_wiki
+861,392,Ramba,onepiece_wiki
+862,392,Ranba,onepiece_wiki
+863,393,Rakuyō,onepiece_wiki
+864,393,Rakuyo,onepiece_wiki
+865,394,Laki,onepiece_wiki
+866,394,Raki,onepiece_wiki
+867,395,Rakuda,onepiece_wiki
+868,396,Raizō,onepiece_wiki
+869,396,Maki Maki no Mi,onepiece_wiki
+870,396,Raizo,onepiece_wiki
+871,397,Raccoon,onepiece_wiki
+872,397,Rakūn,onepiece_wiki
+873,398,RabianRabiyan,onepiece_wiki
+874,398,Rabiyan,onepiece_wiki
+875,399,Raijin,onepiece_wiki
+876,400,Rabittoman,onepiece_wiki
+877,400,Rabbitman,onepiece_wiki
+878,400,SMILE,onepiece_wiki
+879,401,Raidīn,onepiece_wiki
+880,401,Raideen,onepiece_wiki
+881,401,Rydin,onepiece_wiki
+882,402,Quincy,onepiece_wiki
+883,402,Kuinshī,onepiece_wiki
+884,403,"Ryu Ryu no Mi, Model: Brachiosaurus",onepiece_wiki
+885,403,Queen,onepiece_wiki
+886,403,Kuīn,onepiece_wiki
+887,404,Pururu,onepiece_wiki
+888,405,Queen Mama Chanter,onepiece_wiki
+889,405,Kuīn Mama Shante-gō,onepiece_wiki
+890,406,Pacifista,onepiece_wiki
+891,406,Pashifisuta,onepiece_wiki
+892,407,Pitagorasu,onepiece_wiki
+893,407,Pythagoras,onepiece_wiki
+894,408,Puppū,onepiece_wiki
+895,408,Puppu,onepiece_wiki
+896,409,Pudos,onepiece_wiki
+897,409,Pudosu,onepiece_wiki
+898,410,Pudding Pudding,onepiece_wiki
+899,410,Purinpurin,onepiece_wiki
+900,411,Purinsu Gurusu,onepiece_wiki
+901,411,Gunyo Gunyo no Mi,onepiece_wiki
+902,411,Prince Grus,onepiece_wiki
+903,412,Paundo,onepiece_wiki
+904,412,Pound,onepiece_wiki
+905,413,Potsun,onepiece_wiki
+906,413,Potsūn,onepiece_wiki
+907,414,Portgaz D. Rouge,onepiece_wiki
+908,414,ポートガス・D（ディー）・ルージュ,onepiece_wiki
+909,414,Pōtogasu Dī Rūju,onepiece_wiki
+910,414,Portgas D. Rouge,onepiece_wiki
+911,415,Prometheus,onepiece_wiki
+912,415,Purometeusu,onepiece_wiki
+913,416,Portgaz D. Ace,onepiece_wiki
+914,416,Portgaz D. Trace,onepiece_wiki
+915,416,Pōtogasu Dī Ēsu,onepiece_wiki
+916,416,Portgas D. Ace,onepiece_wiki
+917,416,Mera Mera no Mi,onepiece_wiki
+918,417,Potaufeu,onepiece_wiki
+919,417,Potofu,onepiece_wiki
+920,418,Poro,onepiece_wiki
+921,419,Porushēmi,onepiece_wiki
+922,419,Porchemy,onepiece_wiki
+923,420,Poruche,onepiece_wiki
+924,420,Porche,onepiece_wiki
+925,421,Popī,onepiece_wiki
+926,421,Poppy,onepiece_wiki
+927,422,Poppoko,onepiece_wiki
+928,423,Ponsukī,onepiece_wiki
+929,423,Pomsky,onepiece_wiki
+930,424,Poker,onepiece_wiki
+931,424,Pōkā,onepiece_wiki
+932,425,Pluming,onepiece_wiki
+933,425,Saint Pluming,onepiece_wiki
+934,425,Purumingu Sei,onepiece_wiki
+935,426,Pisaro,onepiece_wiki
+936,427,Piiman,onepiece_wiki
+937,427,PepperPieman,onepiece_wiki
+938,427,Pīman,onepiece_wiki
+939,428,Pinky,onepiece_wiki
+940,428,Pinkī,onepiece_wiki
+941,429,Pierre,onepiece_wiki
+942,429,Piēru,onepiece_wiki
+943,429,Uma Uma no Mi,onepiece_wiki
+944,430,Pump,onepiece_wiki
+945,430,Ponpu,onepiece_wiki
+946,430,Pomp,onepiece_wiki
+947,431,Pikurusu,onepiece_wiki
+948,431,Pickles,onepiece_wiki
+949,432,Paiku,onepiece_wiki
+950,432,Pike,onepiece_wiki
+951,433,Pīka,onepiece_wiki
+952,433,Ishi Ishi no Mi,onepiece_wiki
+953,433,Pica,onepiece_wiki
+954,434,Perōna,onepiece_wiki
+955,434,Perona,onepiece_wiki
+956,434,Horo Horo no Mi,onepiece_wiki
+957,435,Peterman,onepiece_wiki
+958,435,Pītāman,onepiece_wiki
+959,436,Peppoko,onepiece_wiki
+960,437,Pengin,onepiece_wiki
+961,437,Penguin,onepiece_wiki
+962,438,Pītāmū,onepiece_wiki
+963,438,Petermoo,onepiece_wiki
+964,438,Peetamu,onepiece_wiki
+965,439,Pellini,onepiece_wiki
+966,439,Perīni,onepiece_wiki
+967,440,Pekoms,onepiece_wiki
+968,440,Kame Kame no Mi,onepiece_wiki
+969,440,Pekomuzu,onepiece_wiki
+970,440,"""Nazoms"" (ナゾムズ, Nazomuzu?, Viz: ""Mystoms"")",onepiece_wiki
+971,441,Peru,onepiece_wiki
+972,441,Pell,onepiece_wiki
+973,441,"Tori Tori no Mi, Model: Falcon",onepiece_wiki
+974,442,Pekkori,onepiece_wiki
+975,443,Peepley Lulu,onepiece_wiki
+976,443,Pīpurī Ruru,onepiece_wiki
+977,444,Pearl,onepiece_wiki
+978,444,Pāru,onepiece_wiki
+979,445,Pavlik,onepiece_wiki
+980,445,Paburiku,onepiece_wiki
+981,446,Momohige,onepiece_wiki
+982,446,Peachbeard,onepiece_wiki
+983,447,Pedoro,onepiece_wiki
+984,447,Pedro,onepiece_wiki
+985,448,Pauly,onepiece_wiki
+986,448,Paurī,onepiece_wiki
+987,448,Paulie,onepiece_wiki
+988,449,Pashia,onepiece_wiki
+989,449,Pascia,onepiece_wiki
+990,449,Pasia,onepiece_wiki
+991,450,Pati,onepiece_wiki
+992,450,Patty,onepiece_wiki
+993,451,Papas,onepiece_wiki
+994,451,Papasu,onepiece_wiki
+995,452,Pappag,onepiece_wiki
+996,452,Pappagu,onepiece_wiki
+997,453,Pansy,onepiece_wiki
+998,453,Panjī,onepiece_wiki
+999,454,Justy Tinbread,onepiece_wiki
+1000,454,Pankūta Dakeyan,onepiece_wiki
+1001,454,Pankuta Dakeyan,onepiece_wiki
+1002,455,Pandora,onepiece_wiki
+1003,456,Pandawoman,onepiece_wiki
+1004,456,Pandaūmanmi,onepiece_wiki
+1005,456,Pandawomanmi,onepiece_wiki
+1006,457,Pandaman,onepiece_wiki
+1007,457,Panda ManPandaman,onepiece_wiki
+1008,458,Papaneel,onepiece_wiki
+1009,458,Papanīru,onepiece_wiki
+1010,459,"Ryu Ryu no Mi, Model: Spinosaurus",onepiece_wiki
+1011,459,Pējiwan,onepiece_wiki
+1012,459,Page One,onepiece_wiki
+1013,460,アウトルック3世,onepiece_wiki
+1014,460,Autorukku Sansei,onepiece_wiki
+1015,460,Outlook III,onepiece_wiki
+1016,461,Pagaya,onepiece_wiki
+1017,462,Ossamond,onepiece_wiki
+1018,462,Ossamondo,onepiece_wiki
+1019,463,Otohime,onepiece_wiki
+1020,464,Palms,onepiece_wiki
+1021,464,Pāmusu,onepiece_wiki
+1022,465,Orlumbus,onepiece_wiki
+1023,465,Olombus,onepiece_wiki
+1024,465,Ōronbusu,onepiece_wiki
+1025,466,Oran,onepiece_wiki
+1026,467,Onigumo,onepiece_wiki
+1027,468,Ōmasa,onepiece_wiki
+1028,468,Omasa,onepiece_wiki
+1029,468,Ohmasa,onepiece_wiki
+1030,469,"Gyukimaru (牛鬼丸, Gyūkimaru?)",onepiece_wiki
+1031,469,Onimaru,onepiece_wiki
+1032,469,"Hito Hito no Mi, Model: Onyudo",onepiece_wiki
+1033,470,Oliva,onepiece_wiki
+1034,470,Oriba,onepiece_wiki
+1035,471,Oli,onepiece_wiki
+1036,471,Crone Oli,onepiece_wiki
+1037,471,Ori-bā,onepiece_wiki
+1038,472,Okame,onepiece_wiki
+1039,473,Oimo,onepiece_wiki
+1040,474,Ryce,onepiece_wiki
+1041,474,Okome,onepiece_wiki
+1042,475,Oidē,onepiece_wiki
+1043,475,Oide,onepiece_wiki
+1044,476,Ōmu,onepiece_wiki
+1045,476,Ohm,onepiece_wiki
+1046,477,Ōchoku,onepiece_wiki
+1047,477,Ochoku,onepiece_wiki
+1048,477,Wang Zhi,onepiece_wiki
+1049,478,Octopako,onepiece_wiki
+1050,478,Okutopako,onepiece_wiki
+1051,479,Ōzu,onepiece_wiki
+1052,479,Oars,onepiece_wiki
+1053,480,Calicoach,onepiece_wiki
+1054,480,Nyasha,onepiece_wiki
+1055,481,Nugire Yainu,onepiece_wiki
+1056,481,Snott Mee,onepiece_wiki
+1057,482,Nūbon,onepiece_wiki
+1058,482,Nubon,onepiece_wiki
+1059,483,Nosgarl,onepiece_wiki
+1060,483,Nosugāru,onepiece_wiki
+1061,484,Noriko,onepiece_wiki
+1062,485,Nola,onepiece_wiki
+1063,485,Nora,onepiece_wiki
+1064,486,Nora-Gitsune,onepiece_wiki
+1065,486,Stray Fox,onepiece_wiki
+1066,487,Nure-Onna,onepiece_wiki
+1067,488,Nojiko,onepiece_wiki
+1068,489,Noble Croc,onepiece_wiki
+1069,489,Aristocroc,onepiece_wiki
+1070,489,Kizoku Wani,onepiece_wiki
+1071,490,Nitoro,onepiece_wiki
+1072,490,Nitro,onepiece_wiki
+1073,491,Ninth,onepiece_wiki
+1074,491,Nainsu,onepiece_wiki
+1075,492,Nika,onepiece_wiki
+1076,493,CarrotNinjin,onepiece_wiki
+1077,493,Ninjin,onepiece_wiki
+1078,494,Nokotti,onepiece_wiki
+1079,495,Hana Hana no Mi,onepiece_wiki
+1080,495,"""Miss All Sunday"" (ミス・オールサンデー, Misu Ōrusandē?, Ms. Sunday (4Kids dub)) (former)""O-Robi"" (おロビ, Orobi?, English versions: ""Orobi"")",onepiece_wiki
+1081,495,Niko Robin,onepiece_wiki
+1082,495,Nico Robin,onepiece_wiki
+1083,496,Abscondo,onepiece_wiki
+1084,496,Nigeratta,onepiece_wiki
+1085,497,Nico Olvia,onepiece_wiki
+1086,497,Niko Orubia,onepiece_wiki
+1087,498,Nero,onepiece_wiki
+1088,499,St. Imu,onepiece_wiki
+1089,499,Nerona Imu,onepiece_wiki
+1090,499,Imu Sei,onepiece_wiki
+1091,500,Nezumi,onepiece_wiki
+1092,501,Nerine,onepiece_wiki
+1093,502,Nepuchūn,onepiece_wiki
+1094,502,Neptune,onepiece_wiki
+1095,503,Brush-Brush Fruit,onepiece_wiki
+1096,503,Fude Fude no Mi,onepiece_wiki
+1097,504,Cat ViperNekomamushi,onepiece_wiki
+1098,504,Nekomamushi,onepiece_wiki
+1099,505,Negikuma Maria,onepiece_wiki
+1100,505,Maria Onion Bear,onepiece_wiki
+1101,505,Mrs. Negi,onepiece_wiki
+1102,506,Negī,onepiece_wiki
+1103,506,Neggy,onepiece_wiki
+1104,507,ネフェルタリ・D（ディー）・リリィ,onepiece_wiki
+1105,507,Neferutari Dī Rirī,onepiece_wiki
+1106,507,Nefertari D. Lili,onepiece_wiki
+1107,507,Nefeltari D. Lily,onepiece_wiki
+1108,508,Nefertari Titi,onepiece_wiki
+1109,508,Nefeltari Titi,onepiece_wiki
+1110,508,Neferutari Titi,onepiece_wiki
+1111,509,"""Miss Wednesday"" (ミス・ウェンズデー, Misu Wenzudē?),""Ms. Wednesday"" (4Kids dub)",onepiece_wiki
+1112,509,Vivi Nefertari,onepiece_wiki
+1113,509,Nefeltari Vivi,onepiece_wiki
+1114,509,Neferutari Bibi,onepiece_wiki
+1115,509,Nefertari Vivi,onepiece_wiki
+1116,510,Neferutari Kobura,onepiece_wiki
+1117,510,Nefertari Cobra,onepiece_wiki
+1118,510,Nefeltari Cobra,onepiece_wiki
+1119,510,Nefeltari Nebra,onepiece_wiki
+1120,511,Nazu Ketagāri,onepiece_wiki
+1121,511,Nay Mingheim,onepiece_wiki
+1122,511,Nazu Ketagari,onepiece_wiki
+1123,512,Nashi,onepiece_wiki
+1124,513,Nangi,onepiece_wiki
+1125,514,Namur,onepiece_wiki
+1126,514,Namule,onepiece_wiki
+1127,514,Namyūru,onepiece_wiki
+1128,515,Nami,onepiece_wiki
+1129,515,"""Namizo"" (ナミゾウ, Namizō?)""O-Nami"" (おナミ, Onami?, English versions: ""Onami"")",onepiece_wiki
+1130,516,Nako,onepiece_wiki
+1131,516,Nakō,onepiece_wiki
+1132,517,Nattō,onepiece_wiki
+1133,517,Natto,onepiece_wiki
+1134,518,Mjure,onepiece_wiki
+1135,518,Myure,onepiece_wiki
+1136,518,Muret,onepiece_wiki
+1137,519,Naporeon,onepiece_wiki
+1138,519,Napoleon,onepiece_wiki
+1139,520,Mamī,onepiece_wiki
+1140,520,Mummy,onepiece_wiki
+1141,521,Myuguren Taisa,onepiece_wiki
+1142,521,Muegren,onepiece_wiki
+1143,521,Mugren,onepiece_wiki
+1144,522,Sawyer Wayback,onepiece_wiki
+1145,522,Mukkashimi Tawā,onepiece_wiki
+1146,522,Mukkashimi Tower,onepiece_wiki
+1147,523,Muchanā,onepiece_wiki
+1148,523,Muchana,onepiece_wiki
+1149,523,Notta Magician,onepiece_wiki
+1150,524,Mamīmī,onepiece_wiki
+1151,524,Mameemee,onepiece_wiki
+1152,524,Mummy Mee,onepiece_wiki
+1153,525,Misutā Shimizu,onepiece_wiki
+1154,525,Mr.シミズ,onepiece_wiki
+1155,525,Mr. Shimizu,onepiece_wiki
+1156,526,Mr. Momora,onepiece_wiki
+1157,526,Mr.（ミスター） モモラ,onepiece_wiki
+1158,526,Misutā Momora,onepiece_wiki
+1159,527,Mr. Melow,onepiece_wiki
+1160,527,Mr. メロウ,onepiece_wiki
+1161,527,Mr. Mellow,onepiece_wiki
+1162,527,Misutā Merō,onepiece_wiki
+1163,528,Misutā Rabu,onepiece_wiki
+1164,528,Mr.ラブ,onepiece_wiki
+1165,528,Mr. Love,onepiece_wiki
+1166,529,Misutā Bīnzu,onepiece_wiki
+1167,529,Mr. Beans,onepiece_wiki
+1168,530,Mr. 13,onepiece_wiki
+1169,530,Misutā Sātīn,onepiece_wiki
+1170,531,Mr. 11,onepiece_wiki
+1171,531,Misutā Irebun,onepiece_wiki
+1172,532,Mr. 10,onepiece_wiki
+1173,532,Misutā Ten,onepiece_wiki
+1174,533,Mr. 7,onepiece_wiki
+1175,533,Misutā Sebun,onepiece_wiki
+1176,534,Mr. 12,onepiece_wiki
+1177,534,Misutā Tuerubu,onepiece_wiki
+1178,535,Mr. 9（ミスター・ナイン）,onepiece_wiki
+1179,535,Misutā Nain,onepiece_wiki
+1180,536,Mr. 6,onepiece_wiki
+1181,536,Misutā Shikkusu,onepiece_wiki
+1182,537,Moyle,onepiece_wiki
+1183,537,Moiru,onepiece_wiki
+1184,538,Mozanbia,onepiece_wiki
+1185,538,Mozambia,onepiece_wiki
+1186,539,Mountain Ricky,onepiece_wiki
+1187,539,Maunten Rikkī,onepiece_wiki
+1188,540,Maunburuten,onepiece_wiki
+1189,540,Mounbleten,onepiece_wiki
+1190,540,Mounblutain,onepiece_wiki
+1191,541,Mr. Motzel,onepiece_wiki
+1192,541,Mottseru Ojisan,onepiece_wiki
+1193,541,Motzel,onepiece_wiki
+1194,542,Mausuman,onepiece_wiki
+1195,542,Mouseman,onepiece_wiki
+1196,542,Mouse-Man,onepiece_wiki
+1197,543,Mousse,onepiece_wiki
+1198,543,Musse,onepiece_wiki
+1199,543,Mūsu,onepiece_wiki
+1200,544,Motobalo,onepiece_wiki
+1201,544,Motobaro,onepiece_wiki
+1202,545,Mountain God,onepiece_wiki
+1203,545,Yama no Kami,onepiece_wiki
+1204,546,Morollon,onepiece_wiki
+1205,546,Mororon,onepiece_wiki
+1206,547,Mosshu,onepiece_wiki
+1207,547,Mosh,onepiece_wiki
+1208,548,Morley,onepiece_wiki
+1209,548,Mōrī,onepiece_wiki
+1210,548,Oshi Oshi no Mi,onepiece_wiki
+1211,549,Moruganzu,onepiece_wiki
+1212,549,"Tori Tori no Mi, Model: Albatross",onepiece_wiki
+1213,549,Morgans,onepiece_wiki
+1214,550,Morgan,onepiece_wiki
+1215,550,Mōgan,onepiece_wiki
+1216,551,Mukekka,onepiece_wiki
+1217,551,Moqueca,onepiece_wiki
+1218,552,Mūn Aizakku Junia,onepiece_wiki
+1219,552,ムーン・アイザックJr.（ジュニア）,onepiece_wiki
+1220,552,Moon Isaac Jr.,onepiece_wiki
+1221,553,Mōnin,onepiece_wiki
+1222,553,Mornin,onepiece_wiki
+1223,554,Mūdi,onepiece_wiki
+1224,554,Moody,onepiece_wiki
+1225,554,Moodie,onepiece_wiki
+1226,555,Monbran Noland,onepiece_wiki
+1227,555,Mont Blanc Noland,onepiece_wiki
+1228,555,Montblanc Noland,onepiece_wiki
+1229,555,Monburan Nōrando,onepiece_wiki
+1230,556,Monsutā,onepiece_wiki
+1231,556,Monster,onepiece_wiki
+1232,557,Mont Blanc Cricket,onepiece_wiki
+1233,557,Monburan Kuriketto,onepiece_wiki
+1234,558,Monkī Dī Rufi,onepiece_wiki
+1235,558,Monkey D. Luffy,onepiece_wiki
+1236,558,"Lucy (ルーシー, Rūshī?)Luffy-tarou (ルフィ太郎, Rufitarō?, English versions: ""Luffytaro"")Luffy-no-Umi (ルフィの海, Rufinoumi?)Joy Boy (ジョイボーイ, Joi Bōi?)",onepiece_wiki
+1237,558,"Gomu Gomu no Mi(Hito Hito no Mi, Model: Nika)",onepiece_wiki
+1238,559,モンキー・D（ディー）・ガープ,onepiece_wiki
+1239,559,Monkī Dī Gāpu,onepiece_wiki
+1240,559,Monkey D. Garp,onepiece_wiki
+1241,560,モンキー・D（ディー）・ドラゴン,onepiece_wiki
+1242,560,Monkey D. Dragon,onepiece_wiki
+1243,560,Monkī Dī Doragon,onepiece_wiki
+1244,561,Monjirō,onepiece_wiki
+1245,561,Monjiro,onepiece_wiki
+1246,562,Mon-ji,onepiece_wiki
+1247,562,Monjii,onepiece_wiki
+1248,563,Monet,onepiece_wiki
+1249,563,Mone,onepiece_wiki
+1250,563,Yuki Yuki no Mi,onepiece_wiki
+1251,564,Monda,onepiece_wiki
+1252,565,Momonga,onepiece_wiki
+1253,566,Morji,onepiece_wiki
+1254,566,Mōji,onepiece_wiki
+1255,566,Mohji,onepiece_wiki
+1256,567,Mōda,onepiece_wiki
+1257,567,Moda,onepiece_wiki
+1258,568,Momoo,onepiece_wiki
+1259,568,Morm,onepiece_wiki
+1260,568,Mōmu,onepiece_wiki
+1261,569,Mocha,onepiece_wiki
+1262,570,Mochi,onepiece_wiki
+1263,571,Mokudonarudo,onepiece_wiki
+1264,571,McTreenald,onepiece_wiki
+1265,571,MocDonald,onepiece_wiki
+1266,572,Moai,onepiece_wiki
+1267,573,Mizūta Madaisukī,onepiece_wiki
+1268,573,Mizuta Madaisuki,onepiece_wiki
+1269,573,Mizuuta Madaisky,onepiece_wiki
+1270,574,Mizūta Mawaritosukī,onepiece_wiki
+1271,574,Mizuta Mawaritosuki,onepiece_wiki
+1272,574,Mizuuta Mawaritosky,onepiece_wiki
+1273,575,Mizerka,onepiece_wiki
+1274,575,Mizeruka,onepiece_wiki
+1275,576,Miyagi,onepiece_wiki
+1276,577,Miss Tuesday,onepiece_wiki
+1277,577,Misu Tyūzudē,onepiece_wiki
+1278,578,Mizuira,onepiece_wiki
+1279,579,Miss Saturday,onepiece_wiki
+1280,579,Misu Satadē,onepiece_wiki
+1281,580,Miss Mother's Day,onepiece_wiki
+1282,580,Misu Mazāzu Dē,onepiece_wiki
+1283,581,Miss Monday,onepiece_wiki
+1284,581,Ms. Monday,onepiece_wiki
+1285,581,"Miss Monday, Sister",onepiece_wiki
+1286,581,Misu Mandē,onepiece_wiki
+1287,582,Misu Sāsudē,onepiece_wiki
+1288,582,Miss Thursday,onepiece_wiki
+1289,583,Miss Father's Day,onepiece_wiki
+1290,583,Ms. Father's Day,onepiece_wiki
+1291,583,Misu Fāzāzu Dē,onepiece_wiki
+1292,583,"Miss Father's Day (ミス・ファーザーズデー, Misu Fāzāzu Dē?)",onepiece_wiki
+1293,584,Minozebra,onepiece_wiki
+1294,584,Minozebura,onepiece_wiki
+1295,585,Misery,onepiece_wiki
+1296,585,Mizarī,onepiece_wiki
+1297,586,Misu Furaidē,onepiece_wiki
+1298,586,Miss Friday,onepiece_wiki
+1299,587,Minoruba,onepiece_wiki
+1300,588,Minotaurus,onepiece_wiki
+1301,588,Minotaurosu,onepiece_wiki
+1302,588,Minotaur,onepiece_wiki
+1303,589,Miss Catherina,onepiece_wiki
+1304,589,Misu Kyasarīna,onepiece_wiki
+1305,589,Miss Katherina,onepiece_wiki
+1306,590,Minorhinoceros,onepiece_wiki
+1307,590,Minorinokerosu,onepiece_wiki
+1308,591,Minokoala,onepiece_wiki
+1309,591,Minokoara,onepiece_wiki
+1310,592,Minochihuahua,onepiece_wiki
+1311,592,Minochiwawa,onepiece_wiki
+1312,593,Minister of the Right,onepiece_wiki
+1313,593,Udaijin,onepiece_wiki
+1314,594,Minatomo,onepiece_wiki
+1315,595,Milo,onepiece_wiki
+1316,595,"Onepoco (ワンポコ, Wanpoko?, Viz: Onepoko)",onepiece_wiki
+1317,595,Miro,onepiece_wiki
+1318,596,Mille Pine,onepiece_wiki
+1319,596,Mire Pain,onepiece_wiki
+1320,596,Millet Pine,onepiece_wiki
+1321,594,Minatomo-san,onepiece_wiki
+1322,597,Milky,onepiece_wiki
+1323,597,Mirukī,onepiece_wiki
+1324,598,Sadaijin,onepiece_wiki
+1325,598,Minister of the Left,onepiece_wiki
+1326,599,Mikio Itū,onepiece_wiki
+1327,599,Mikio Itoo,onepiece_wiki
+1328,600,Mikīta,onepiece_wiki
+1329,600,"""Miss Valentine"" (ミス・バレンタイン, Misu Barentain?)",onepiece_wiki
+1330,600,Mikita,onepiece_wiki
+1331,600,Kiro Kiro no Mi,onepiece_wiki
+1332,601,Mikazuki,onepiece_wiki
+1333,602,Mihar,onepiece_wiki
+1334,602,Mihāru,onepiece_wiki
+1335,602,Mihal,onepiece_wiki
+1336,603,Mello,onepiece_wiki
+1337,603,Mero,onepiece_wiki
+1338,604,Megaro,onepiece_wiki
+1339,604,Megalo,onepiece_wiki
+1340,605,Makkinrī,onepiece_wiki
+1341,605,McKinley,onepiece_wiki
+1342,606,Meadows,onepiece_wiki
+1343,606,Medōzu,onepiece_wiki
+1344,607,Merry,onepiece_wiki
+1345,607,Merī,onepiece_wiki
+1346,608,Mekashāku,onepiece_wiki
+1347,608,Mecha-Shark,onepiece_wiki
+1348,609,Makugai,onepiece_wiki
+1349,609,McGuy,onepiece_wiki
+1350,610,Makkusu Mākusu,onepiece_wiki
+1351,610,MAX（マックス） マークス,onepiece_wiki
+1352,610,MAX Marx,onepiece_wiki
+1353,611,Maynard,onepiece_wiki
+1354,611,"""Capman"" (キャップマン, Kyappuman?)",onepiece_wiki
+1355,611,Meinādo,onepiece_wiki
+1356,612,Eyelashes,onepiece_wiki
+1357,612,Matsuge,onepiece_wiki
+1358,613,Mayushika,onepiece_wiki
+1359,613,Mayushka,onepiece_wiki
+1360,614,Matoryō Hime-tachi,onepiece_wiki
+1361,614,Mattryoshesses,onepiece_wiki
+1362,614,Matryo Princesses,onepiece_wiki
+1363,615,Master of the Waters,onepiece_wiki
+1364,615,Umi no Nushi,onepiece_wiki
+1365,616,Master,onepiece_wiki
+1366,616,Oyakata,onepiece_wiki
+1367,617,Massui,onepiece_wiki
+1368,618,Masukudo Dyūsu,onepiece_wiki
+1369,618,Masked Deuce,onepiece_wiki
+1370,619,Maujii,onepiece_wiki
+1371,619,"Mouji, Mousey",onepiece_wiki
+1372,620,Masira,onepiece_wiki
+1373,620,Mashira,onepiece_wiki
+1374,621,Marumiēta,onepiece_wiki
+1375,621,Marmieta,onepiece_wiki
+1376,621,Marumieta,onepiece_wiki
+1377,622,Mario,onepiece_wiki
+1378,623,Marshall D. Teech,onepiece_wiki
+1379,623,Māsharu Dī Tīchi,onepiece_wiki
+1380,623,Marshall D. Teach,onepiece_wiki
+1381,623,Gura Gura no Mi,onepiece_wiki
+1382,624,Marin,onepiece_wiki
+1383,625,Maririn,onepiece_wiki
+1384,625,Marilyn,onepiece_wiki
+1385,626,Mash,onepiece_wiki
+1386,626,Masshu,onepiece_wiki
+1387,627,Marie,onepiece_wiki
+1388,627,Marī,onepiece_wiki
+1389,628,Marianne,onepiece_wiki
+1390,628,Mariannu,onepiece_wiki
+1391,628,"""Miss Goldenweek"" (ミス・ゴールデンウィーク, Misu Gōruden Wīku?, 4Kids: ""Ms. April Fools Day"")",onepiece_wiki
+1392,629,Māgaretto,onepiece_wiki
+1393,629,Marguerite,onepiece_wiki
+1394,630,Margarita,onepiece_wiki
+1395,630,Marugarīta,onepiece_wiki
+1396,631,Maria Napole,onepiece_wiki
+1397,631,Maria Napore,onepiece_wiki
+1398,632,Marcus Mars,onepiece_wiki
+1399,632,Mākasu Māzu Sei,onepiece_wiki
+1400,632,St. Marcus Mars,onepiece_wiki
+1401,633,Mashikaku,onepiece_wiki
+1402,634,Mari,onepiece_wiki
+1403,635,Maruko,onepiece_wiki
+1404,635,Marco,onepiece_wiki
+1405,635,"Tori Tori no Mi, Model: Phoenix",onepiece_wiki
+1406,636,Mancherie,onepiece_wiki
+1407,636,Chiyu Chiyu no Mi,onepiece_wiki
+1408,636,Mansherī,onepiece_wiki
+1409,636,Mansherry,onepiece_wiki
+1410,637,Manjarō,onepiece_wiki
+1411,637,Manjaro,onepiece_wiki
+1412,638,Mani,onepiece_wiki
+1413,639,Makko,onepiece_wiki
+1414,639,Makkō,onepiece_wiki
+1415,640,Maki,onepiece_wiki
+1416,641,Makino,onepiece_wiki
+1417,642,Meidi,onepiece_wiki
+1418,642,Maidy,onepiece_wiki
+1419,643,Maha,onepiece_wiki
+1420,644,"Mamboshi, Manboshi",onepiece_wiki
+1421,644,Manboshi,onepiece_wiki
+1422,645,Magra,onepiece_wiki
+1423,645,Magura,onepiece_wiki
+1424,646,Doku Doku no Mi,onepiece_wiki
+1425,646,Mazeran,onepiece_wiki
+1426,646,Magellan,onepiece_wiki
+1427,647,Madillo-Man,onepiece_wiki
+1428,647,Madilloman,onepiece_wiki
+1429,647,Majiroman,onepiece_wiki
+1430,648,Macro,onepiece_wiki
+1431,648,Macro (Automata),onepiece_wiki
+1432,648,Makuro,onepiece_wiki
+1433,649,Macro,onepiece_wiki
+1434,649,Macro (Macro Pirates),onepiece_wiki
+1435,649,Makuro,onepiece_wiki
+1436,650,Machvise,onepiece_wiki
+1437,650,Ton Ton no Mi,onepiece_wiki
+1438,650,Mach Vise,onepiece_wiki
+1439,650,Mahhabaisu,onepiece_wiki
+1440,651,Lulis,onepiece_wiki
+1441,651,Rurisu,onepiece_wiki
+1442,652,Ru Ferudo,onepiece_wiki
+1443,652,Lu Feld,onepiece_wiki
+1444,652,Du Feld,onepiece_wiki
+1445,653,Lucky Roo,onepiece_wiki
+1446,653,Rakkī Rū,onepiece_wiki
+1447,653,Lucky Roux,onepiece_wiki
+1448,654,Kinkai no Nushi,onepiece_wiki
+1449,654,Master of the Near Sea,onepiece_wiki
+1450,654,"""Local Sea Monster""",onepiece_wiki
+1451,654,Lord of the Coast,onepiece_wiki
+1452,655,Lonz,onepiece_wiki
+1453,655,Ronzu,onepiece_wiki
+1454,656,Lola,onepiece_wiki
+1455,656,Rōra,onepiece_wiki
+1456,657,Roki,onepiece_wiki
+1457,657,Loki,onepiece_wiki
+1458,658,Lip Doughty,onepiece_wiki
+1459,658,Rippu Douti,onepiece_wiki
+1460,659,リトルオーズJr.,onepiece_wiki
+1461,659,Little Oars Jr.,onepiece_wiki
+1462,659,Ritoru Ōzu Junia,onepiece_wiki
+1463,660,Raionbuta,onepiece_wiki
+1464,660,Lionbuta,onepiece_wiki
+1465,661,Lines,onepiece_wiki
+1466,661,Rainzu,onepiece_wiki
+1467,662,Lindbergh,onepiece_wiki
+1468,662,Rindobāgu,onepiece_wiki
+1469,663,Raimujūsu,onepiece_wiki
+1470,663,Lime Juice,onepiece_wiki
+1471,663,Limejuice,onepiece_wiki
+1472,664,Lily,onepiece_wiki
+1473,664,Rirī,onepiece_wiki
+1474,665,Rinaria,onepiece_wiki
+1475,665,Linaria,onepiece_wiki
+1476,666,Lilith,onepiece_wiki
+1477,666,Ririsu,onepiece_wiki
+1478,667,Leonero,onepiece_wiki
+1479,667,Reonero,onepiece_wiki
+1480,668,Reo,onepiece_wiki
+1481,668,Leo,onepiece_wiki
+1482,668,Nui Nui no Mi,onepiece_wiki
+1483,669,Buraggu Men,onepiece_wiki
+1484,669,Brag Men,onepiece_wiki
+1485,670,Rassū,onepiece_wiki
+1486,670,Lassoo,onepiece_wiki
+1487,670,"Inu Inu no Mi, Model: Dachshund",onepiece_wiki
+1488,671,Lasky,onepiece_wiki
+1489,671,Laskey,onepiece_wiki
+1490,671,Rasukī,onepiece_wiki
+1491,672,Rao Jī,onepiece_wiki
+1492,672,ラオG（ジー）,onepiece_wiki
+1493,672,Lao G,onepiece_wiki
+1494,673,Raffit,onepiece_wiki
+1495,673,Lafitte,onepiece_wiki
+1496,673,Laffitte,onepiece_wiki
+1497,673,Rafitto,onepiece_wiki
+1498,674,Remonchīzu,onepiece_wiki
+1499,674,Lemoncheese,onepiece_wiki
+1500,675,Redi Tsurī,onepiece_wiki
+1501,675,Lady Tree,onepiece_wiki
+1502,676,Lacuba,onepiece_wiki
+1503,676,Rakyūba,onepiece_wiki
+1504,677,Lacroix,onepiece_wiki
+1505,677,Rakurowa,onepiece_wiki
+1506,678,Kyukyu,onepiece_wiki
+1507,678,Firstaid,onepiece_wiki
+1508,678,Kyūkyū,onepiece_wiki
+1509,679,Raboon,onepiece_wiki
+1510,679,Laboon,onepiece_wiki
+1511,679,Rabūn,onepiece_wiki
+1512,680,Kyuīn,onepiece_wiki
+1513,680,Kyuin,onepiece_wiki
+1514,680,Kuween,onepiece_wiki
+1515,681,Kyūji,onepiece_wiki
+1516,681,Kyuji,onepiece_wiki
+1517,682,", ""The Invincible Gladiator""",onepiece_wiki
+1518,682,"""Thunder Soldier of Rage"" (怒りの雷兵, Ikari no Kaminari Hei?, Viz: ""The Angry Lightning Soldier"")",onepiece_wiki
+1519,682,Kyros,onepiece_wiki
+1520,682,Kyurosu,onepiece_wiki
+1521,683,Kurozumi Semimaru,onepiece_wiki
+1522,683,Bari Bari no Mi,onepiece_wiki
+1523,684,Kurozumi Tama,onepiece_wiki
+1524,684,Kibi Kibi no Mi,onepiece_wiki
+1525,685,Kuzan,onepiece_wiki
+1526,685,Hie Hie no Mi,onepiece_wiki
+1527,685,"Aokiji (青雉, Aokiji?, literally meaning ""Blue Pheasant"")",onepiece_wiki
+1528,686,Kurotsuru,onepiece_wiki
+1529,686,Blackbeard,onepiece_wiki
+1530,687,Kurozumi Higurashi,onepiece_wiki
+1531,687,Mane Mane no Mi,onepiece_wiki
+1532,688,Kurozumi Orochi,onepiece_wiki
+1533,688,"Hebi Hebi no Mi, Model: Yamata no Orochi",onepiece_wiki
+1534,689,Kurozumi Kanjūrō,onepiece_wiki
+1535,689,Kurozumi Kanjuro,onepiece_wiki
+1536,689,Fude Fude no Mi,onepiece_wiki
+1537,690,Kurosawa,onepiece_wiki
+1538,691,Kuromārimo,onepiece_wiki
+1539,691,Kuromarimo,onepiece_wiki
+1540,692,Kuroobi,onepiece_wiki
+1541,692,Kuro'obi,onepiece_wiki
+1542,693,Kurokoma,onepiece_wiki
+1543,694,Kuro,onepiece_wiki
+1544,694,"""Klahadore"" (クラハドール, Kurahadōru?)",onepiece_wiki
+1545,695,Kumacy,onepiece_wiki
+1546,695,Kumashi,onepiece_wiki
+1547,695,Kumashī,onepiece_wiki
+1548,696,Kunyun,onepiece_wiki
+1549,697,Kuni-san,onepiece_wiki
+1550,697,Kuni,onepiece_wiki
+1551,698,"""Doctorine"" (ドクトリーヌ, Dokutorīnu?)",onepiece_wiki
+1552,698,Kureha,onepiece_wiki
+1553,699,Kumaē,onepiece_wiki
+1554,699,Kuma-A,onepiece_wiki
+1555,699,Kumae,onepiece_wiki
+1556,700,Kumadori Yamanba-ko,onepiece_wiki
+1557,700,Kumadori Yamanbako,onepiece_wiki
+1558,701,Kumagorō,onepiece_wiki
+1559,701,Kumagoro,onepiece_wiki
+1560,702,Kumadori,onepiece_wiki
+1561,703,Kukai,onepiece_wiki
+1562,703,Kūkai,onepiece_wiki
+1563,704,Kujaku,onepiece_wiki
+1564,704,Muchi Muchi no Mi,onepiece_wiki
+1565,705,Toki Toki no Mi,onepiece_wiki
+1566,705,Kōzuki Toki,onepiece_wiki
+1567,705,Kouzuki Toki,onepiece_wiki
+1568,705,Kozuki Toki,onepiece_wiki
+1569,706,Krieg,onepiece_wiki
+1570,706,Kurīku,onepiece_wiki
+1571,707,Kozuki Sukiyaki,onepiece_wiki
+1572,707,Kōzuki Sukiyaki,onepiece_wiki
+1573,707,"""Tenguyama Hitetsu"" (天狗山飛徹, Tenguyama Hitetsu?)",onepiece_wiki
+1574,708,Kōzuki Oden,onepiece_wiki
+1575,708,Kozuki Oden,onepiece_wiki
+1576,708,Kouzuki Oden,onepiece_wiki
+1577,709,Kōzuki Momonosuke,onepiece_wiki
+1578,709,"Uo Uo no Mi, Model: Seiryu (Artificial)",onepiece_wiki
+1579,709,Kouzuki Momonosuke,onepiece_wiki
+1580,709,Kozuki Momonosuke,onepiece_wiki
+1581,710,Koyama,onepiece_wiki
+1582,711,Kozuki Hiyori,onepiece_wiki
+1583,711,Kouzuki Hiyori,onepiece_wiki
+1584,711,Kōzuki Hiyori,onepiece_wiki
+1585,711,"""Komurasaki"" (小紫, Komurasaki?)",onepiece_wiki
+1586,712,Koze and Packy,onepiece_wiki
+1587,712,Koze to Pakkī,onepiece_wiki
+1588,712,KozePacky,onepiece_wiki
+1589,713,Kotetsu,onepiece_wiki
+1590,714,Kōza,onepiece_wiki
+1591,714,Koza,onepiece_wiki
+1592,715,Kotatsu,onepiece_wiki
+1593,716,Kop,onepiece_wiki
+1594,716,Koppu,onepiece_wiki
+1595,716,Kopp,onepiece_wiki
+1596,717,Comane,onepiece_wiki
+1597,717,Komane,onepiece_wiki
+1598,718,Kongu,onepiece_wiki
+1599,718,Kong,onepiece_wiki
+1600,719,Komakkofu,onepiece_wiki
+1601,719,Komakkov,onepiece_wiki
+1602,720,Konbu,onepiece_wiki
+1603,720,Kombu,onepiece_wiki
+1604,721,Kokoro,onepiece_wiki
+1605,722,Komachiyo,onepiece_wiki
+1606,723,Kojūrō,onepiece_wiki
+1607,723,Kojuro,onepiece_wiki
+1608,724,Koito,onepiece_wiki
+1609,725,Kōbē,onepiece_wiki
+1610,725,Kobe,onepiece_wiki
+1611,725,Kobei,onepiece_wiki
+1612,726,Koda,onepiece_wiki
+1613,726,Kōda,onepiece_wiki
+1614,727,Koara,onepiece_wiki
+1615,727,Koala,onepiece_wiki
+1616,728,Kisegawa,onepiece_wiki
+1617,729,Kitton,onepiece_wiki
+1618,730,Kobī,onepiece_wiki
+1619,730,Koby,onepiece_wiki
+1620,731,Mozu & Kiui,onepiece_wiki
+1621,731,Mozu and Kiwi,onepiece_wiki
+1622,732,Kinoko,onepiece_wiki
+1623,732,Mushroom,onepiece_wiki
+1624,733,Kinga,onepiece_wiki
+1625,734,Kingudyū,onepiece_wiki
+1626,734,Kingdew,onepiece_wiki
+1627,735,Kingbaum,onepiece_wiki
+1628,735,Kingubāmu,onepiece_wiki
+1629,736,Kinderella,onepiece_wiki
+1630,736,Kinderera,onepiece_wiki
+1631,737,Kingu,onepiece_wiki
+1632,737,"Ryu Ryu no Mi, Model: Pteranodon",onepiece_wiki
+1633,737,King,onepiece_wiki
+1634,738,Kirintaurosu,onepiece_wiki
+1635,738,Kirintauros,onepiece_wiki
+1636,739,Kirinkodanuki,onepiece_wiki
+1637,740,Kinbo,onepiece_wiki
+1638,740,Kinbō,onepiece_wiki
+1639,741,Kirā,onepiece_wiki
+1640,741,"""Kamazo the Manslayer"" (人斬り鎌ぞう, Hitokiri Kamazō?, VIZ: ""Hitokiri Kamazo"")",onepiece_wiki
+1641,741,Killer,onepiece_wiki
+1642,742,Fuku Fuku no Mi,onepiece_wiki
+1643,742,Kin'emon,onepiece_wiki
+1644,743,Kikyo,onepiece_wiki
+1645,743,Kikyō,onepiece_wiki
+1646,744,Kiku,onepiece_wiki
+1647,745,Kikipatsu,onepiece_wiki
+1648,746,"O-Kiku (お菊, O-Kiku?, English: ""Okiku"")",onepiece_wiki
+1649,746,Kikunojo,onepiece_wiki
+1650,746,Kikunojō,onepiece_wiki
+1651,747,Kimel,onepiece_wiki
+1652,747,Kimeru,onepiece_wiki
+1653,748,Kibin,onepiece_wiki
+1654,749,Kibagaeru,onepiece_wiki
+1655,750,Kerī Fanku,onepiece_wiki
+1656,750,Kelly Funk,onepiece_wiki
+1657,750,Jake Jake no Mi,onepiece_wiki
+1658,751,Kīsu,onepiece_wiki
+1659,751,Keith,onepiece_wiki
+1660,752,Kebi,onepiece_wiki
+1661,753,Kiefu,onepiece_wiki
+1662,753,Kiev,onepiece_wiki
+1663,754,Kazenbō,onepiece_wiki
+1664,754,Kazenbo,onepiece_wiki
+1665,755,Kechatch,onepiece_wiki
+1666,755,Kechatchi,onepiece_wiki
+1667,756,Katsuzo,onepiece_wiki
+1668,756,Katsuzō,onepiece_wiki
+1669,757,Kazekage,onepiece_wiki
+1670,758,"Gyukimaru (牛鬼丸, Gyūkimaru?)",onepiece_wiki
+1671,758,Kawamatsu,onepiece_wiki
+1672,759,Kaya,onepiece_wiki
+1673,760,Kashigami,onepiece_wiki
+1674,761,Kashii,onepiece_wiki
+1675,761,Kāshī,onepiece_wiki
+1676,762,Karma,onepiece_wiki
+1677,762,Karuma,onepiece_wiki
+1678,763,Kalu,onepiece_wiki
+1679,763,Karoo,onepiece_wiki
+1680,763,Karū,onepiece_wiki
+1681,764,Karasu,onepiece_wiki
+1682,764,Susu Susu no Mi,onepiece_wiki
+1683,765,Kanezenī,onepiece_wiki
+1684,765,Moneypenny,onepiece_wiki
+1685,765,Kanezenny,onepiece_wiki
+1686,766,KasagonKasagoba,onepiece_wiki
+1687,766,Kasagoba,onepiece_wiki
+1688,767,Kasa,onepiece_wiki
+1689,768,Kaneshiro,onepiece_wiki
+1690,769,Kappa,onepiece_wiki
+1691,770,Kamijirō,onepiece_wiki
+1692,770,Kamijiro,onepiece_wiki
+1693,771,Kamekichi,onepiece_wiki
+1694,772,Karifa,onepiece_wiki
+1695,772,Awa Awa no Mi,onepiece_wiki
+1696,772,Kalifa,onepiece_wiki
+1697,773,Karugara,onepiece_wiki
+1698,773,Kalgara,onepiece_wiki
+1699,773,KalgaraCalgara,onepiece_wiki
+1700,774,Kakunoshin,onepiece_wiki
+1701,775,Blockhead,onepiece_wiki
+1702,775,Kakukaku,onepiece_wiki
+1703,776,Kaku,onepiece_wiki
+1704,776,Kaku (Kyoshiro Family),onepiece_wiki
+1705,776,Kaku-san,onepiece_wiki
+1706,777,Kamakiri,onepiece_wiki
+1707,778,Kairo Kureyo,onepiece_wiki
+1708,778,Spara Heetpack,onepiece_wiki
+1709,779,Kaku,onepiece_wiki
+1710,779,"Ushi Ushi no Mi, Model: Giraffe",onepiece_wiki
+1711,779,Kaku (CP0),onepiece_wiki
+1712,780,Kairiken,onepiece_wiki
+1713,781,Kairen,onepiece_wiki
+1714,782,Kagikko,onepiece_wiki
+1715,782,Keygan,onepiece_wiki
+1716,783,"Uo Uo no Mi, Model: Seiryu",onepiece_wiki
+1717,783,Kaido,onepiece_wiki
+1718,783,Kaidō,onepiece_wiki
+1719,783,Kaidou,onepiece_wiki
+1720,784,Kadaru,onepiece_wiki
+1721,784,Kadar,onepiece_wiki
+1722,785,Kagerō,onepiece_wiki
+1723,785,Kagero,onepiece_wiki
+1724,786,Julius,onepiece_wiki
+1725,786,Yuriusu,onepiece_wiki
+1726,787,Juki,onepiece_wiki
+1727,787,Jūki,onepiece_wiki
+1728,788,Cub,onepiece_wiki
+1729,788,Kabu,onepiece_wiki
+1730,788,"Mushi Mushi no Mi, Model: Kabutomushi",onepiece_wiki
+1731,789,Judi,onepiece_wiki
+1732,789,Judy,onepiece_wiki
+1733,790,Junan,onepiece_wiki
+1734,791,Jozu,onepiece_wiki
+1735,791,Kira Kira no Mi,onepiece_wiki
+1736,792,Joyboy,onepiece_wiki
+1737,792,Joi Bōi,onepiece_wiki
+1738,792,Joy Boy,onepiece_wiki
+1739,793,Jujiro,onepiece_wiki
+1740,793,Jūjirō,onepiece_wiki
+1741,794,Yosefu,onepiece_wiki
+1742,794,Joseph,onepiece_wiki
+1743,795,Joshu,onepiece_wiki
+1744,796,Jorge,onepiece_wiki
+1745,796,George,onepiece_wiki
+1746,796,Joruji,onepiece_wiki
+1747,797,Johnny,onepiece_wiki
+1748,797,Jonī,onepiece_wiki
+1749,798,Jorul,onepiece_wiki
+1750,798,Yoruru,onepiece_wiki
+1751,799,John,onepiece_wiki
+1752,799,Jon,onepiece_wiki
+1753,800,Jobo,onepiece_wiki
+1754,801,John Giant,onepiece_wiki
+1755,801,Jon Jaianto,onepiece_wiki
+1756,802,Jizō,onepiece_wiki
+1757,802,Jizo,onepiece_wiki
+1758,803,Jiron,onepiece_wiki
+1759,804,Jo,onepiece_wiki
+1760,804,Jō,onepiece_wiki
+1761,805,Jibuemon,onepiece_wiki
+1762,806,Jigoku Benten,onepiece_wiki
+1763,807,Jinbe,onepiece_wiki
+1764,807,Jimbei,onepiece_wiki
+1765,807,Jinbē,onepiece_wiki
+1766,808,Jigra,onepiece_wiki
+1767,808,Jigura,onepiece_wiki
+1768,809,"Conney (コニー, Konī?)",onepiece_wiki
+1769,809,Jewelry Bonney,onepiece_wiki
+1770,809,Juerī Bonī,onepiece_wiki
+1771,809,Toshi Toshi no Mi,onepiece_wiki
+1772,810,Jigoro,onepiece_wiki
+1773,810,Jigorō,onepiece_wiki
+1774,811,Jerry,onepiece_wiki
+1775,811,Jerī,onepiece_wiki
+1776,812,Jero,onepiece_wiki
+1777,813,Jīzasu Bājesu,onepiece_wiki
+1778,813,G. Zass Burgess,onepiece_wiki
+1779,813,Riki Riki no Mi,onepiece_wiki
+1780,813,Jesus Burgess,onepiece_wiki
+1781,813,"""Mr. Store"" (Mr.ストア, Misutā Sutoa?)",onepiece_wiki
+1782,814,Mock Town,onepiece_wiki
+1783,814,Mokku Taun,onepiece_wiki
+1784,815,Jeep,onepiece_wiki
+1785,815,Jīpu,onepiece_wiki
+1786,816,Jean Goen,onepiece_wiki
+1787,816,Dez Tinny,onepiece_wiki
+1788,816,Jan Goen,onepiece_wiki
+1789,817,Jean Bart,onepiece_wiki
+1790,817,Janbāru,onepiece_wiki
+1791,818,Jeet,onepiece_wiki
+1792,818,Jetto,onepiece_wiki
+1793,818,Jet,onepiece_wiki
+1794,819,Jan Ango,onepiece_wiki
+1795,819,Jean Ango,onepiece_wiki
+1796,820,Jarul,onepiece_wiki
+1797,820,Yaruru,onepiece_wiki
+1798,821,Jaygarcia Saturn,onepiece_wiki
+1799,821,St. Jaygarcia Saturn,onepiece_wiki
+1800,821,Jeigarushia Satān Sei,onepiece_wiki
+1801,822,Django,onepiece_wiki
+1802,822,Jango,onepiece_wiki
+1803,823,Jaki,onepiece_wiki
+1804,824,Jalmack,onepiece_wiki
+1805,824,Jarumakku Sei,onepiece_wiki
+1806,824,Saint Jalmack,onepiece_wiki
+1807,825,ハグワール・D（ディー）・サウロ,onepiece_wiki
+1808,825,Haguwāru Dī Sauro,onepiece_wiki
+1809,825,Jaguar D. Saul,onepiece_wiki
+1810,826,Jackson Burner,onepiece_wiki
+1811,826,Jakusonbanā,onepiece_wiki
+1812,826,Jacksonbanner,onepiece_wiki
+1813,827,Zombie,onepiece_wiki
+1814,827,Zonbi,onepiece_wiki
+1815,828,Jabura,onepiece_wiki
+1816,828,Jabra,onepiece_wiki
+1817,828,"Inu Inu no Mi, Model: Wolf",onepiece_wiki
+1818,829,Jagger,onepiece_wiki
+1819,829,Jagā,onepiece_wiki
+1820,829,Jaguar,onepiece_wiki
+1821,830,Jakku,onepiece_wiki
+1822,830,"Zou Zou no Mi, Model: Mammoth",onepiece_wiki
+1823,830,Jack,onepiece_wiki
+1824,831,Iyan'ēnō Chinode,onepiece_wiki
+1825,831,Iyan'eno Chinode,onepiece_wiki
+1826,832,Iwatobi,onepiece_wiki
+1827,833,Izō,onepiece_wiki
+1828,833,Izo,onepiece_wiki
+1829,833,Izou,onepiece_wiki
+1830,834,Itomimizu,onepiece_wiki
+1831,835,Isuka,onepiece_wiki
+1832,836,Zushi Zushi no Mi,onepiece_wiki
+1833,836,"""Fujitora"" (藤虎, Fujitora?, literally meaning ""Wisteria Tiger"")",onepiece_wiki
+1834,836,Isshō,onepiece_wiki
+1835,836,Issho,onepiece_wiki
+1836,837,Ishilly,onepiece_wiki
+1837,837,Ishirī,onepiece_wiki
+1838,837,Ishily,onepiece_wiki
+1839,838,Island Eater,onepiece_wiki
+1840,838,Shima Kui,onepiece_wiki
+1841,839,Islewan,onepiece_wiki
+1842,839,Airuwan,onepiece_wiki
+1843,840,Verree Finework,onepiece_wiki
+1844,840,Ishigo Shitemanna,onepiece_wiki
+1845,840,Īshigo Shiteman'na,onepiece_wiki
+1846,841,Isa,onepiece_wiki
+1847,841,Īsa,onepiece_wiki
+1848,842,Matsu,onepiece_wiki
+1849,842,Ipponmatsu,onepiece_wiki
+1850,843,Inoichibannosuke,onepiece_wiki
+1851,844,DogstormDogupine,onepiece_wiki
+1852,844,Inuarashi,onepiece_wiki
+1853,845,Ipponume,onepiece_wiki
+1854,845,Ippon Ume,onepiece_wiki
+1855,846,Inuppe,onepiece_wiki
+1856,846,Dog PenguinInuppe,onepiece_wiki
+1857,847,Indigo,onepiece_wiki
+1858,848,Inukai,onepiece_wiki
+1859,849,Inheru,onepiece_wiki
+1860,849,Inhel,onepiece_wiki
+1861,850,Inbi,onepiece_wiki
+1862,851,Ikkaku,onepiece_wiki
+1863,851,Ikkaku (Heart Pirates),onepiece_wiki
+1864,852,Ikkaku,onepiece_wiki
+1865,852,Ikkaku (Wano),onepiece_wiki
+1866,853,Imu,onepiece_wiki
+1867,854,Choki Choki no Mi,onepiece_wiki
+1868,854,Inazuma,onepiece_wiki
+1869,855,"""Mr. 8""（ミスター・エイト） (Misutā Eito?) (former)",onepiece_wiki
+1870,855,Igaramu,onepiece_wiki
+1871,855,"""Igarappoi"" (イガラッポイ?)",onepiece_wiki
+1872,855,Igaram,onepiece_wiki
+1873,856,Ikaros Much,onepiece_wiki
+1874,856,Ikarosu Muhhi,onepiece_wiki
+1875,857,Ideo,onepiece_wiki
+1876,858,Ideaman,onepiece_wiki
+1877,858,Aideaman,onepiece_wiki
+1878,859,Yves,onepiece_wiki
+1879,859,Ibusu,onepiece_wiki
+1880,860,Medaka Mermaid Quintuplets,onepiece_wiki
+1881,860,"Ichika, Nika, Sanka, Yonka, Yonka Two",onepiece_wiki
+1882,860,"Ichika, Nika, Sanka, Yonka, Yonka Tsū",onepiece_wiki
+1883,861,Aisubāgu,onepiece_wiki
+1884,861,Iceberg,onepiece_wiki
+1885,861,Iceburg,onepiece_wiki
+1886,862,Hyōtaurosu,onepiece_wiki
+1887,862,Hyoutauros,onepiece_wiki
+1888,863,Hyōzō,onepiece_wiki
+1889,863,Hyouzou,onepiece_wiki
+1890,864,Hyōgorō,onepiece_wiki
+1891,864,Hyogoro,onepiece_wiki
+1892,864,"""Grandpa Hyo"" (ヒョウじい, Hyō-jii?, English: ""Old Man Hyo"")",onepiece_wiki
+1893,865,Ibiributsu,onepiece_wiki
+1894,866,Hanfurī,onepiece_wiki
+1895,866,Humphrey,onepiece_wiki
+1896,867,Hublot,onepiece_wiki
+1897,867,Uburo,onepiece_wiki
+1898,868,Haundo,onepiece_wiki
+1899,868,Hound,onepiece_wiki
+1900,869,Hototogisu,onepiece_wiki
+1901,870,Hotori to Kotori,onepiece_wiki
+1902,870,Hotori and Kotori,onepiece_wiki
+1903,871,Hassuru,onepiece_wiki
+1904,871,Hustle,onepiece_wiki
+1905,872,House,onepiece_wiki
+1906,872,Hausu,onepiece_wiki
+1907,873,Hotei,onepiece_wiki
+1908,874,Hon'nā,onepiece_wiki
+1909,874,Honner,onepiece_wiki
+1910,875,Hop,onepiece_wiki
+1911,875,Hoppu,onepiece_wiki
+1912,876,Hongō,onepiece_wiki
+1913,876,Hongo,onepiece_wiki
+1914,877,Home,onepiece_wiki
+1915,878,Hōrī,onepiece_wiki
+1916,878,Holy,onepiece_wiki
+1917,878,Holly,onepiece_wiki
+1918,879,Hōrudemu,onepiece_wiki
+1919,879,Holed'em,onepiece_wiki
+1920,879,Holdem,onepiece_wiki
+1921,880,Michael and Hoichael,onepiece_wiki
+1922,880,Maikeru ando Hoikeru,onepiece_wiki
+1923,881,Hogubakku,onepiece_wiki
+1924,881,Hogback,onepiece_wiki
+1925,882,Hoe,onepiece_wiki
+1926,883,Hody Jones,onepiece_wiki
+1927,883,Hōdi Jōnzu,onepiece_wiki
+1928,884,Hokkā,onepiece_wiki
+1929,884,Hocker,onepiece_wiki
+1930,885,Hocha,onepiece_wiki
+1931,886,Hō,onepiece_wiki
+1932,886,Hou,onepiece_wiki
+1933,886,Ho,onepiece_wiki
+1934,887,Duke Genghis Baan,onepiece_wiki
+1935,887,Hitsugisukan,onepiece_wiki
+1936,887,Hitsugisukan Kōshaku,onepiece_wiki
+1937,888,Hiroshi,onepiece_wiki
+1938,889,HirilukHiruruku,onepiece_wiki
+1939,889,Hiruruku,onepiece_wiki
+1940,889,Hiriluk,onepiece_wiki
+1941,890,Hiramera,onepiece_wiki
+1942,890,Hiramela,onepiece_wiki
+1943,891,Hippo Gentleman,onepiece_wiki
+1944,891,Kaba Shinshi,onepiece_wiki
+1945,891,Gentleman Hippopotamus,onepiece_wiki
+1946,891,Hippo Gallant,onepiece_wiki
+1947,892,Burn Scar,onepiece_wiki
+1948,892,Hinokizu,onepiece_wiki
+1949,893,Hip,onepiece_wiki
+1950,893,Hippu,onepiece_wiki
+1951,894,Ori Ori no Mi,onepiece_wiki
+1952,894,Hina,onepiece_wiki
+1953,895,Hildon,onepiece_wiki
+1954,895,Hirudon,onepiece_wiki
+1955,896,Hihimaru,onepiece_wiki
+1956,897,Hidayū,onepiece_wiki
+1957,897,Hidayu,onepiece_wiki
+1958,898,Higuma,onepiece_wiki
+1959,899,Hibari,onepiece_wiki
+1960,900,Herb,onepiece_wiki
+1961,900,Hābu,onepiece_wiki
+1962,901,Hewitt,onepiece_wiki
+1963,901,Hyūitto,onepiece_wiki
+1964,902,Heracles,onepiece_wiki
+1965,902,Herakuresu,onepiece_wiki
+1966,903,Hera,onepiece_wiki
+1967,904,Heppoko,onepiece_wiki
+1968,905,Hattori,onepiece_wiki
+1969,906,Heat,onepiece_wiki
+1970,906,Hīto,onepiece_wiki
+1971,907,Hatchan,onepiece_wiki
+1972,908,Helmeppo,onepiece_wiki
+1973,908,Herumeppo,onepiece_wiki
+1974,909,Hatcha,onepiece_wiki
+1975,909,Haccha,onepiece_wiki
+1976,910,Hasami,onepiece_wiki
+1977,910,Pincers,onepiece_wiki
+1978,911,Victimothy Crucifixio,onepiece_wiki
+1979,911,Harītsu Kendiyo,onepiece_wiki
+1980,911,Haritsu Kendiyo,onepiece_wiki
+1981,912,Haruta,onepiece_wiki
+1982,913,Harisenbon,onepiece_wiki
+1983,914,Haredas,onepiece_wiki
+1984,914,Haredasu,onepiece_wiki
+1985,915,Hara,onepiece_wiki
+1986,916,Happygun,onepiece_wiki
+1987,916,Happīgan,onepiece_wiki
+1988,917,Happa Yamao,onepiece_wiki
+1989,918,Hannyabal,onepiece_wiki
+1990,918,Hannyabaru,onepiece_wiki
+1991,919,Hanji,onepiece_wiki
+1992,919,Hanji (Ninja-Pirate-Mink-Samurai ALliance),onepiece_wiki
+1993,920,Hanji,onepiece_wiki
+1994,920,Hanji (Prisoner),onepiece_wiki
+1995,921,Hanzō,onepiece_wiki
+1996,921,Hanzo,onepiece_wiki
+1997,922,Hanger,onepiece_wiki
+1998,922,Hangā,onepiece_wiki
+1999,923,Hana,onepiece_wiki
+2000,923,O-Hana,onepiece_wiki
+2001,924,Hanko,onepiece_wiki
+2002,924,Han-kō,onepiece_wiki
+2003,924,Han,onepiece_wiki
+2004,925,Hangan,onepiece_wiki
+2005,926,Hamondo,onepiece_wiki
+2006,926,Hammond,onepiece_wiki
+2007,927,Hamlet,onepiece_wiki
+2008,927,Hamuretto,onepiece_wiki
+2009,928,Hanbāgu,onepiece_wiki
+2010,928,Hamburg,onepiece_wiki
+2011,929,Hakugan,onepiece_wiki
+2012,930,Ham Burger,onepiece_wiki
+2013,930,Han Bāgā,onepiece_wiki
+2014,931,Hakowan,onepiece_wiki
+2015,931,Boxer,onepiece_wiki
+2016,932,Hack,onepiece_wiki
+2017,932,Hakku,onepiece_wiki
+2018,932,Huck,onepiece_wiki
+2019,933,Hajrudin,onepiece_wiki
+2020,933,Hairudin,onepiece_wiki
+2021,934,Hack,onepiece_wiki
+2022,934,Hakku,onepiece_wiki
+2023,935,Gyaro,onepiece_wiki
+2024,936,Jairo,onepiece_wiki
+2025,936,Gyro,onepiece_wiki
+2026,937,Gyogyo,onepiece_wiki
+2027,938,Gyoru,onepiece_wiki
+2028,938,Gyoll,onepiece_wiki
+2029,939,Girochin,onepiece_wiki
+2030,939,Guillotine,onepiece_wiki
+2031,940,Guernica,onepiece_wiki
+2032,940,Gerunika,onepiece_wiki
+2033,941,GorobeiGorobe,onepiece_wiki
+2034,941,Gorobē,onepiece_wiki
+2035,941,Gorobe,onepiece_wiki
+2036,942,Guramu,onepiece_wiki
+2037,942,Gram,onepiece_wiki
+2038,943,Gotti,onepiece_wiki
+2039,944,Great Michael,onepiece_wiki
+2040,944,Gurēto Mikaeru,onepiece_wiki
+2041,945,Grabar,onepiece_wiki
+2042,945,Gurabā,onepiece_wiki
+2043,945,Grabba,onepiece_wiki
+2044,946,Goro,onepiece_wiki
+2045,946,Gorō,onepiece_wiki
+2046,947,Gorilla,onepiece_wiki
+2047,947,Gorira,onepiece_wiki
+2048,948,Gonbe,onepiece_wiki
+2049,949,Goo,onepiece_wiki
+2050,949,Gū,onepiece_wiki
+2051,950,Gorishirо̄,onepiece_wiki
+2052,950,Gorishiro,onepiece_wiki
+2053,951,Gomora,onepiece_wiki
+2054,951,Gomorrah,onepiece_wiki
+2055,952,Gōrudobāgu,onepiece_wiki
+2056,952,Goldberg,onepiece_wiki
+2057,953,Gōru Dī Rojā,onepiece_wiki
+2058,953,Gol D. Roger,onepiece_wiki
+2059,953,"Gold Roger (ゴールド・ロジャー, Gōrudo Rojā?)",onepiece_wiki
+2060,953,ゴール・D（ディー）・ロジャー,onepiece_wiki
+2061,954,Goki,onepiece_wiki
+2062,954,Gōki,onepiece_wiki
+2063,955,Kingyohime,onepiece_wiki
+2064,955,Goldfish Princess,onepiece_wiki
+2065,956,Gode,onepiece_wiki
+2066,956,Gōde,onepiece_wiki
+2067,957,Going Merry,onepiece_wiki
+2068,957,Gōingu Merī-gō,onepiece_wiki
+2069,958,Glove,onepiece_wiki
+2070,958,Gurōbu,onepiece_wiki
+2071,959,"Elder Nyon (ニョン婆, Nyon Bā?)",onepiece_wiki
+2072,959,Guroriōsa,onepiece_wiki
+2073,959,Gloriosa,onepiece_wiki
+2074,960,Jisumonda,onepiece_wiki
+2075,960,Gismonda,onepiece_wiki
+2076,961,Gladius,onepiece_wiki
+2077,961,Pamu Pamu no Mi,onepiece_wiki
+2078,961,Guradiusu,onepiece_wiki
+2079,962,Giovanni,onepiece_wiki
+2080,962,Joban'ni,onepiece_wiki
+2081,963,"Momousagi (桃兎, Momousagi?, literally meaning ""Pink Rabbit"")",onepiece_wiki
+2082,963,Gion,onepiece_wiki
+2083,964,Giolla,onepiece_wiki
+2084,964,Ato Ato no Mi,onepiece_wiki
+2085,964,Jōra,onepiece_wiki
+2086,965,Ginrummy,onepiece_wiki
+2087,965,Jinramī,onepiece_wiki
+2088,966,Ginny,onepiece_wiki
+2089,966,Jinī,onepiece_wiki
+2090,967,Ginko,onepiece_wiki
+2091,968,Ginnosuke,onepiece_wiki
+2092,969,Giro Chintarō,onepiece_wiki
+2093,969,Giro Chintaro,onepiece_wiki
+2094,970,Gina,onepiece_wiki
+2095,970,Jīna,onepiece_wiki
+2096,971,Ghin,onepiece_wiki
+2097,971,Gin,onepiece_wiki
+2098,972,Gimuretto,onepiece_wiki
+2099,972,Gimlet,onepiece_wiki
+2100,973,Gig,onepiece_wiki
+2101,973,Gigu,onepiece_wiki
+2102,974,Gerotini,onepiece_wiki
+2103,974,Ribbitini,onepiece_wiki
+2104,974,Gerotinī,onepiece_wiki
+2105,975,Gerd,onepiece_wiki
+2106,975,Geruzu,onepiece_wiki
+2107,976,Gibāson,onepiece_wiki
+2108,976,Giberson,onepiece_wiki
+2109,977,George Mach,onepiece_wiki
+2110,977,Jōji Mahha,onepiece_wiki
+2111,978,Genzo,onepiece_wiki
+2112,978,Genzō,onepiece_wiki
+2113,979,Impel Down,onepiece_wiki
+2114,979,Inperu Daun,onepiece_wiki
+2115,980,GenbouGenbo,onepiece_wiki
+2116,980,Genbo,onepiece_wiki
+2117,980,Genbō,onepiece_wiki
+2118,981,Genrin,onepiece_wiki
+2119,982,Jemu,onepiece_wiki
+2120,982,"""Mr. 5"" (Mr. 5（ミスター・ファイブ）, Misutā Faibu?)",onepiece_wiki
+2121,982,Gem,onepiece_wiki
+2122,982,Bomu Bomu no Mi,onepiece_wiki
+2123,983,Gedatz,onepiece_wiki
+2124,983,Gedatsu,onepiece_wiki
+2125,984,Gecko Moria,onepiece_wiki
+2126,984,Kage Kage no Mi,onepiece_wiki
+2127,984,Gekkō Moria,onepiece_wiki
+2128,985,Gazelleman,onepiece_wiki
+2129,985,Gazelle-Man,onepiece_wiki
+2130,985,Gazeruman,onepiece_wiki
+2131,986,Gyasarin,onepiece_wiki
+2132,986,Gatherine,onepiece_wiki
+2133,987,Gatz,onepiece_wiki
+2134,987,Gyats,onepiece_wiki
+2135,987,Gyattsu,onepiece_wiki
+2136,988,Ganryu (Roger Pirates),onepiece_wiki
+2137,988,Ganryū,onepiece_wiki
+2138,988,Ganryu,onepiece_wiki
+2139,989,Ganryū,onepiece_wiki
+2140,989,Ganryu,onepiece_wiki
+2141,989,Ganryu (Spade Pirates),onepiece_wiki
+2142,990,Funimation simulcast),onepiece_wiki
+2143,990,Ganfor,onepiece_wiki
+2144,990,Gan Fōru,onepiece_wiki
+2145,990,Gunfall,onepiece_wiki
+2146,990,Gan Fall,onepiece_wiki
+2147,991,Gyanbo,onepiece_wiki
+2148,991,Gambo,onepiece_wiki
+2149,992,Gama Pyonnosuke,onepiece_wiki
+2150,992,Toad Boingnosuke,onepiece_wiki
+2151,993,Gambia,onepiece_wiki
+2152,993,Ganbia,onepiece_wiki
+2153,994,Gancho,onepiece_wiki
+2154,995,Gyarudīno,onepiece_wiki
+2155,995,Doru Doru no Mi,onepiece_wiki
+2156,995,"""Mr. 3"" (Mr. 3（ミスター・スリー）, Misutā Surī?)",onepiece_wiki
+2157,995,Galdino,onepiece_wiki
+2158,995,Mr. 3/Galdino,onepiece_wiki
+2159,996,Gally,onepiece_wiki
+2160,996,Gyarī,onepiece_wiki
+2161,996,"Jolly, Gary",onepiece_wiki
+2162,997,Garu,onepiece_wiki
+2163,997,Gal,onepiece_wiki
+2164,998,Berry,onepiece_wiki
+2165,998,Belly,onepiece_wiki
+2166,998,Berī,onepiece_wiki
+2167,999,Gaimon,onepiece_wiki
+2168,1000,Gobble,onepiece_wiki
+2169,1000,Gaburu,onepiece_wiki
+2170,1000,Gabull,onepiece_wiki
+2171,1001,Gyarakushī,onepiece_wiki
+2172,1001,Galaxy,onepiece_wiki
+2173,1002,Gabu,onepiece_wiki
+2174,1002,Gab,onepiece_wiki
+2175,1003,Fuza,onepiece_wiki
+2176,1004,Furrari,onepiece_wiki
+2177,1004,Furāri,onepiece_wiki
+2178,1005,Zou Zou no Mi,onepiece_wiki
+2179,1005,Funkfreed,onepiece_wiki
+2180,1005,Funk Freed,onepiece_wiki
+2181,1005,Fankufurīdo,onepiece_wiki
+2182,1006,Fukurokuju,onepiece_wiki
+2183,1007,Fukurō,onepiece_wiki
+2184,1007,Fukurou,onepiece_wiki
+2185,1008,Fullbody,onepiece_wiki
+2186,1008,Furubodi,onepiece_wiki
+2187,1008,Full Body,onepiece_wiki
+2188,1009,Fukumi,onepiece_wiki
+2189,1010,Fujin,onepiece_wiki
+2190,1010,Fūjin,onepiece_wiki
+2191,1011,Fukaboshi,onepiece_wiki
+2192,1012,Fugetsu Omusubi,onepiece_wiki
+2193,1012,Fūgetsu Omusubi,onepiece_wiki
+2194,1013,Furansowa,onepiece_wiki
+2195,1013,Francois,onepiece_wiki
+2196,1014,Furankī,onepiece_wiki
+2197,1014,Frankie,onepiece_wiki
+2198,1014,Franky,onepiece_wiki
+2199,1014,"""Fra-nosuke"" (フラの介, Furanosuke?, English versions: Franosuke)",onepiece_wiki
+2200,1015,Fūga,onepiece_wiki
+2201,1015,Fuga,onepiece_wiki
+2202,1016,Noro Noro no Mi,onepiece_wiki
+2203,1016,Foxy,onepiece_wiki
+2204,1016,Fokushī,onepiece_wiki
+2205,1017,Fugā,onepiece_wiki
+2206,1017,Fugar,onepiece_wiki
+2207,1018,Fōtorikkusu,onepiece_wiki
+2208,1018,Fourtricks,onepiece_wiki
+2209,1019,Fōryūbusu,onepiece_wiki
+2210,1019,Forliewbs,onepiece_wiki
+2211,1020,Fossa,onepiece_wiki
+2212,1021,Mori Banchō,onepiece_wiki
+2213,1021,Forest Boss,onepiece_wiki
+2214,1022,Flare,onepiece_wiki
+2215,1022,Flair,onepiece_wiki
+2216,1022,Furea,onepiece_wiki
+2217,1023,Furappā,onepiece_wiki
+2218,1023,Flapper,onepiece_wiki
+2219,1024,Fisshā Taigā,onepiece_wiki
+2220,1024,Fisher Tiger,onepiece_wiki
+2221,1025,Figārando Gāringu Sei,onepiece_wiki
+2222,1025,Figarland Garling,onepiece_wiki
+2223,1025,Saint Figarland Garling,onepiece_wiki
+2224,1026,Fausuto,onepiece_wiki
+2225,1026,Faust,onepiece_wiki
+2226,1027,Faruru,onepiece_wiki
+2227,1027,Farul,onepiece_wiki
+2228,1028,Fisshubōnen,onepiece_wiki
+2229,1028,Fishbonen,onepiece_wiki
+2230,1029,Fiyonse,onepiece_wiki
+2231,1029,Fillonce,onepiece_wiki
+2232,1029,Fiyonce,onepiece_wiki
+2233,1030,Farafra,onepiece_wiki
+2234,1030,Faracia,onepiece_wiki
+2235,1030,Falafra,onepiece_wiki
+2236,1030,Farafura,onepiece_wiki
+2237,1031,Finamore,onepiece_wiki
+2238,1032,Fen Bokku,onepiece_wiki
+2239,1032,Fen Bock,onepiece_wiki
+2240,1033,Eustass Kid,onepiece_wiki
+2241,1033,Jiki Jiki no Mi,onepiece_wiki
+2242,1033,Yūsutasu Kiddo,onepiece_wiki
+2243,1034,Esta,onepiece_wiki
+2244,1034,Esuta,onepiece_wiki
+2245,1035,Ethanbaron V. Nusjuro,onepiece_wiki
+2246,1035,St. Ethanbaron V. Nusjuro,onepiece_wiki
+2247,1035,Īzanbaron Bui Nasujurō Sei,onepiece_wiki
+2248,1035,イーザンバロン・V（ブイ）・ナス寿郎聖,onepiece_wiki
+2249,1036,Erikku,onepiece_wiki
+2250,1036,Erik,onepiece_wiki
+2251,1036,Eric,onepiece_wiki
+2252,1037,Epony,onepiece_wiki
+2253,1037,Époni,onepiece_wiki
+2254,1037,Eponī,onepiece_wiki
+2255,1038,Epoida,onepiece_wiki
+2256,1039,Genista,onepiece_wiki
+2257,1039,Enishida,onepiece_wiki
+2258,1040,Erio,onepiece_wiki
+2259,1040,Elio,onepiece_wiki
+2260,1041,Enel,onepiece_wiki
+2261,1041,Eneru,onepiece_wiki
+2262,1041,Goro Goro no Mi,onepiece_wiki
+2263,1042,Emma,onepiece_wiki
+2264,1042,Ema,onepiece_wiki
+2265,1043,Emporio Ivankov,onepiece_wiki
+2266,1043,Horu Horu no Mi,onepiece_wiki
+2267,1043,Enporio Iwankofu,onepiece_wiki
+2268,1044,エリザベローII世,onepiece_wiki
+2269,1044,Elizabero II,onepiece_wiki
+2270,1044,Elizabello II,onepiece_wiki
+2271,1044,Erizaberō Nisei,onepiece_wiki
+2272,1045,Erumī,onepiece_wiki
+2273,1045,Elmy,onepiece_wiki
+2274,1046,Eikon,onepiece_wiki
+2275,1047,Eggplant Soldier,onepiece_wiki
+2276,1047,Nasu-hei,onepiece_wiki
+2277,1048,Ēgana,onepiece_wiki
+2278,1048,Egana,onepiece_wiki
+2279,1048,Ehgana,onepiece_wiki
+2280,1049,Eyri,onepiece_wiki
+2281,1049,Eiri,onepiece_wiki
+2282,1049,Eiri-kun,onepiece_wiki
+2283,1050,"""Whitebeard Jr."" (白ひげJr., Shirohige Junia?) (self proclaimed)",onepiece_wiki
+2284,1050,Edward Weevil,onepiece_wiki
+2285,1050,Edowādo Wīburu,onepiece_wiki
+2286,1051,Edowādo Nyūgēto,onepiece_wiki
+2287,1051,Ward Newgate,onepiece_wiki
+2288,1051,Gura Gura no Mi,onepiece_wiki
+2289,1051,Edward Newgate,onepiece_wiki
+2290,1052,Edison,onepiece_wiki
+2291,1052,Ejison,onepiece_wiki
+2292,1053,Edi,onepiece_wiki
+2293,1053,Eddy,onepiece_wiki
+2294,1054,Duval,onepiece_wiki
+2295,1054,Dyubaru,onepiece_wiki
+2296,1055,Dakkī Burī,onepiece_wiki
+2297,1055,Ducky Bree,onepiece_wiki
+2298,1056,Drug Peclo,onepiece_wiki
+2299,1056,Doraggu Piekuro,onepiece_wiki
+2300,1057,Mogu Mogu no Mi,onepiece_wiki
+2301,1057,Dorofī,onepiece_wiki
+2302,1057,Drophy,onepiece_wiki
+2303,1057,"""Miss Merry Christmas"" (ミス・メリークリスマス, Misu Merī Kurisumasu?, 4Kids: ""Ms. Groundhog's Day"")",onepiece_wiki
+2304,1058,Dorippu,onepiece_wiki
+2305,1058,Drip,onepiece_wiki
+2306,1058,Gack,onepiece_wiki
+2307,1059,Doragon Jūsan-gō,onepiece_wiki
+2308,1059,Dragon Number Thirteen,onepiece_wiki
+2309,1060,Dotaku,onepiece_wiki
+2310,1060,Dōtaku,onepiece_wiki
+2311,1061,Dracule Mihawk,onepiece_wiki
+2312,1061,Dracule MihawkDiego Mihawk,onepiece_wiki
+2313,1061,Jurakyūru Mihōku,onepiece_wiki
+2314,1062,Dorry,onepiece_wiki
+2315,1062,Dorī,onepiece_wiki
+2316,1063,Doringo,onepiece_wiki
+2317,1064,Dorrow,onepiece_wiki
+2318,1064,Draw,onepiece_wiki
+2319,1064,Dorō,onepiece_wiki
+2320,1065,Doran,onepiece_wiki
+2321,1065,Dolan,onepiece_wiki
+2322,1066,Dosun,onepiece_wiki
+2323,1067,Donquixote Mjosgard,onepiece_wiki
+2324,1067,Don Quixote Myosgard,onepiece_wiki
+2325,1067,Donkihōte Myosugarudo Sei,onepiece_wiki
+2326,1068,Nagi Nagi no Mi,onepiece_wiki
+2327,1068,"Corazon (コラソン, Korason?)",onepiece_wiki
+2328,1068,Donkihōte Roshinante,onepiece_wiki
+2329,1068,Don Quixote Rosinante,onepiece_wiki
+2330,1068,Don Quixote Rocinante,onepiece_wiki
+2331,1068,Donquixote Rosinante,onepiece_wiki
+2332,1069,Donquixote Homing,onepiece_wiki
+2333,1069,Donkihōte Hōmingu,onepiece_wiki
+2334,1069,Don Quixote Homing,onepiece_wiki
+2335,1070,Ito Ito no Mi,onepiece_wiki
+2336,1070,Donkihōte Dofuramingo,onepiece_wiki
+2337,1070,Don Quixote Doflamingo,onepiece_wiki
+2338,1070,Donquixote Doflamingo,onepiece_wiki
+2339,1070,"""Joker"" (ジョーカー, Jōkā?)",onepiece_wiki
+2340,1071,Donannoyo,onepiece_wiki
+2341,1071,Dōnannoyo,onepiece_wiki
+2342,1072,Donquino,onepiece_wiki
+2343,1072,Donkino,onepiece_wiki
+2344,1072,Donkīno,onepiece_wiki
+2345,1073,Donovan,onepiece_wiki
+2346,1073,Donoban,onepiece_wiki
+2347,1074,Domo-kun and Nnke-kun,onepiece_wiki
+2348,1074,"Dōmo-kun, Nnke-kun",onepiece_wiki
+2349,1074,"Domo-kun, Nnke-kun",onepiece_wiki
+2350,1075,Domino,onepiece_wiki
+2351,1076,Doma,onepiece_wiki
+2352,1076,Dōma,onepiece_wiki
+2353,1077,Dōru,onepiece_wiki
+2354,1077,Doll,onepiece_wiki
+2355,1078,Dogura,onepiece_wiki
+2356,1078,Dogra,onepiece_wiki
+2357,1079,Shiku Shiku no Mi,onepiece_wiki
+2358,1079,Doku Kyū,onepiece_wiki
+2359,1079,Doc Q,onepiece_wiki
+2360,1080,Dobī Ibadonbo,onepiece_wiki
+2361,1080,Dobby Ibadonbo,onepiece_wiki
+2362,1081,Howja Geddinthere II,onepiece_wiki
+2363,1081,Doha Ittanka II,onepiece_wiki
+2364,1081,Dōha Ittanka Nisei,onepiece_wiki
+2365,1081,ドーハ・イッタンカII世,onepiece_wiki
+2366,1082,Dōberuman,onepiece_wiki
+2367,1082,Doberman,onepiece_wiki
+2368,1083,Dogya,onepiece_wiki
+2369,1084,Dive,onepiece_wiki
+2370,1084,Daibu,onepiece_wiki
+2371,1085,Dobon,onepiece_wiki
+2372,1086,Disuko,onepiece_wiki
+2373,1086,Disco,onepiece_wiki
+2374,1087,Diez BarrelsX. Barrels,onepiece_wiki
+2375,1087,Diez Barrels,onepiece_wiki
+2376,1087,Diesu Bareruzu,onepiece_wiki
+2377,1088,Dirt Boss,onepiece_wiki
+2378,1088,Earth Boss,onepiece_wiki
+2379,1088,Tsuchi Banchyō,onepiece_wiki
+2380,1089,Dīzeru,onepiece_wiki
+2381,1089,Diesel,onepiece_wiki
+2382,1090,ディスクJ（ジェイ）,onepiece_wiki
+2383,1090,Disuku Jei,onepiece_wiki
+2384,1090,Disc J,onepiece_wiki
+2385,1091,Didit,onepiece_wiki
+2386,1091,Diditto,onepiece_wiki
+2387,1092,Diamante,onepiece_wiki
+2388,1092,Hira Hira no Mi,onepiece_wiki
+2389,1093,Devil Dias,onepiece_wiki
+2390,1093,Debiru Diasu,onepiece_wiki
+2391,1093,Devil,onepiece_wiki
+2392,1094,"""Kyoshiro"" (狂死郎, Kyōshirō?)""Ushimitsu Kozo"" (丑三つ小僧, Ushimitsu Kozō?, Meaning ""Witching Hour Boy"")",onepiece_wiki
+2393,1094,Denjiro,onepiece_wiki
+2394,1094,Denjirō,onepiece_wiki
+2395,1095,Den,onepiece_wiki
+2396,1096,Demaro Burakku,onepiece_wiki
+2397,1096,Demaro Black,onepiece_wiki
+2398,1097,Dellinger,onepiece_wiki
+2399,1097,Derinjā,onepiece_wiki
+2400,1098,Derakuahi,onepiece_wiki
+2401,1098,Delacuaji,onepiece_wiki
+2402,1099,Decalvan Brothers,onepiece_wiki
+2403,1099,Dikaruban Kyōdai,onepiece_wiki
+2404,1100,Daruma,onepiece_wiki
+2405,1101,Daz Bonez,onepiece_wiki
+2406,1101,Dazu Bōnesu,onepiece_wiki
+2407,1101,Supa Supa no Mi,onepiece_wiki
+2408,1101,"""Mr. 1"" (Mr. 1（ミスター・ワン）, Misutā Wan?)",onepiece_wiki
+2409,1102,Damasuku,onepiece_wiki
+2410,1102,Damask,onepiece_wiki
+2411,1103,Darumeshian,onepiece_wiki
+2412,1103,Dalmatian,onepiece_wiki
+2413,1103,Dalmation,onepiece_wiki
+2414,1104,"Ushi Ushi no Mi, Model: Bison",onepiece_wiki
+2415,1104,Dalton,onepiece_wiki
+2416,1104,Doruton,onepiece_wiki
+2417,1104,DaltonDolton,onepiece_wiki
+2418,1105,Daikoku,onepiece_wiki
+2419,1106,Daigin,onepiece_wiki
+2420,1107,Daifugo,onepiece_wiki
+2421,1107,Daifugō,onepiece_wiki
+2422,1108,Dējī,onepiece_wiki
+2423,1108,Daisy,onepiece_wiki
+2424,1109,Daidarosu,onepiece_wiki
+2425,1109,Daedalus,onepiece_wiki
+2426,1109,Daidalos,onepiece_wiki
+2427,1110,Daikon,onepiece_wiki
+2428,1111,Dagama,onepiece_wiki
+2429,1112,Dachōman,onepiece_wiki
+2430,1112,Dachoman,onepiece_wiki
+2431,1113,Dadīdī,onepiece_wiki
+2432,1113,Daddy Dee,onepiece_wiki
+2433,1114,D.R.,onepiece_wiki
+2434,1114,Dī Āru,onepiece_wiki
+2435,1115,Shirano,onepiece_wiki
+2436,1115,Cyrano,onepiece_wiki
+2437,1116,Curiel,onepiece_wiki
+2438,1116,Kurieru,onepiece_wiki
+2439,1117,Curly Dadan,onepiece_wiki
+2440,1117,Kārī Dadan,onepiece_wiki
+2441,1118,Crocus,onepiece_wiki
+2442,1118,Kurokkasu,onepiece_wiki
+2443,1119,Kūran,onepiece_wiki
+2444,1119,Couran,onepiece_wiki
+2445,1120,"""Mr. 0"" (ミスター・ゼロ, Misutā Zero?)",onepiece_wiki
+2446,1120,Crocodile,onepiece_wiki
+2447,1120,Kurokodairu,onepiece_wiki
+2448,1120,Suna Suna no Mi,onepiece_wiki
+2449,1121,Cotton,onepiece_wiki
+2450,1121,Kotton,onepiece_wiki
+2451,1122,Kosumosu,onepiece_wiki
+2452,1122,Cosmos,onepiece_wiki
+2453,1123,Cosette,onepiece_wiki
+2454,1123,Kozetto,onepiece_wiki
+2455,1124,Kosumo,onepiece_wiki
+2456,1124,Cosmo,onepiece_wiki
+2457,1125,Cornelia,onepiece_wiki
+2458,1125,Kōneria,onepiece_wiki
+2459,1126,Coribou,onepiece_wiki
+2460,1126,Koribū,onepiece_wiki
+2461,1127,Corgy,onepiece_wiki
+2462,1127,Kōgī,onepiece_wiki
+2463,1127,Corgi,onepiece_wiki
+2464,1128,Conis,onepiece_wiki
+2465,1128,Konisu,onepiece_wiki
+2466,1129,Konī,onepiece_wiki
+2467,1129,Connie,onepiece_wiki
+2468,1129,Conney,onepiece_wiki
+2469,1130,Konsurotto,onepiece_wiki
+2470,1130,Concelot,onepiece_wiki
+2471,1131,Konpo,onepiece_wiki
+2472,1131,Compo,onepiece_wiki
+2473,1131,Comp,onepiece_wiki
+2474,1132,Comil,onepiece_wiki
+2475,1132,Komille,onepiece_wiki
+2476,1132,Kōmiru,onepiece_wiki
+2477,1133,Koronbusu,onepiece_wiki
+2478,1133,Columbus,onepiece_wiki
+2479,1134,Korusukon,onepiece_wiki
+2480,1134,Colscon,onepiece_wiki
+2481,1135,Kokoa,onepiece_wiki
+2482,1135,Cocoa,onepiece_wiki
+2483,1136,Buckox,onepiece_wiki
+2484,1136,Kokokkusu,onepiece_wiki
+2485,1136,Cocox,onepiece_wiki
+2486,1137,Kurōbā,onepiece_wiki
+2487,1137,Clover,onepiece_wiki
+2488,1138,Coburn,onepiece_wiki
+2489,1138,Kobān,onepiece_wiki
+2490,1139,Chuji,onepiece_wiki
+2491,1139,Chūji,onepiece_wiki
+2492,1140,Kurappu,onepiece_wiki
+2493,1140,Clapp,onepiece_wiki
+2494,1141,Chuchun,onepiece_wiki
+2495,1141,Chuchūn,onepiece_wiki
+2496,1141,Chirp Chirp,onepiece_wiki
+2497,1142,Chome,onepiece_wiki
+2498,1143,Chouchou,onepiece_wiki
+2499,1143,Shushu,onepiece_wiki
+2500,1144,Chocolat,onepiece_wiki
+2501,1144,Shokora,onepiece_wiki
+2502,1145,Choi,onepiece_wiki
+2503,1146,Kurione,onepiece_wiki
+2504,1146,Clione,onepiece_wiki
+2505,1147,Chocopolice,onepiece_wiki
+2506,1147,Choco Police,onepiece_wiki
+2507,1147,Chokoporisu,onepiece_wiki
+2508,1148,Ocho,onepiece_wiki
+2509,1148,O-Chō,onepiece_wiki
+2510,1148,Cho,onepiece_wiki
+2511,1149,Chiya,onepiece_wiki
+2512,1150,Chihaya,onepiece_wiki
+2513,1151,Chimney,onepiece_wiki
+2514,1151,Chimunī,onepiece_wiki
+2515,1152,Qing Jiao,onepiece_wiki
+2516,1152,Chinjao,onepiece_wiki
+2517,1152,Chin Jao,onepiece_wiki
+2518,1153,Chocho,onepiece_wiki
+2519,1153,O-Chōchō,onepiece_wiki
+2520,1154,Chikin,onepiece_wiki
+2521,1154,Mrs. Chicken,onepiece_wiki
+2522,1154,Chicken,onepiece_wiki
+2523,1155,Chichilisia,onepiece_wiki
+2524,1155,Chichirishia,onepiece_wiki
+2525,1156,Chicory,onepiece_wiki
+2526,1156,Chikori,onepiece_wiki
+2527,1157,Chū,onepiece_wiki
+2528,1157,Choo,onepiece_wiki
+2529,1157,Chu,onepiece_wiki
+2530,1157,Chew,onepiece_wiki
+2531,1158,Chesskippa,onepiece_wiki
+2532,1158,Chesukippa,onepiece_wiki
+2533,1158,Chesskipper,onepiece_wiki
+2534,1159,Shārotto Zukotto,onepiece_wiki
+2535,1159,Charlotte Zuccotto,onepiece_wiki
+2536,1160,Chessmarimo,onepiece_wiki
+2537,1160,Chesumārimo,onepiece_wiki
+2538,1161,Charlotte Yuen,onepiece_wiki
+2539,1161,Shārotto Yūen,onepiece_wiki
+2540,1162,Charlotte Wafers,onepiece_wiki
+2541,1162,Shārotto Uehāsu,onepiece_wiki
+2542,1163,Shārotto Wiro,onepiece_wiki
+2543,1163,Charlotte Uiro,onepiece_wiki
+2544,1163,Charlotte Wiro,onepiece_wiki
+2545,1164,Charlotte Tablet,onepiece_wiki
+2546,1164,Shārotto Taburetto,onepiece_wiki
+2547,1165,Shārotto Sunakku,onepiece_wiki
+2548,1165,Charlotte Snack,onepiece_wiki
+2549,1166,Chesu,onepiece_wiki
+2550,1166,Chess,onepiece_wiki
+2551,1167,Shibo Shibo no Mi,onepiece_wiki
+2552,1167,Charlotte Smoothie,onepiece_wiki
+2553,1167,Shārotto Sumūjī,onepiece_wiki
+2554,1168,Shārotto Rezan,onepiece_wiki
+2555,1168,Charlotte Raisin,onepiece_wiki
+2556,1169,Shārotto Purimu,onepiece_wiki
+2557,1169,Charlotte Prim,onepiece_wiki
+2558,1170,Memo Memo no Mi,onepiece_wiki
+2559,1170,Charlotte Pudding,onepiece_wiki
+2560,1170,Shārotto Purin,onepiece_wiki
+2561,1171,Charlotte Praline,onepiece_wiki
+2562,1171,Shārotto Purarine,onepiece_wiki
+2563,1172,Shārotto Powāru,onepiece_wiki
+2564,1172,Charlotte Poire,onepiece_wiki
+2565,1173,Shārotto Sanmaruku,onepiece_wiki
+2566,1173,Charlotte Saint-Marc,onepiece_wiki
+2567,1173,Charlotte Saintmarc,onepiece_wiki
+2568,1174,Charlotte Perosperaw,onepiece_wiki
+2569,1174,Shārotto Perosuperō,onepiece_wiki
+2570,1174,Pero Pero no Mi,onepiece_wiki
+2571,1174,Charlotte Perospero,onepiece_wiki
+2572,1175,Netsu Netsu no Mi,onepiece_wiki
+2573,1175,Charlotte Oven,onepiece_wiki
+2574,1175,Shārotto Ōbun,onepiece_wiki
+2575,1176,Shārotto Opera,onepiece_wiki
+2576,1176,Kuri Kuri no Mi,onepiece_wiki
+2577,1176,Charlotte Opera,onepiece_wiki
+2578,1177,Charlotte Nusstorte,onepiece_wiki
+2579,1177,Shārotto Nusutorute,onepiece_wiki
+2580,1178,Charlotte Nougat,onepiece_wiki
+2581,1178,Shārotto Nugā,onepiece_wiki
+2582,1179,Charlotte Panna,onepiece_wiki
+2583,1179,Shārotto Panna,onepiece_wiki
+2584,1180,Charlotte Normande,onepiece_wiki
+2585,1180,Shārotto Norumando,onepiece_wiki
+2586,1181,Shārotto Noazetto,onepiece_wiki
+2587,1181,Charlotte Noisette,onepiece_wiki
+2588,1182,Shārotto Myūkuru,onepiece_wiki
+2589,1182,Charlotte Myukuru,onepiece_wiki
+2590,1183,Charlotte Moscato,onepiece_wiki
+2591,1183,Shārotto Mosukāto,onepiece_wiki
+2592,1184,Charlotte Mozart,onepiece_wiki
+2593,1184,Shārotto Mōtsaruto,onepiece_wiki
+2594,1185,Charlotte Montb,onepiece_wiki
+2595,1185,Shārotto Monbu,onepiece_wiki
+2596,1186,Buku Buku no Mi,onepiece_wiki
+2597,1186,Charlotte Montd'Or,onepiece_wiki
+2598,1186,Charlotte Mont-d'Or,onepiece_wiki
+2599,1186,Shārotto Mondōru,onepiece_wiki
+2600,1187,Charlotte Monder,onepiece_wiki
+2601,1187,Charlotte Mondée,onepiece_wiki
+2602,1187,Shārotto Monde,onepiece_wiki
+2603,1187,Charlotte Mondee,onepiece_wiki
+2604,1188,Shārotto Mōbiru,onepiece_wiki
+2605,1188,Charlotte Mobile,onepiece_wiki
+2606,1189,Charlotte Melise,onepiece_wiki
+2607,1189,Shārotto Merize,onepiece_wiki
+2608,1190,Shārotto Masshu,onepiece_wiki
+2609,1190,Charlotte Mash,onepiece_wiki
+2610,1191,Charlotte Mascarpone,onepiece_wiki
+2611,1191,Shārotto Masukarupōne,onepiece_wiki
+2612,1192,Charlotte Marble,onepiece_wiki
+2613,1192,Shārotto Māburu,onepiece_wiki
+2614,1193,Charlotte Marnier,onepiece_wiki
+2615,1193,Shārotto Marunie,onepiece_wiki
+2616,1194,Shārotto Mēpuru,onepiece_wiki
+2617,1194,Charlotte Maple,onepiece_wiki
+2618,1195,Shārotto Rōra,onepiece_wiki
+2619,1195,Charlotte Lola,onepiece_wiki
+2620,1196,Shārotto Rinrin,onepiece_wiki
+2621,1196,Soru Soru no Mi,onepiece_wiki
+2622,1196,"""O-Lin"" (おリン, Orin?, English versions: ""Olin"")",onepiece_wiki
+2623,1196,Charlotte Linlin,onepiece_wiki
+2624,1197,Charlotte Laurin,onepiece_wiki
+2625,1197,Shārotto Raurin,onepiece_wiki
+2626,1198,Fructose,onepiece_wiki
+2627,1198,Shārotto Katō,onepiece_wiki
+2628,1198,Kato,onepiece_wiki
+2629,1198,Charlotte Kato,onepiece_wiki
+2630,1199,Charlotte Kanten,onepiece_wiki
+2631,1199,Shārotto Kanten,onepiece_wiki
+2632,1200,Shārotto Katakuri,onepiece_wiki
+2633,1200,Mochi Mochi no Mi,onepiece_wiki
+2634,1200,Charlotte Katakuri,onepiece_wiki
+2635,1201,Charlotte Joconde,onepiece_wiki
+2636,1201,Shārotto Jokondo,onepiece_wiki
+2637,1202,Charlotte Hachée,onepiece_wiki
+2638,1202,Shārotto Asshu,onepiece_wiki
+2639,1202,Charlotte Hachee,onepiece_wiki
+2640,1203,Shārotto Haifatto,onepiece_wiki
+2641,1203,Charlotte High-Fat,onepiece_wiki
+2642,1204,Shārotto Josukarupōne,onepiece_wiki
+2643,1204,Charlotte Joscarpone,onepiece_wiki
+2644,1205,Bata Bata no Mi,onepiece_wiki
+2645,1205,Charlotte Galette,onepiece_wiki
+2646,1205,Shārotto Garetto,onepiece_wiki
+2647,1206,Shārotto Furanpe,onepiece_wiki
+2648,1206,Charlotte Flampe,onepiece_wiki
+2649,1207,Charlotte Effilee,onepiece_wiki
+2650,1207,Shārotto Efire,onepiece_wiki
+2651,1207,Charlotte Effiler,onepiece_wiki
+2652,1207,Charlotte Effilée,onepiece_wiki
+2653,1208,Shārotto Dosumarushe,onepiece_wiki
+2654,1208,Charlotte Dosmarche,onepiece_wiki
+2655,1209,Charlotte Gala,onepiece_wiki
+2656,1209,Shārotto Gara,onepiece_wiki
+2657,1210,Shārotto Dosha,onepiece_wiki
+2658,1210,Charlotte De-Chat,onepiece_wiki
+2659,1211,Charlotte Daifuku,onepiece_wiki
+2660,1211,Hoya Hoya no Mi,onepiece_wiki
+2661,1211,Shārotto Daifuku,onepiece_wiki
+2662,1212,Charlotte Dacquoise,onepiece_wiki
+2663,1212,Shārotto Dakuwāzu,onepiece_wiki
+2664,1213,Shārotto Kasutādo,onepiece_wiki
+2665,1213,Charlotte Custard,onepiece_wiki
+2666,1214,Charlotte Dolce and Dragee,onepiece_wiki
+2667,1214,Charlotte Dolce and Dragée,onepiece_wiki
+2668,1214,Shārotto DorucheShārotto Doraje,onepiece_wiki
+2669,1215,Charlotte Counter,onepiece_wiki
+2670,1215,Shārotto Kauntā,onepiece_wiki
+2671,1216,Shārotto Kurakkā,onepiece_wiki
+2672,1216,Charlotte Cracker,onepiece_wiki
+2673,1216,Bisu Bisu no Mi,onepiece_wiki
+2674,1217,Charlotte Cornstarch,onepiece_wiki
+2675,1217,Shārotto Konsutāchi,onepiece_wiki
+2676,1218,Charlotte Compote,onepiece_wiki
+2677,1218,Shārotto Konpōto,onepiece_wiki
+2678,1219,Charlotte Compo,onepiece_wiki
+2679,1219,Shārotto Konpo,onepiece_wiki
+2680,1220,Charlotte Citron,onepiece_wiki
+2681,1220,Shārotto Shitoron,onepiece_wiki
+2682,1221,Shārotto Shinamon,onepiece_wiki
+2683,1221,Charlotte Cinnamon,onepiece_wiki
+2684,1222,Shārotto Shifon,onepiece_wiki
+2685,1222,Charlotte Chiffon,onepiece_wiki
+2686,1223,Shārotto Shibūsuto,onepiece_wiki
+2687,1223,Charlotte Chiboust,onepiece_wiki
+2688,1224,Charlotte Cadenza,onepiece_wiki
+2689,1224,Shārotto Kadentsa,onepiece_wiki
+2690,1225,Shārotto Kabaretta,onepiece_wiki
+2691,1225,Charlotte Cabaletta,onepiece_wiki
+2692,1226,Charlotte Brûlée,onepiece_wiki
+2693,1226,Charlotte Brulee,onepiece_wiki
+2694,1226,Shārotto Buryure,onepiece_wiki
+2695,1226,Mira Mira no Mi,onepiece_wiki
+2696,1227,Charlotte Broyé,onepiece_wiki
+2697,1227,Charlotte Broye,onepiece_wiki
+2698,1227,Shārotto Burowaie,onepiece_wiki
+2699,1228,Shārotto Buraunī,onepiece_wiki
+2700,1228,Charlotte Brownie,onepiece_wiki
+2701,1229,Charlotte Bavarois,onepiece_wiki
+2702,1229,Shārotto Babaroa,onepiece_wiki
+2703,1230,Charlotte Anglais,onepiece_wiki
+2704,1230,Charlotte Anglaise,onepiece_wiki
+2705,1230,Shārotto Angure,onepiece_wiki
+2706,1231,Charlotte Basskarte,onepiece_wiki
+2707,1231,Charlotte Bassquarte,onepiece_wiki
+2708,1231,Shārotto Basukarute,onepiece_wiki
+2709,1232,Charlotte Anana,onepiece_wiki
+2710,1232,Shārotto Anana,onepiece_wiki
+2711,1233,Charlotte Basans,onepiece_wiki
+2712,1233,Shārotto Basanzu,onepiece_wiki
+2713,1234,Charlotte Angel,onepiece_wiki
+2714,1234,Shārotto Enzeru,onepiece_wiki
+2715,1235,10つ子達,onepiece_wiki
+2716,1235,Charlotte Decuplets,onepiece_wiki
+2717,1235,Juttsugo-tachi,onepiece_wiki
+2718,1235,Decuplets,onepiece_wiki
+2719,1236,Saint Charloss,onepiece_wiki
+2720,1236,Saint Charlos,onepiece_wiki
+2721,1236,Charlos,onepiece_wiki
+2722,1236,Charurosu Sei,onepiece_wiki
+2723,1237,Shārotto Amando,onepiece_wiki
+2724,1237,Charlotte Amande,onepiece_wiki
+2725,1238,Chappu,onepiece_wiki
+2726,1238,Chap,onepiece_wiki
+2727,1239,Chao,onepiece_wiki
+2728,1240,"Inu Inu no Mi, Model: Jackal",onepiece_wiki
+2729,1240,Chaka,onepiece_wiki
+2730,1241,Chappe,onepiece_wiki
+2731,1242,Chabo,onepiece_wiki
+2732,1243,Chadorosu Higerigesu,onepiece_wiki
+2733,1243,Browndros Beardriguez,onepiece_wiki
+2734,1243,Chadros Higelyges,onepiece_wiki
+2735,1244,Shībī Gyaran,onepiece_wiki
+2736,1244,CB（シービー）ギャラン,onepiece_wiki
+2737,1244,CB Gallant,onepiece_wiki
+2738,1245,Kyabendisshu,onepiece_wiki
+2739,1245,Cavendish,onepiece_wiki
+2740,1245,"Hakuba (ハクバ, Hakuba?)",onepiece_wiki
+2741,1246,Sēza,onepiece_wiki
+2742,1246,Cezar,onepiece_wiki
+2743,1247,Cerberus,onepiece_wiki
+2744,1247,Keruberosu,onepiece_wiki
+2745,1248,Katarīna Debon,onepiece_wiki
+2746,1248,"Inu Inu no Mi, Model: Kyubi no Kitsune",onepiece_wiki
+2747,1248,Catarina Devon,onepiece_wiki
+2748,1248,Catalina Devon,onepiece_wiki
+2749,1249,Katakonbo,onepiece_wiki
+2750,1249,Catacombo,onepiece_wiki
+2751,1250,Carne,onepiece_wiki
+2752,1250,Karune,onepiece_wiki
+2753,1251,"""Sister Carmel"" (シスター・カルメル, Shisutā Karumeru?)",onepiece_wiki
+2754,1251,Carmel,onepiece_wiki
+2755,1251,"""Mountain Witch"" (山姥, Yamanba?, Viz: ""Mountain Hag"")",onepiece_wiki
+2756,1251,Soru Soru no Mi,onepiece_wiki
+2757,1251,"Mother Carmel (マザー・カルメル, Mazā Karumeru?)",onepiece_wiki
+2758,1251,Karumeru,onepiece_wiki
+2759,1252,Kyarotto,onepiece_wiki
+2760,1252,Carrot,onepiece_wiki
+2761,1253,Karibū,onepiece_wiki
+2762,1253,Numa Numa no Mi,onepiece_wiki
+2763,1253,Caribou,onepiece_wiki
+2764,1254,Capone Pez,onepiece_wiki
+2765,1254,Kapone Pettsu,onepiece_wiki
+2766,1255,Capote,onepiece_wiki
+2767,1255,Kapōti,onepiece_wiki
+2768,1256,Kyandī,onepiece_wiki
+2769,1256,Candy,onepiece_wiki
+2770,1257,Cans,onepiece_wiki
+2771,1257,Kyanzu,onepiece_wiki
+2772,1257,Cands,onepiece_wiki
+2773,1258,Shiro Shiro no Mi,onepiece_wiki
+2774,1258,Kapone Bejji,onepiece_wiki
+2775,1258,Capone Bege,onepiece_wiki
+2776,1259,Kyansā,onepiece_wiki
+2777,1259,Cancer,onepiece_wiki
+2778,1260,Kandore,onepiece_wiki
+2779,1260,Candre,onepiece_wiki
+2780,1260,Kandre,onepiece_wiki
+2781,1261,Camel,onepiece_wiki
+2782,1261,Kyameru,onepiece_wiki
+2783,1262,Camie,onepiece_wiki
+2784,1262,Keimī,onepiece_wiki
+2785,1263,Caimanlady,onepiece_wiki
+2786,1263,Kaiman Redi,onepiece_wiki
+2787,1263,Caiman Lady,onepiece_wiki
+2788,1264,Bairon,onepiece_wiki
+2789,1264,Byron,onepiece_wiki
+2790,1265,Kabaji,onepiece_wiki
+2791,1265,Cabaji,onepiece_wiki
+2792,1266,Busshiri,onepiece_wiki
+2793,1267,Bushon,onepiece_wiki
+2794,1268,Caesar Clown,onepiece_wiki
+2795,1268,Shīzā Kuraun,onepiece_wiki
+2796,1268,"""Cedar"" (シーダー, Shīdā?)""'Gangster' Gastino"" (“ギャングスター”ガスティーノ, Gyangusutā Gasutīno?)",onepiece_wiki
+2797,1268,Gasu Gasu no Mi,onepiece_wiki
+2798,1269,Bunny Joe,onepiece_wiki
+2799,1269,Banī Jō,onepiece_wiki
+2800,1270,"Inu Inu no Mi, Model: Tanuki",onepiece_wiki
+2801,1270,Bunbuku,onepiece_wiki
+2802,1270,Bunbuku-kun,onepiece_wiki
+2803,1271,Bulldog,onepiece_wiki
+2804,1271,Burudoggu,onepiece_wiki
+2805,1272,Building Snake,onepiece_wiki
+2806,1272,Birudingu Suneiku,onepiece_wiki
+2807,1273,Bungoh,onepiece_wiki
+2808,1273,Bungō,onepiece_wiki
+2809,1273,Bungo,onepiece_wiki
+2810,1274,Buffalo,onepiece_wiki
+2811,1274,Baffarō,onepiece_wiki
+2812,1274,Guru Guru no Mi,onepiece_wiki
+2813,1275,Buckingham Stussy,onepiece_wiki
+2814,1275,Misu Bakkingamu Sutyūshī,onepiece_wiki
+2815,1275,"Miss Buckin (ミス・バッキン, Misu Bakkin?)",onepiece_wiki
+2816,1276,Buhichakku,onepiece_wiki
+2817,1276,Buhichuck,onepiece_wiki
+2818,1276,Oinkchuck,onepiece_wiki
+2819,1277,ButchieBuchi,onepiece_wiki
+2820,1277,Buchi,onepiece_wiki
+2821,1278,Bouche,onepiece_wiki
+2822,1278,Busshu,onepiece_wiki
+2823,1278,Buche,onepiece_wiki
+2824,1279,Bubblegum,onepiece_wiki
+2825,1279,Baburugamu,onepiece_wiki
+2826,1280,Bara Bara no Mi,onepiece_wiki
+2827,1280,Bagī,onepiece_wiki
+2828,1280,Buggy,onepiece_wiki
+2829,1281,Burontozaurusu,onepiece_wiki
+2830,1281,Brontosaurus,onepiece_wiki
+2831,1282,Brook,onepiece_wiki
+2832,1282,Burukku,onepiece_wiki
+2833,1282,"""The Starving Skeleton"" (がしゃどくろ, Gashadokuro?)",onepiece_wiki
+2834,1282,Yomi Yomi no Mi,onepiece_wiki
+2835,1282,"""Hone-kichi"" (ホネ吉（キチ）, Honekichi?, English versions: Bonekichi)",onepiece_wiki
+2836,1283,Brogy,onepiece_wiki
+2837,1283,Broggy,onepiece_wiki
+2838,1283,Burogī,onepiece_wiki
+2839,1284,Brocca,onepiece_wiki
+2840,1284,Burokka,onepiece_wiki
+2841,1285,Formerly Viz),onepiece_wiki
+2842,1285,Brannew,onepiece_wiki
+2843,1285,Buran'nyū,onepiece_wiki
+2844,1285,Brandnew,onepiece_wiki
+2845,1286,Briscola,onepiece_wiki
+2846,1286,Burisukora,onepiece_wiki
+2847,1287,Burahamu,onepiece_wiki
+2848,1287,Braham,onepiece_wiki
+2849,1288,Bugi,onepiece_wiki
+2850,1288,Boogie,onepiece_wiki
+2851,1289,Super Spot-Billed Duck Troops,onepiece_wiki
+2852,1289,Supersonic Duck SquadronSuper Spot-Billed Duck Troops,onepiece_wiki
+2853,1289,Chō Karugamo Butai,onepiece_wiki
+2854,1290,Būdoru,onepiece_wiki
+2855,1290,Boodle,onepiece_wiki
+2856,1291,Borsalino,onepiece_wiki
+2857,1291,Borusarīno,onepiece_wiki
+2858,1291,"Kizaru (黄猿, Kizaru?, literally meaning ""Yellow Monkey"")",onepiece_wiki
+2859,1291,Pika Pika no Mi,onepiece_wiki
+2860,1292,Bongo,onepiece_wiki
+2861,1292,Bongoh,onepiece_wiki
+2862,1292,Bongō,onepiece_wiki
+2863,1293,Bonk Punch,onepiece_wiki
+2864,1293,Bonku Panchi,onepiece_wiki
+2865,1294,Bonba,onepiece_wiki
+2866,1294,Bomba,onepiece_wiki
+2867,1295,Bobomba,onepiece_wiki
+2868,1295,Bobonba,onepiece_wiki
+2869,1296,Bū,onepiece_wiki
+2870,1296,Boo,onepiece_wiki
+2871,1297,Bogādo,onepiece_wiki
+2872,1297,Bogard,onepiece_wiki
+2873,1298,Bobby Funk,onepiece_wiki
+2874,1298,Bobī Fanku,onepiece_wiki
+2875,1299,Bonba,onepiece_wiki
+2876,1299,Bomba,onepiece_wiki
+2877,1300,Bobin,onepiece_wiki
+2878,1300,Bobbin,onepiece_wiki
+2879,1301,Boa Sandāsonia,onepiece_wiki
+2880,1301,"Hebi Hebi no Mi, Model: Anaconda",onepiece_wiki
+2881,1301,Boa Sandersonia,onepiece_wiki
+2882,1302,Burumarin,onepiece_wiki
+2883,1302,Bluemarine,onepiece_wiki
+2884,1302,Blumarine,onepiece_wiki
+2885,1303,Boa Marīgōrudo,onepiece_wiki
+2886,1303,"Hebi Hebi no Mi, Model: King Cobra",onepiece_wiki
+2887,1303,Boa Marigold,onepiece_wiki
+2888,1304,Buryū,onepiece_wiki
+2889,1304,Brew,onepiece_wiki
+2890,1305,Boa Hankokku,onepiece_wiki
+2891,1305,Boa Hancock,onepiece_wiki
+2892,1305,Mero Mero no Mi,onepiece_wiki
+2893,1306,Burūjamu,onepiece_wiki
+2894,1306,Bluejam,onepiece_wiki
+2895,1307,Doa Doa no Mi,onepiece_wiki
+2896,1307,Blueno,onepiece_wiki
+2897,1307,Burūno,onepiece_wiki
+2898,1308,Burūgurasu,onepiece_wiki
+2899,1308,Nori Nori no Mi,onepiece_wiki
+2900,1308,Bluegrass,onepiece_wiki
+2901,1309,Burūfan,onepiece_wiki
+2902,1309,Bluefan,onepiece_wiki
+2903,1309,Blue Fan,onepiece_wiki
+2904,1310,Burenhaimu,onepiece_wiki
+2905,1310,Blenheim,onepiece_wiki
+2906,1311,Burū Girī,onepiece_wiki
+2907,1311,Blue Gilly,onepiece_wiki
+2908,1311,Bluegilly,onepiece_wiki
+2909,1312,Blamenco,onepiece_wiki
+2910,1312,Buramenko,onepiece_wiki
+2911,1312,Poke Poke no Mi,onepiece_wiki
+2912,1313,Belladonna,onepiece_wiki
+2913,1313,Beradonna,onepiece_wiki
+2914,1314,Bero Beti,onepiece_wiki
+2915,1314,Belo Betty,onepiece_wiki
+2916,1314,Kobu Kobu no Mi,onepiece_wiki
+2917,1315,Burondi,onepiece_wiki
+2918,1315,Blondie,onepiece_wiki
+2919,1316,Bekori,onepiece_wiki
+2920,1317,Bīru Rokusei,onepiece_wiki
+2921,1317,Beer VI,onepiece_wiki
+2922,1317,ビール6世,onepiece_wiki
+2923,1318,Bat-Man,onepiece_wiki
+2924,1318,Battoman,onepiece_wiki
+2925,1318,Batman,onepiece_wiki
+2926,1319,Baxcon,onepiece_wiki
+2927,1319,Bakusukon,onepiece_wiki
+2928,1320,Bastille,onepiece_wiki
+2929,1320,Basutīyu,onepiece_wiki
+2930,1321,Batchī,onepiece_wiki
+2931,1321,Batchee,onepiece_wiki
+2932,1321,Bacchy,onepiece_wiki
+2933,1322,Basilisk,onepiece_wiki
+2934,1322,Bashirisuku,onepiece_wiki
+2935,1323,Basil Hawkins,onepiece_wiki
+2936,1323,Bajiru Hōkinsu,onepiece_wiki
+2937,1323,Wara Wara no Mi,onepiece_wiki
+2938,1324,Barutoromeo,onepiece_wiki
+2939,1324,Bartolomeo,onepiece_wiki
+2940,1324,Bari Bari no Mi,onepiece_wiki
+2941,1325,Barry,onepiece_wiki
+2942,1325,Barī,onepiece_wiki
+2943,1326,Nikyu Nikyu no Mi,onepiece_wiki
+2944,1326,Bāsoromyū Kuma,onepiece_wiki
+2945,1326,"PX-0 (PX-0, Pīekkusu Zero?) ""Kumachi"" (くまちー, Kuma-chī?)",onepiece_wiki
+2946,1326,Bartholomew Kuma,onepiece_wiki
+2947,1327,Bariete,onepiece_wiki
+2948,1328,Bancro,onepiece_wiki
+2949,1328,Bankuro,onepiece_wiki
+2950,1329,Banzaburo,onepiece_wiki
+2951,1329,Banzaburō,onepiece_wiki
+2952,1330,"Gyoro, Nin, and Bao",onepiece_wiki
+2953,1330,"Gyoro, Nin, Bao",onepiece_wiki
+2954,1331,Bao Huang,onepiece_wiki
+2955,1331,Baofan,onepiece_wiki
+2956,1332,Bankīna,onepiece_wiki
+2957,1332,Banchina,onepiece_wiki
+2958,1332,Bankina,onepiece_wiki
+2959,1333,Banchi,onepiece_wiki
+2960,1333,Bunchi,onepiece_wiki
+2961,1334,Ban Dodeshine,onepiece_wiki
+2962,1334,Ban Dedessinée,onepiece_wiki
+2963,1335,Banshī,onepiece_wiki
+2964,1335,Banshee,onepiece_wiki
+2965,1336,Bakyura,onepiece_wiki
+2966,1336,Bacura,onepiece_wiki
+2967,1337,Baggaley,onepiece_wiki
+2968,1337,Bagarī,onepiece_wiki
+2969,1337,Baggaly,onepiece_wiki
+2970,1338,Bebī Faibu,onepiece_wiki
+2971,1338,Baby 5,onepiece_wiki
+2972,1338,Baby 5Baby Five,onepiece_wiki
+2973,1338,Buki Buki no Mi,onepiece_wiki
+2974,1339,Bazeko,onepiece_wiki
+2975,1339,Bakezō,onepiece_wiki
+2976,1339,Bakezo,onepiece_wiki
+2977,1340,Babe,onepiece_wiki
+2978,1340,"""Mr. 4"" (Mr. 4（ミスター・フォー）, Misutā Fō?)",onepiece_wiki
+2979,1340,Bēbu,onepiece_wiki
+2980,1341,Babanuki,onepiece_wiki
+2981,1342,Azuki,onepiece_wiki
+2982,1343,Attach,onepiece_wiki
+2983,1343,Atatchi,onepiece_wiki
+2984,1344,Atmos,onepiece_wiki
+2985,1344,Atomosu,onepiece_wiki
+2986,1345,Atagoyama,onepiece_wiki
+2987,1346,Avalo Pizarro,onepiece_wiki
+2988,1346,Abaro Pisaro,onepiece_wiki
+2989,1346,Shima Shima no Mi,onepiece_wiki
+2990,1347,Atorasu,onepiece_wiki
+2991,1347,Atlas,onepiece_wiki
+2992,1348,Eiyess Emmar,onepiece_wiki
+2993,1348,Ayesé Mar,onepiece_wiki
+2994,1348,Ēesue Muāru,onepiece_wiki
+2995,1349,Asuwa,onepiece_wiki
+2996,1349,Aswa,onepiece_wiki
+2997,1350,Ashura Doji,onepiece_wiki
+2998,1350,"Shutenmaru (酒天丸, Shutenmaru?)",onepiece_wiki
+2999,1350,Ashura Dōji,onepiece_wiki
+3000,1351,Asashichi,onepiece_wiki
+3001,1352,Aruyutayan V,onepiece_wiki
+3002,1352,Aruyūtayan Gosei,onepiece_wiki
+3003,1353,Āsā,onepiece_wiki
+3004,1353,Arthur,onepiece_wiki
+3005,1354,Tsumegeri Guards,onepiece_wiki
+3006,1354,Elite Alabastian Royal Guards,onepiece_wiki
+3007,1354,Tsumegeri Butai,onepiece_wiki
+3008,1354,Kicking Claw Force,onepiece_wiki
+3009,1355,Peekatha Krotch,onepiece_wiki
+3010,1355,Aremo Ganmi,onepiece_wiki
+3011,1355,Aremo Ganmī,onepiece_wiki
+3012,1356,Arlong,onepiece_wiki
+3013,1356,Āron,onepiece_wiki
+3014,1357,Asahija,onepiece_wiki
+3015,1357,Asahijā,onepiece_wiki
+3016,1357,Heercomes Dasun,onepiece_wiki
+3017,1358,Mori Mori no Mi,onepiece_wiki
+3018,1358,"Ryokugyu (緑牛, Ryokugyū?, literally meaning ""Green Bull"")",onepiece_wiki
+3019,1358,Aramaki,onepiece_wiki
+3020,1359,Aferandora,onepiece_wiki
+3021,1359,Aphelandra,onepiece_wiki
+3022,1360,Antonio,onepiece_wiki
+3023,1361,Ankoro,onepiece_wiki
+3024,1362,Anjō,onepiece_wiki
+3025,1362,Anjo,onepiece_wiki
+3026,1363,Andre,onepiece_wiki
+3027,1363,Andore,onepiece_wiki
+3028,1364,An Zengaīna,onepiece_wiki
+3029,1364,Ratherby Seifer,onepiece_wiki
+3030,1364,An Zengaiina,onepiece_wiki
+3031,1365,Amadob,onepiece_wiki
+3032,1365,Amadobu,onepiece_wiki
+3033,1366,Arufa,onepiece_wiki
+3034,1366,Alpha,onepiece_wiki
+3035,1367,Alpaca-Man,onepiece_wiki
+3036,1367,Arupakaman,onepiece_wiki
+3037,1367,Alpacaman,onepiece_wiki
+3038,1368,Amazon,onepiece_wiki
+3039,1369,Alvida,onepiece_wiki
+3040,1369,Sube Sube no Mi,onepiece_wiki
+3041,1369,Arubida,onepiece_wiki
+3042,1370,"""Princess"" (お姫さま, Ohime-sama?) (And's)*",onepiece_wiki
+3043,1370,Basukabiru,onepiece_wiki
+3044,1370,Baskerville,onepiece_wiki
+3045,1371,Alice,onepiece_wiki
+3046,1371,Arīche,onepiece_wiki
+3047,1372,Ally,onepiece_wiki
+3048,1372,Arī,onepiece_wiki
+3049,1373,Albion,onepiece_wiki
+3050,1373,Arubion,onepiece_wiki
+3051,1374,Aladdin,onepiece_wiki
+3052,1374,Aradin,onepiece_wiki
+3053,1374,Aladine,onepiece_wiki
+3054,1375,Aisa,onepiece_wiki
+3055,1376,Uweshall Notpass,onepiece_wiki
+3056,1376,Akehende,onepiece_wiki
+3057,1377,Dumas Fayes,onepiece_wiki
+3058,1377,Ahho Zurako,onepiece_wiki
+3059,1378,Akudai Kanzaburo,onepiece_wiki
+3060,1378,Akudai Kanzaburō,onepiece_wiki
+3061,1379,Ahiru,onepiece_wiki
+3062,1380,Akumai,onepiece_wiki
+3063,1381,アッホ・デスネン9世,onepiece_wiki
+3064,1381,Dumas Regal IX,onepiece_wiki
+3065,1381,Ahho Desunen IX,onepiece_wiki
+3066,1381,Ahho Desunen Kyūsei,onepiece_wiki
+3067,1382,Agushily,onepiece_wiki
+3068,1382,Agushirī,onepiece_wiki
+3069,1382,Agsilly,onepiece_wiki
+3070,1383,Agyo,onepiece_wiki
+3071,1383,Agyō,onepiece_wiki
+3072,1384,Agī 68,onepiece_wiki
+3073,1384,Aggie 68,onepiece_wiki
+3074,1384,アギー68,onepiece_wiki
+3075,1385,Agotogi,onepiece_wiki
+3076,1386,Akiria,onepiece_wiki
+3077,1386,Acilia,onepiece_wiki
+3078,1386,Agilia,onepiece_wiki
+3079,1387,Suke Suke no Mi,onepiece_wiki
+3080,1387,"""Absa"" (アブサ, Abusa?)",onepiece_wiki
+3081,1387,Abusaromu,onepiece_wiki
+3082,1387,Absalom,onepiece_wiki
+3083,1388,Abdullah,onepiece_wiki
+3084,1388,Abudōra,onepiece_wiki
+3085,1389,Aderu,onepiece_wiki
+3086,1389,Adelle,onepiece_wiki
+3087,1389,Adele,onepiece_wiki
+3088,169,Trafalgar Law,manually_verified
+3089,865,Hyougoro,manually_verified
+3090,941,Guernika,manually_verified
+3091,136,Sogeking,manually_verified
+3092,1292,Kizaru,manually_verified
+3093,686,Aokiji,manually_verified
+3094,337,Akainu,manually_verified
+3095,15,Mr. 2 Bon Kurei,manually_verified
+3096,712,Komurasaki,manually_verified
+3097,747,O-Kiku,manually_verified
+3098,683,Thunder Soldier,manually_verified
+3099,960,Nyon,manually_verified
+3100,1052,Whitebeard,manually_verified
+3101,1244,Brownbeard,manually_verified
+3102,708,Tenguyama Hitetsu,manually_verified
+3103,206,Niwatori,manually_verified
+3104,39,Dago,manually_verified
+3105,39,Footbianco,manually_verified
+3106,39,Ottoland,manually_verified
+3107,292,Ryuma,manually_verified
+3108,732,Kiwi,manually_verified
+3109,732,Mozu,manually_verified
+3110,710,Momonosuke,manually_verified
+3111,996,Mr. 3,manually_verified
+3112,1102,Mr. 1,manually_verified
+3113,65,Miss Doublefinger,manually_verified
+3114,1095,Kyoshiro,manually_verified
+3115,114,Violet,manually_verified
+3116,707,Don Krieg,manually_verified
+3117,1341,Mr. 4,manually_verified
+3118,1058,Miss Merry Christmas,manually_verified
+3119,15,Bon Kurei,manually_verified
+3120,983,Mr. 5,manually_verified
+3121,601,Miss Valentine,manually_verified
+3122,495,Miss All Sunday,manually_verified
+3123,629,Miss Goldenweek,manually_verified
+3124,1359,Ryokugyu,manually_verified
+3125,1196,Lola (Zombie),manually_verified
+3126,283,Kuina,manually_verified
+3127,1324,Basil,manually_verified
+3128,93,Drake,manually_verified
+3129,281,Shepherd,manually_verified
+3130,1189,Mobile,manually_verified
+3131,1390,Otama,cards_only
+3132,1391,Daddy Masterson,cards_only
+3133,1392,Jonathan,cards_only
+3134,1393,Douglas Bullet,cards_only
+3135,1394,Carmen,cards_only
+3136,1395,Lim,cards_only
+3137,1396,Zephyr,cards_only
+3138,1397,Bins,cards_only
+3139,1398,Musshuru,cards_only
+3140,1399,Adio,cards_only
+3141,1400,Carina,cards_only
+3142,1401,Mr. Tanaka,cards_only
+3143,1402,Baron Omatsuri,cards_only
+3144,1403,Gasparde,cards_only
+3145,1404,Shuraiya,cards_only
+3146,1405,Z,cards_only
+3147,1406,Ain,cards_only
+3148,1407,Gordon,cards_only

@@ -1,0 +1,4529 @@
+card_faction_id,card_id,faction_name
+1,EB01-006-0,Animal
+2,EB01-006-0,Straw Hat Crew
+3,OP01-006-1,Land of Wano
+4,OP01-006-2,Land of Wano
+5,OP01-006-3,Land of Wano
+6,OP01-006-0,Land of Wano
+7,OP01-016-7,Straw Hat Crew
+8,OP01-024-2,Supernovas
+9,OP01-024-2,Straw Hat Crew
+10,OP01-024-0,Supernovas
+11,OP01-024-0,Straw Hat Crew
+12,OP01-029-3,Straw Hat Crew
+13,OP01-029-4,Straw Hat Crew
+14,OP01-029-0,Straw Hat Crew
+15,OP01-033-2,Land of Wano
+16,OP01-033-2,Former Whitebeard Pirates
+17,OP01-033-3,Land of Wano
+18,OP01-033-3,Former Whitebeard Pirates
+19,OP01-033-4,Land of Wano
+20,OP01-033-4,Former Whitebeard Pirates
+21,OP01-033-0,Land of Wano
+22,OP01-033-0,Former Whitebeard Pirates
+23,OP01-041-2,Land of Wano
+24,OP01-041-2,Kouzuki Clan
+25,OP01-041-3,Land of Wano
+26,OP01-041-3,Kouzuki Clan
+27,OP01-041-4,Land of Wano
+28,OP01-041-4,Kouzuki Clan
+29,OP01-041-0,Land of Wano
+30,OP01-041-0,Kouzuki Clan
+31,OP01-047-3,Supernovas
+32,OP01-047-3,Heart Pirates
+33,OP01-047-0,Supernovas
+34,OP01-047-0,Heart Pirates
+35,OP01-051-3,Supernovas
+36,OP01-051-3,Kid Pirates
+37,OP01-051-0,Supernovas
+38,OP01-051-0,Kid Pirates
+39,OP01-052-1,Land of Wano
+40,OP01-052-1,The Akazaya Nine
+41,OP01-052-2,Land of Wano
+42,OP01-052-2,The Akazaya Nine
+43,OP01-052-0,Land of Wano
+44,OP01-052-0,The Akazaya Nine
+45,OP01-070-3,The Seven Warlords of the Sea
+46,OP01-070-0,The Seven Warlords of the Sea
+47,OP01-078-3,The Seven Warlords of the Sea
+48,OP01-078-3,Kuja Pirates
+49,OP01-078-0,The Seven Warlords of the Sea
+50,OP01-078-0,Kuja Pirates
+51,OP01-120-5,The Four Emperors
+52,OP01-120-5,Red-Haired Pirates
+53,OP01-120-0,The Four Emperors
+54,OP01-120-0,Red-Haired Pirates
+55,OP01-121-3,Land of Wano
+56,OP01-121-0,Land of Wano
+57,OP02-004-4,The Four Emperors
+58,OP02-004-4,Whitebeard Pirates
+59,OP02-004-0,The Four Emperors
+60,OP02-004-0,Whitebeard Pirates
+61,OP02-013-0,Whitebeard Pirates
+62,OP02-015-1,Windmill Village
+63,OP02-015-2,Windmill Village
+64,OP02-015-0,Windmill Village
+65,OP02-018-3,Whitebeard Pirates
+66,OP02-018-4,Whitebeard Pirates
+67,OP02-018-5,Whitebeard Pirates
+68,OP02-018-0,Whitebeard Pirates
+69,OP02-089-1,Impel Down
+70,OP02-089-2,Impel Down
+71,OP02-089-3,Impel Down
+72,OP02-089-0,Impel Down
+73,OP02-096-4,Navy
+74,OP02-096-0,Navy
+75,OP02-099-5,Navy
+76,OP02-099-0,Navy
+77,OP02-106-4,Navy
+78,OP02-106-5,Navy
+79,OP02-106-0,Navy
+80,OP02-114-4,Navy
+81,OP02-114-0,Navy
+82,OP02-117-4,Navy
+83,OP02-117-5,Navy
+84,OP02-117-0,Navy
+85,OP02-121-2,Former Navy
+86,OP02-121-0,Former Navy
+87,OP03-003-3,Land of Wano
+88,OP03-003-3,Whitebeard Pirates
+89,OP03-003-4,Land of Wano
+90,OP03-003-4,Whitebeard Pirates
+91,OP03-003-5,Land of Wano
+92,OP03-003-5,Whitebeard Pirates
+93,OP03-003-0,Land of Wano
+94,OP03-003-0,Whitebeard Pirates
+95,OP03-055-2,East Blue
+96,OP03-055-2,Straw Hat Crew
+97,OP03-055-3,East Blue
+98,OP03-055-3,Straw Hat Crew
+99,OP03-055-0,East Blue
+100,OP03-055-0,Straw Hat Crew
+101,OP03-056-1,East Blue
+102,OP03-056-2,East Blue
+103,OP03-056-3,East Blue
+104,OP03-056-0,East Blue
+105,OP03-057-1,East Blue
+106,OP03-057-1,Straw Hat Crew
+107,OP03-057-2,East Blue
+108,OP03-057-2,Straw Hat Crew
+109,OP03-057-3,East Blue
+110,OP03-057-3,Straw Hat Crew
+111,OP03-057-0,East Blue
+112,OP03-057-0,Straw Hat Crew
+113,OP03-060-1,Water Seven
+114,OP03-060-1,Galley-La Company
+115,OP03-060-2,Water Seven
+116,OP03-060-2,Galley-La Company
+117,OP03-060-0,Water Seven
+118,OP03-060-0,Galley-La Company
+119,OP03-079-2,Navy
+120,OP03-079-2,Donquixote Pirates
+121,OP03-079-3,Navy
+122,OP03-079-3,Donquixote Pirates
+123,OP03-079-0,Navy
+124,OP03-079-0,Donquixote Pirates
+125,OP03-089-3,Navy
+126,OP03-089-4,Navy
+127,OP03-089-5,Navy
+128,OP03-089-0,Navy
+129,OP03-094-1,CP9
+130,OP03-094-2,CP9
+131,OP03-094-0,CP9
+132,OP03-108-2,Big Mom Pirates
+133,OP03-108-0,Big Mom Pirates
+134,OP03-110-2,Big Mom Pirates
+135,OP03-110-3,Big Mom Pirates
+136,OP03-110-4,Big Mom Pirates
+137,OP03-110-0,Big Mom Pirates
+138,OP03-113-2,Big Mom Pirates
+139,OP03-113-0,Big Mom Pirates
+140,OP03-116-2,Merfolk
+141,OP03-116-3,Merfolk
+142,OP03-116-0,Merfolk
+143,OP03-121-4,The Four Emperors
+144,OP03-121-4,Big Mom Pirates
+145,OP03-121-5,The Four Emperors
+146,OP03-121-5,Big Mom Pirates
+147,OP03-121-0,The Four Emperors
+148,OP03-121-0,Big Mom Pirates
+149,OP03-122-0,Sniper Island
+150,OP03-123-3,Big Mom Pirates
+151,OP03-123-0,Big Mom Pirates
+152,OP04-029-1,Donquixote Pirates
+153,OP04-029-2,Donquixote Pirates
+154,OP04-029-0,Donquixote Pirates
+155,OP04-031-2,The Seven Warlords of the Sea
+156,OP04-031-2,Donquixote Pirates
+157,OP04-031-0,The Seven Warlords of the Sea
+158,OP04-031-0,Donquixote Pirates
+159,OP04-032-1,Donquixote Pirates
+160,OP04-032-2,Donquixote Pirates
+161,OP04-032-0,Donquixote Pirates
+162,OP04-036-1,Donquixote Pirates
+163,OP04-036-2,Donquixote Pirates
+164,OP04-036-0,Donquixote Pirates
+165,OP04-044-3,The Four Emperors
+166,OP04-044-3,Animal Kingdom Pirates
+167,OP04-044-0,The Four Emperors
+168,OP04-044-0,Animal Kingdom Pirates
+169,OP04-056-1,Straw Hat Crew
+170,OP04-056-2,Straw Hat Crew
+171,OP04-056-3,Straw Hat Crew
+172,OP04-056-0,Straw Hat Crew
+173,OP04-083-0,Dressrosa
+174,OP04-083-0,Revolutionary Army
+175,OP04-089-1,Dressrosa
+176,OP04-089-1,Barto Club
+177,OP04-089-2,Dressrosa
+178,OP04-089-2,Barto Club
+179,OP04-089-3,Dressrosa
+180,OP04-089-3,Barto Club
+181,OP04-089-0,Dressrosa
+182,OP04-089-0,Barto Club
+183,OP04-095-2,Dressrosa
+184,OP04-095-2,Barto Club
+185,OP04-095-3,Dressrosa
+186,OP04-095-3,Barto Club
+187,OP04-095-0,Dressrosa
+188,OP04-095-0,Barto Club
+189,OP04-100-3,Firetank Pirates
+190,OP04-100-4,Firetank Pirates
+191,OP04-100-5,Firetank Pirates
+192,OP04-100-0,Firetank Pirates
+193,OP04-104-2,The Vinsmoke Family
+194,OP04-104-0,The Vinsmoke Family
+195,OP04-112-3,Land of Wano
+196,OP04-112-0,Land of Wano
+197,OP05-006-2,Revolutionary Army
+198,OP05-006-0,Revolutionary Army
+199,OP05-007-2,Revolutionary Army
+200,OP05-007-0,Revolutionary Army
+201,OP05-010-1,Straw Hat Crew
+202,OP05-010-2,Straw Hat Crew
+203,OP05-010-0,Straw Hat Crew
+204,OP05-015-2,Revolutionary Army
+205,OP05-015-3,Revolutionary Army
+206,OP05-015-4,Revolutionary Army
+207,OP05-015-0,Revolutionary Army
+208,OP05-034-2,Donquixote Pirates
+209,OP05-034-3,Donquixote Pirates
+210,OP05-034-4,Donquixote Pirates
+211,OP05-034-0,Donquixote Pirates
+212,OP05-043-2,Animal Kingdom Pirates
+213,OP05-043-0,Animal Kingdom Pirates
+214,OP05-057-1,Navy
+215,OP05-057-2,Navy
+216,OP05-057-3,Navy
+217,OP05-057-0,Navy
+218,OP05-069-0,Heart Pirates
+219,OP05-073-1,Baroque Works
+220,OP05-073-2,Baroque Works
+221,OP05-073-0,Baroque Works
+222,OP05-074-4,Kid Pirates
+223,OP05-074-0,Kid Pirates
+224,OP05-081-1,Dressrosa
+225,OP05-081-2,Dressrosa
+226,OP05-081-3,Dressrosa
+227,OP05-081-0,Dressrosa
+228,OP05-082-1,Merfolk
+229,OP05-082-2,Merfolk
+230,OP05-082-3,Merfolk
+231,OP05-082-0,Merfolk
+232,OP05-105-1,Sky Island
+233,OP05-105-1,Vassals
+234,OP05-105-2,Sky Island
+235,OP05-105-2,Vassals
+236,OP05-105-3,Sky Island
+237,OP05-105-3,Vassals
+238,OP05-105-0,Sky Island
+239,OP05-105-0,Vassals
+240,OP05-114-2,Sky Island
+241,OP05-114-3,Sky Island
+242,OP05-114-0,Sky Island
+243,OP05-115-1,Sky Island
+244,OP05-115-2,Sky Island
+245,OP05-115-3,Sky Island
+246,OP05-115-0,Sky Island
+247,OP05-117-1,Sky Island
+248,OP05-117-2,Sky Island
+249,OP05-117-3,Sky Island
+250,OP05-117-0,Sky Island
+251,OP05-118-2,The Four Emperors
+252,OP05-118-2,Animal Kingdom Pirates
+253,OP05-118-0,The Four Emperors
+254,OP05-118-0,Animal Kingdom Pirates
+255,OP05-119-3,The Four Emperors
+256,OP05-119-3,Straw Hat Crew
+257,OP05-119-0,The Four Emperors
+258,OP05-119-0,Straw Hat Crew
+259,OP06-003-1,Revolutionary Army
+260,OP06-003-2,Revolutionary Army
+261,OP06-003-0,Revolutionary Army
+262,OP06-023-1,Fish-Man
+263,OP06-023-1,East Blue
+264,OP06-023-1,Arlong Pirates
+265,OP06-023-2,Fish-Man
+266,OP06-023-2,East Blue
+267,OP06-023-2,Arlong Pirates
+268,OP06-023-3,Fish-Man
+269,OP06-023-3,East Blue
+270,OP06-023-3,Arlong Pirates
+271,OP06-023-0,Fish-Man
+272,OP06-023-0,East Blue
+273,OP06-023-0,Arlong Pirates
+274,OP06-035-2,Fish-Man
+275,OP06-035-2,New Fish-Man Pirates
+276,OP06-035-0,Fish-Man
+277,OP06-035-0,New Fish-Man Pirates
+278,OP06-036-1,Land of Wano
+279,OP06-036-1,Thriller Bark Pirates
+280,OP06-036-2,Land of Wano
+281,OP06-036-2,Thriller Bark Pirates
+282,OP06-036-3,Land of Wano
+283,OP06-036-3,Thriller Bark Pirates
+284,OP06-036-0,Land of Wano
+285,OP06-036-0,Thriller Bark Pirates
+286,OP06-038-2,Dressrosa
+287,OP06-038-2,Straw Hat Crew
+288,OP06-038-3,Dressrosa
+289,OP06-038-3,Straw Hat Crew
+290,OP06-038-0,Dressrosa
+291,OP06-038-0,Straw Hat Crew
+292,OP06-056-1,Navy
+293,OP06-056-2,Navy
+294,OP06-056-0,Navy
+295,OP06-060-1,The Vinsmoke Family
+296,OP06-060-1,GERMA 66
+297,OP06-060-2,The Vinsmoke Family
+298,OP06-060-2,GERMA 66
+299,OP06-060-0,The Vinsmoke Family
+300,OP06-060-0,GERMA 66
+301,OP06-064-1,The Vinsmoke Family
+302,OP06-064-1,GERMA 66
+303,OP06-064-2,The Vinsmoke Family
+304,OP06-064-2,GERMA 66
+305,OP06-064-0,The Vinsmoke Family
+306,OP06-064-0,GERMA 66
+307,OP06-065-1,The Vinsmoke Family
+308,OP06-065-1,GERMA 66
+309,OP06-065-2,The Vinsmoke Family
+310,OP06-065-2,GERMA 66
+311,OP06-065-3,The Vinsmoke Family
+312,OP06-065-3,GERMA 66
+313,OP06-065-0,The Vinsmoke Family
+314,OP06-065-0,GERMA 66
+315,OP06-066-1,The Vinsmoke Family
+316,OP06-066-1,GERMA 66
+317,OP06-066-2,The Vinsmoke Family
+318,OP06-066-2,GERMA 66
+319,OP06-066-0,The Vinsmoke Family
+320,OP06-066-0,GERMA 66
+321,OP06-067-1,The Vinsmoke Family
+322,OP06-067-1,GERMA 66
+323,OP06-067-2,The Vinsmoke Family
+324,OP06-067-2,GERMA 66
+325,OP06-067-3,The Vinsmoke Family
+326,OP06-067-3,GERMA 66
+327,OP06-067-0,The Vinsmoke Family
+328,OP06-067-0,GERMA 66
+329,OP06-068-1,The Vinsmoke Family
+330,OP06-068-1,GERMA 66
+331,OP06-068-2,The Vinsmoke Family
+332,OP06-068-2,GERMA 66
+333,OP06-068-0,The Vinsmoke Family
+334,OP06-068-0,GERMA 66
+335,OP06-069-3,The Vinsmoke Family
+336,OP06-069-3,GERMA 66
+337,OP06-069-0,The Vinsmoke Family
+338,OP06-069-0,GERMA 66
+339,OP06-079-1,Kingdom of GERMA
+340,OP06-079-2,Kingdom of GERMA
+341,OP06-079-3,Kingdom of GERMA
+342,OP06-079-0,Kingdom of GERMA
+343,OP06-086-2,The Seven Warlords of the Sea
+344,OP06-086-2,Thriller Bark Pirates
+345,OP06-086-0,The Seven Warlords of the Sea
+346,OP06-086-0,Thriller Bark Pirates
+347,OP06-091-1,Thriller Bark Pirates
+348,OP06-091-2,Thriller Bark Pirates
+349,OP06-091-0,Thriller Bark Pirates
+350,OP06-100-1,Minks
+351,OP06-100-1,Land of Wano
+352,OP06-100-1,The Akazaya Nine
+353,OP06-100-2,Minks
+354,OP06-100-2,Land of Wano
+355,OP06-100-2,The Akazaya Nine
+356,OP06-100-0,Minks
+357,OP06-100-0,Land of Wano
+358,OP06-100-0,The Akazaya Nine
+359,OP06-106-2,Land of Wano
+360,OP06-106-2,Kouzuki Clan
+361,OP06-106-0,Land of Wano
+362,OP06-106-0,Kouzuki Clan
+363,OP06-110-1,Minks
+364,OP06-110-1,Land of Wano
+365,OP06-110-1,The Akazaya Nine
+366,OP06-110-2,Minks
+367,OP06-110-2,Land of Wano
+368,OP06-110-2,The Akazaya Nine
+369,OP06-110-0,Minks
+370,OP06-110-0,Land of Wano
+371,OP06-110-0,The Akazaya Nine
+372,OP06-114-1,Sky Island
+373,OP06-114-1,Shandian Warrior
+374,OP06-114-2,Sky Island
+375,OP06-114-2,Shandian Warrior
+376,OP06-114-0,Sky Island
+377,OP06-114-0,Shandian Warrior
+378,OP06-118-0,Straw Hat Crew
+379,P-014-1,FILM
+380,P-014-1,Navy
+381,P-014-2,FILM
+382,P-014-2,Navy
+383,P-014-0,FILM
+384,P-014-0,Navy
+385,P-029-2,FILM
+386,P-029-2,Supernovas
+387,P-029-2,Barto Club
+388,P-029-3,FILM
+389,P-029-3,Supernovas
+390,P-029-3,Barto Club
+391,P-029-0,FILM
+392,P-029-0,Supernovas
+393,P-029-0,Barto Club
+394,P-053-2,Straw Hat Crew
+395,P-053-3,Straw Hat Crew
+396,P-053-0,Straw Hat Crew
+397,P-055-2,Straw Hat Crew
+398,P-055-3,Straw Hat Crew
+399,P-055-0,Straw Hat Crew
+400,PRB01-001-0,Straw Hat Crew
+401,PRB01-001-1,Straw Hat Crew
+402,ST01-006-8,Animal
+403,ST01-006-8,Straw Hat Crew
+404,ST01-006-9,Animal
+405,ST01-006-9,Straw Hat Crew
+406,ST01-006-10,Animal
+407,ST01-006-10,Straw Hat Crew
+408,ST01-006-0,Animal
+409,ST01-006-0,Straw Hat Crew
+410,ST01-014-2,Animal
+411,ST01-014-2,Straw Hat Crew
+412,ST01-014-3,Animal
+413,ST01-014-3,Straw Hat Crew
+414,ST01-014-0,Animal
+415,ST01-014-0,Straw Hat Crew
+416,ST02-004-3,Supernovas
+417,ST02-004-3,Firetank Pirates
+418,ST02-004-4,Supernovas
+419,ST02-004-4,Firetank Pirates
+420,ST02-004-5,Supernovas
+421,ST02-004-5,Firetank Pirates
+422,ST02-004-0,Supernovas
+423,ST02-004-0,Firetank Pirates
+424,ST03-005-4,The Seven Warlords of the Sea
+425,ST03-005-5,The Seven Warlords of the Sea
+426,ST03-005-0,The Seven Warlords of the Sea
+427,ST03-008-7,The Seven Warlords of the Sea
+428,ST03-008-7,Heart Pirates
+429,ST03-008-8,The Seven Warlords of the Sea
+430,ST03-008-8,Heart Pirates
+431,ST03-008-0,The Seven Warlords of the Sea
+432,ST03-008-0,Heart Pirates
+433,ST03-013-2,The Seven Warlords of the Sea
+434,ST03-013-2,Kuja Pirates
+435,ST03-013-3,The Seven Warlords of the Sea
+436,ST03-013-3,Kuja Pirates
+437,ST03-013-4,The Seven Warlords of the Sea
+438,ST03-013-4,Kuja Pirates
+439,ST03-013-0,The Seven Warlords of the Sea
+440,ST03-013-0,Kuja Pirates
+441,ST04-003-4,The Four Emperors
+442,ST04-003-4,Animal Kingdom Pirates
+443,ST04-003-0,The Four Emperors
+444,ST04-003-0,Animal Kingdom Pirates
+445,ST04-005-4,Animal Kingdom Pirates
+446,ST04-005-5,Animal Kingdom Pirates
+447,ST04-005-0,Animal Kingdom Pirates
+448,ST04-016-3,The Four Emperors
+449,ST04-016-3,Animal Kingdom Pirates
+450,ST04-016-4,The Four Emperors
+451,ST04-016-4,Animal Kingdom Pirates
+452,ST04-016-0,The Four Emperors
+453,ST04-016-0,Animal Kingdom Pirates
+454,ST06-010-1,Navy
+455,ST06-010-2,Navy
+456,ST06-010-0,Navy
+457,ST06-014-1,Navy
+458,ST06-014-2,Navy
+459,ST06-014-0,Navy
+460,ST07-007-2,Big Mom Pirates
+461,ST07-007-3,Big Mom Pirates
+462,ST07-007-0,Big Mom Pirates
+463,ST09-014-1,Land of Wano
+464,ST09-014-2,Land of Wano
+465,ST09-014-0,Land of Wano
+466,ST10-010-3,Heart Pirates
+467,ST10-010-0,Heart Pirates
+468,ST12-014-1,The Flying Fish Riders
+469,ST12-014-2,The Flying Fish Riders
+470,ST12-014-0,The Flying Fish Riders
+471,EB01-001-2,Land of Wano
+472,EB01-001-2,Kouzuki Clan
+473,EB01-021-2,Impel Down
+474,EB01-040-2,Dressrosa
+475,EB02-001-0,Animal
+476,EB02-001-0,Alabasta
+477,EB02-002-0,Dressrosa
+478,EB02-002-0,Revolutionary Army
+479,EB02-003-0,Animal
+480,EB02-003-0,Drum Kingdom
+481,EB02-003-0,Straw Hat Crew
+482,EB02-003-1,Animal
+483,EB02-003-1,Drum Kingdom
+484,EB02-003-1,Straw Hat Crew
+485,EB02-004-0,Accino Family
+486,EB02-005-0,Fake Straw Hat Crew
+487,EB02-006-0,Land of Wano
+488,EB02-006-1,Land of Wano
+489,EB02-007-0,Animal
+490,EB02-007-0,Water Seven
+491,EB02-007-0,Straw Hat Crew
+492,EB02-008-0,Music
+493,EB02-009-0,Straw Hat Crew
+494,EB02-010-0,Straw Hat Crew
+495,EB02-010-1,Straw Hat Crew
+496,EB02-011-0,Fish-Man
+497,EB02-011-0,East Blue
+498,EB02-011-0,Arlong Pirates
+499,EB02-011-1,Fish-Man
+500,EB02-011-1,East Blue
+501,EB02-011-1,Arlong Pirates
+502,EB02-012-0,East Blue
+503,EB02-013-0,Minks
+504,EB02-014-0,East Blue
+505,EB02-015-0,Supernovas
+506,EB02-015-0,Bonney Pirates
+507,EB02-015-1,Supernovas
+508,EB02-015-1,Bonney Pirates
+509,EB02-016-0,Animal
+510,EB02-016-0,Straw Hat Crew
+511,EB02-017-0,East Blue
+512,EB02-017-0,Straw Hat Crew
+513,EB02-017-1,East Blue
+514,EB02-017-1,Straw Hat Crew
+515,EB02-018-0,East Blue
+516,EB02-018-0,Buggy Pirates
+517,EB02-019-0,East Blue
+518,EB02-019-0,Straw Hat Crew
+519,EB02-020-0,Music
+520,EB02-021-0,Water Seven
+521,EB02-021-0,Straw Hat Crew
+522,EB02-022-0,East Blue
+523,EB02-022-0,Straw Hat Crew
+524,EB02-022-1,East Blue
+525,EB02-022-1,Straw Hat Crew
+526,EB02-023-0,The Seven Warlords of the Sea
+527,EB02-023-0,Baroque Works
+528,EB02-024-0,Sniper Island
+529,EB02-025-0,Navy
+530,EB02-025-0,Donquixote Pirates
+531,EB02-026-0,Alabasta
+532,EB02-026-1,Alabasta
+533,EB02-027-0,Whitebeard Pirates
+534,EB02-028-0,Alabasta
+535,EB02-028-0,Whitebeard Pirates
+536,EB02-029-0,Animal
+537,EB02-029-0,East Blue
+538,EB02-030-0,Alabasta
+539,EB02-030-0,Straw Hat Crew
+540,EB02-031-0,Music
+541,EB02-032-0,Water Seven
+542,EB02-032-0,Galley-La Company
+543,EB02-033-0,Sprite
+544,EB02-034-0,Navy
+545,EB02-034-0,Foxy Pirates
+546,EB02-035-0,Big Mom Pirates
+547,EB02-035-0,Straw Hat Crew
+548,EB02-035-1,Big Mom Pirates
+549,EB02-035-1,Straw Hat Crew
+550,EB02-036-0,Straw Hat Crew
+551,EB02-036-1,Straw Hat Crew
+552,EB02-037-0,Water Seven
+553,EB02-037-0,Straw Hat Crew
+554,EB02-038-0,Impel Down
+555,EB02-039-0,The Vinsmoke Family
+556,EB02-039-0,GERMA 66
+557,EB02-040-0,Music
+558,EB02-041-0,Straw Hat Crew
+559,EB02-042-0,Navy
+560,EB02-043-0,Navy
+561,EB02-044-0,Navy
+562,EB02-044-1,Navy
+563,EB02-045-0,Dressrosa
+564,EB02-045-0,Supernovas
+565,EB02-045-0,Heart Pirates
+566,EB02-045-1,Dressrosa
+567,EB02-045-1,Supernovas
+568,EB02-045-1,Heart Pirates
+569,EB02-046-0,Thriller Bark Pirates
+570,EB02-047-0,CP9
+571,EB02-048-0,Straw Hat Crew
+572,EB02-048-1,Straw Hat Crew
+573,EB02-049-0,Navy
+574,EB02-050-0,Music
+575,EB02-051-0,Former Rumbar Pirates
+576,EB02-052-0,Sky Island
+577,EB02-052-1,Sky Island
+578,EB02-053-0,Alchemi
+579,EB02-054-0,East Blue
+580,EB02-054-0,Straw Hat Crew
+581,EB02-054-1,East Blue
+582,EB02-054-1,Straw Hat Crew
+583,EB02-055-0,Fish-Man
+584,EB02-055-0,Straw Hat Crew
+585,EB02-056-0,Scientist
+586,EB02-056-0,Egghead
+587,EB02-056-1,Scientist
+588,EB02-056-1,Egghead
+589,EB02-057-0,Treasure Pirates
+590,EB02-058-0,Music
+591,EB02-059-0,Straw Hat Crew
+592,EB02-060-0,Straw Hat Crew
+593,EB02-061-0,Water Seven
+594,EB02-061-0,Straw Hat Crew
+595,EB02-061-1,Water Seven
+596,EB02-061-1,Straw Hat Crew
+597,EB02-061-2,Water Seven
+598,EB02-061-2,Straw Hat Crew
+599,OP05-001-2,Revolutionary Army
+600,OP05-002-2,Revolutionary Army
+601,OP05-022-2,Navy
+602,OP05-022-2,Donquixote Pirates
+603,OP05-060-4,Straw Hat Crew
+604,OP05-098-3,Sky Island
+605,OP06-001-2,FILM
+606,OP06-020-2,Fish-Man
+607,OP06-020-2,New Fish-Man Pirates
+608,OP06-021-2,Thriller Bark Pirates
+609,OP06-022-2,Land of Wano
+610,OP06-042-2,The Vinsmoke Family
+611,OP06-042-2,GERMA 66
+612,OP06-080-2,The Seven Warlords of the Sea
+613,OP06-080-2,Thriller Bark Pirates
+614,OP07-001-2,Revolutionary Army
+615,OP07-019-2,Supernovas
+616,OP07-019-2,Bonney Pirates
+617,OP07-038-2,The Seven Warlords of the Sea
+618,OP07-038-2,Kuja Pirates
+619,OP07-059-2,Foxy Pirates
+620,OP07-079-2,CP0
+621,OP07-097-2,Scientist
+622,OP07-097-2,Egghead
+623,OP08-001-2,Animal
+624,OP08-001-2,Drum Kingdom
+625,OP08-001-2,Straw Hat Crew
+626,OP08-002-2,Whitebeard Pirates
+627,OP08-021-2,Minks
+628,OP08-057-2,Animal Kingdom Pirates
+629,OP08-058-2,Big Mom Pirates
+630,OP08-098-2,Jaya
+631,OP08-098-2,Sky Island
+632,OP08-098-2,Shandian Warrior
+633,EB01-001-0,Land of Wano
+634,EB01-001-0,Kouzuki Clan
+635,EB01-001-1,Land of Wano
+636,EB01-001-1,Kouzuki Clan
+637,EB01-002-0,Land of Wano
+638,EB01-002-0,Whitebeard Pirates
+639,EB01-003-0,Supernovas
+640,EB01-003-0,Kid Pirates
+641,EB01-003-1,Supernovas
+642,EB01-003-1,Kid Pirates
+643,EB01-004-0,Alabasta
+644,EB01-005-0,Whitebeard Pirates Allies
+645,EB01-006-1,Animal
+646,EB01-006-1,Straw Hat Crew
+647,EB01-006-2,Animal
+648,EB01-006-2,Straw Hat Crew
+649,EB01-007-0,Land of Wano
+650,EB01-008-0,Giant
+651,EB01-008-0,Whitebeard Pirates Allies
+652,EB01-009-0,Drum Kingdom
+653,EB01-009-0,Straw Hat Crew
+654,EB01-010-0,Water Seven
+655,EB01-010-0,Straw Hat Crew
+656,EB01-011-0,Straw Hat Crew
+657,EB01-012-0,Supernovas
+658,EB01-012-0,Beautiful Pirates
+659,EB01-012-1,Supernovas
+660,EB01-012-1,Beautiful Pirates
+661,EB01-013-0,Land of Wano
+662,EB01-013-0,Kouzuki Clan
+663,EB01-013-1,Land of Wano
+664,EB01-013-1,Kouzuki Clan
+665,EB01-014-0,FILM
+666,EB01-014-0,Straw Hat Crew
+667,EB01-015-0,Supernovas
+668,EB01-015-0,On-Air Pirates
+669,EB01-016-0,Land of Wano
+670,EB01-017-0,FILM
+671,EB01-017-0,CP0
+672,EB01-018-0,Animal
+673,EB01-018-0,Land of Wano
+674,EB01-019-0,The Seven Warlords of the Sea
+675,EB01-019-0,Donquixote Pirates
+676,EB01-020-0,Supernovas
+677,EB01-020-0,Heart Pirates
+678,EB01-021-0,Impel Down
+679,EB01-021-1,Impel Down
+680,EB01-022-0,Impel Down
+681,EB01-022-0,Revolutionary Army
+682,EB01-022-1,Impel Down
+683,EB01-022-1,Revolutionary Army
+684,EB01-023-0,The Seven Warlords of the Sea
+685,EB01-024-0,Animal Kingdom Pirates
+686,EB01-024-0,SMILE
+687,EB01-025-0,Animal Kingdom Pirates
+688,EB01-025-0,SMILE
+689,EB01-026-0,Impel Down
+690,EB01-027-0,Baroque Works
+691,EB01-027-1,Baroque Works
+692,EB01-028-0,Impel Down
+693,EB01-028-0,Straw Hat Crew
+694,EB01-029-0,East Blue
+695,EB01-029-0,Straw Hat Crew
+696,EB01-030-0,East Blue
+697,EB01-031-0,Water Seven
+698,EB01-031-0,Galley-La Company
+699,EB01-031-1,Water Seven
+700,EB01-031-1,Galley-La Company
+701,EB01-032-0,Animal
+702,EB01-032-0,Impel Down
+703,EB01-033-0,Water Seven
+704,EB01-034-0,Baroque Works
+705,EB01-034-1,Baroque Works
+706,EB01-035-0,Baroque Works
+707,EB01-036-0,Impel Down
+708,EB01-036-0,Jailer Beast
+709,EB01-037-0,Baroque Works
+710,EB01-038-0,Baroque Works
+711,EB01-039-0,The Four Emperors
+712,EB01-039-0,Animal Kingdom Pirates
+713,EB01-040-0,Dressrosa
+714,EB01-040-1,Dressrosa
+715,EB01-041-0,Former Roger Pirates
+716,EB01-042-0,Dressrosa
+717,EB01-043-0,CP9
+718,EB01-044-0,CP9
+719,EB01-045-0,Rumbar Pirates
+720,EB01-046-0,Straw Hat Crew
+721,EB01-046-1,Straw Hat Crew
+722,EB01-047-0,Animal
+723,EB01-048-0,Animal
+724,EB01-048-1,Animal
+725,EB01-049-0,Water Seven
+726,EB01-049-0,Navy
+727,EB01-049-1,Water Seven
+728,EB01-049-1,Navy
+729,EB01-050-0,Straw Hat Crew
+730,EB01-051-0,CP9
+731,EB01-052-0,Dressrosa
+732,EB01-052-1,Dressrosa
+733,EB01-053-0,Scientist
+734,EB01-054-0,Sky Island
+735,EB01-055-0,Big Mom Pirates
+736,EB01-056-0,Big Mom Pirates
+737,EB01-056-1,Big Mom Pirates
+738,EB01-057-0,Merfolk
+739,EB01-057-1,Merfolk
+740,EB01-058-0,Monkey Mountain Alliance
+741,EB01-059-0,Sky Island
+742,EB01-060-0,Sky Island
+743,EB01-061-0,Former Baroque Works
+744,EB01-061-1,Former Baroque Works
+745,OP12-001-0,Former Roger Pirates
+746,OP12-001-1,Former Roger Pirates
+747,OP12-002-0,Whitebeard Pirates
+748,OP12-003-0,Former Roger Pirates
+749,OP12-004-0,Land of Wano
+750,OP12-004-0,Kouzuki Clan
+751,OP12-004-0,Roger Pirates
+752,OP12-005-0,FILM
+753,OP12-005-0,Golden Lion Pirates
+754,OP12-006-0,Amazon Lily
+755,OP12-007-0,Roger Pirates
+756,OP12-008-0,The Four Emperors
+757,OP12-008-0,Red-Haired Pirates
+758,OP12-008-1,The Four Emperors
+759,OP12-008-1,Red-Haired Pirates
+760,OP12-009-0,Fish-Man
+761,OP12-009-0,The Sun Pirates
+762,OP12-010-0,FILM
+763,OP12-010-0,The Pirates Fest
+764,OP12-010-0,Former Roger Pirates
+765,OP12-011-0,The Flying Fish Riders
+766,OP12-012-0,Roger Pirates
+767,OP12-013-0,Fish-Man
+768,OP12-013-0,Former Arlong Pirates
+769,OP12-014-0,The Seven Warlords of the Sea
+770,OP12-014-0,Kuja Pirates
+771,OP12-014-1,The Seven Warlords of the Sea
+772,OP12-014-1,Kuja Pirates
+773,OP12-015-0,Supernovas
+774,OP12-015-0,Straw Hat Crew
+775,OP12-015-1,Supernovas
+776,OP12-015-1,Straw Hat Crew
+777,OP12-016-0,Former Roger Pirates
+778,OP12-017-0,Former Roger Pirates
+779,OP12-018-0,Former Roger Pirates
+780,OP12-019-0,Former Roger Pirates
+781,OP12-020-0,Supernovas
+782,OP12-020-0,Straw Hat Crew
+783,OP12-020-1,Supernovas
+784,OP12-020-1,Straw Hat Crew
+785,OP12-021-0,East Blue
+786,OP12-022-0,Minks
+787,OP12-022-0,Land of Wano
+788,OP12-022-0,The Akazaya Nine
+789,OP12-023-0,Fish-Man
+790,OP12-023-0,Land of Wano
+791,OP12-023-0,The Akazaya Nine
+792,OP12-024-0,Animal
+793,OP12-024-0,Land of Wano
+794,OP12-025-0,Land of Wano
+795,OP12-025-0,The Akazaya Nine
+796,OP12-026-0,East Blue
+797,OP12-026-0,Frost Moon Village
+798,OP12-027-0,East Blue
+799,OP12-027-0,Frost Moon Village
+800,OP12-028-0,Land of Wano
+801,OP12-028-0,Kouzuki Clan
+802,OP12-029-0,East Blue
+803,OP12-029-0,Frost Moon Village
+804,OP12-029-0,Land of Wano
+805,OP12-030-0,Muggy Kingdom
+806,OP12-030-0,The Seven Warlords of the Sea
+807,OP12-030-1,Muggy Kingdom
+808,OP12-030-1,The Seven Warlords of the Sea
+809,OP12-031-0,East Blue
+810,OP12-031-0,Navy
+811,OP12-031-1,East Blue
+812,OP12-031-1,Navy
+813,OP12-032-0,Minks
+814,OP12-032-0,Land of Wano
+815,OP12-032-0,The Akazaya Nine
+816,OP12-033-0,East Blue
+817,OP12-033-0,Navy
+818,OP12-034-0,Muggy Kingdom
+819,OP12-034-0,Thriller Bark Pirates
+820,OP12-034-1,Muggy Kingdom
+821,OP12-034-1,Thriller Bark Pirates
+822,OP12-035-0,East Blue
+823,OP12-035-0,Navy
+824,OP12-036-0,Supernovas
+825,OP12-036-0,Straw Hat Crew
+826,OP12-037-0,Straw Hat Crew
+827,OP12-037-1,Straw Hat Crew
+828,OP12-038-0,Straw Hat Crew
+829,OP12-039-0,Straw Hat Crew
+830,OP12-040-0,Navy
+831,OP12-040-1,Navy
+832,OP12-041-0,The Vinsmoke Family
+833,OP12-041-0,Straw Hat Crew
+834,OP12-041-1,The Vinsmoke Family
+835,OP12-041-1,Straw Hat Crew
+836,OP12-042-0,Cross Guild
+837,OP12-043-0,Navy
+838,OP12-043-1,Navy
+839,OP12-044-0,Navy
+840,OP12-045-0,Navy
+841,OP12-046-0,FILM
+842,OP12-046-0,Navy
+843,OP12-047-0,Navy
+844,OP12-048-0,Navy
+845,OP12-049-0,The Four Emperors
+846,OP12-049-0,Cross Guild
+847,OP12-050-0,Giant
+848,OP12-050-0,Ohara
+849,OP12-050-0,Navy
+850,OP12-051-0,Navy
+851,OP12-052-0,Navy
+852,OP12-053-0,Navy
+853,OP12-054-0,The Seven Warlords of the Sea
+854,OP12-054-0,Blackbeard Pirates
+855,OP12-055-0,Cross Guild
+856,OP12-056-0,Navy
+857,OP12-056-1,Navy
+858,OP12-057-0,Navy
+859,OP12-058-0,Whitebeard Pirates
+860,OP12-059-0,Sky Island
+861,OP12-059-0,Straw Hat Crew
+862,OP12-060-0,Straw Hat Crew
+863,OP12-060-1,Straw Hat Crew
+864,OP12-061-0,Navy
+865,OP12-061-0,Donquixote Pirates
+866,OP12-061-1,Navy
+867,OP12-061-1,Donquixote Pirates
+868,OP12-062-0,Kingdom of GERMA
+869,OP12-062-0,The Vinsmoke Family
+870,OP12-063-0,The Vinsmoke Family
+871,OP12-063-0,GERMA 66
+872,OP12-063-1,The Vinsmoke Family
+873,OP12-063-1,GERMA 66
+874,OP12-064-0,Punk Hazard
+875,OP12-064-0,Navy
+876,OP12-064-0,Donquixote Pirates
+877,OP12-065-0,Impel Down
+878,OP12-065-0,Revolutionary Army
+879,OP12-066-0,East Blue
+880,OP12-067-0,East Blue
+881,OP12-068-0,East Blue
+882,OP12-068-0,Krieg Pirates
+883,OP12-069-0,The Seven Warlords of the Sea
+884,OP12-069-0,Baroque Works
+885,OP12-070-0,Alabasta
+886,OP12-070-0,Straw Hat Crew
+887,OP12-070-1,Alabasta
+888,OP12-070-1,Straw Hat Crew
+889,OP12-071-0,Big Mom Pirates
+890,OP12-072-0,East Blue
+891,OP12-073-0,Dressrosa
+892,OP12-073-0,Supernovas
+893,OP12-073-0,Heart Pirates
+894,OP12-073-1,Dressrosa
+895,OP12-073-1,Supernovas
+896,OP12-073-1,Heart Pirates
+897,OP12-074-0,East Blue
+898,OP12-075-0,Baroque Works
+899,OP12-076-0,Punk Hazard
+900,OP12-076-0,Donquixote Pirates
+901,OP12-077-0,Heart Pirates
+902,OP12-078-0,Straw Hat Crew
+903,OP12-079-0,Straw Hat Crew
+904,OP12-080-0,East Blue
+905,OP12-081-0,Dressrosa
+906,OP12-081-0,Revolutionary Army
+907,OP12-081-1,Dressrosa
+908,OP12-081-1,Revolutionary Army
+909,OP12-082-0,Dressrosa
+910,OP12-082-0,Navy
+911,OP12-083-0,Revolutionary Army
+912,OP12-084-0,Revolutionary Army
+913,OP12-085-0,Revolutionary Army
+914,OP12-086-0,Dressrosa
+915,OP12-086-0,Revolutionary Army
+916,OP12-086-1,Dressrosa
+917,OP12-086-1,Revolutionary Army
+918,OP12-087-0,Straw Hat Crew
+919,OP12-087-1,Straw Hat Crew
+920,OP12-088-0,Dressrosa
+921,OP12-088-0,Navy
+922,OP12-089-0,Fish-Man
+923,OP12-089-0,Dressrosa
+924,OP12-089-0,Revolutionary Army
+925,OP12-090-0,Revolutionary Army
+926,OP12-091-0,Animal Kingdom Pirates
+927,OP12-091-0,SMILE
+928,OP12-092-0,Animal Kingdom Pirates
+929,OP12-092-0,SMILE
+930,OP12-093-0,Giant
+931,OP12-093-0,Revolutionary Army
+932,OP12-094-0,Revolutionary Army
+933,OP12-094-1,Revolutionary Army
+934,OP12-095-0,Minks
+935,OP12-095-0,Revolutionary Army
+936,OP12-096-0,The Seven Warlords of the Sea
+937,OP12-096-0,Revolutionary Army
+938,OP12-097-0,Revolutionary Army
+939,OP12-098-0,Impel Down
+940,OP12-098-0,Revolutionary Army
+941,OP12-099-0,Jaya
+942,OP12-099-0,Sky Island
+943,OP12-099-0,Shandian Warrior
+944,OP12-100-0,Dressrosa
+945,OP12-100-0,Revolutionary Army
+946,OP12-101-0,Supernovas
+947,OP12-101-0,Bonney Pirates
+948,OP12-102-0,Merfolk
+949,OP12-102-0,Fish-Man Island
+950,OP12-102-1,Merfolk
+951,OP12-102-1,Fish-Man Island
+952,OP12-103-0,Jaya
+953,OP12-103-0,Sky Island
+954,OP12-103-0,Shandian Warrior
+955,OP12-104-0,Egghead
+956,OP12-104-0,Navy
+957,OP12-105-0,Flevance
+958,OP12-106-0,Dressrosa
+959,OP12-106-0,Supernovas
+960,OP12-106-0,Heart Pirates
+961,OP12-107-0,The Seven Warlords of the Sea
+962,OP12-107-0,Donquixote Pirates
+963,OP12-108-0,Navy
+964,OP12-108-0,Donquixote Pirates
+965,OP12-108-1,Navy
+966,OP12-108-1,Donquixote Pirates
+967,OP12-109-0,Biological Weapon
+968,OP12-109-0,Egghead
+969,OP12-109-0,Navy
+970,OP12-110-0,Donquixote Pirates
+971,OP12-111-0,Donquixote Pirates
+972,OP12-112-0,Donquixote Pirates
+973,OP12-113-0,Supernovas
+974,OP12-113-0,Straw Hat Crew
+975,OP12-114-0,Sky Island
+976,OP12-114-0,Shandian Warrior
+977,OP12-115-0,Navy
+978,OP12-115-0,Donquixote Pirates
+979,OP12-116-0,Jaya
+980,OP12-116-0,Sky Island
+981,OP12-116-0,Shandian Warrior
+982,OP12-117-0,Supernovas
+983,OP12-117-0,Kid Pirates
+984,OP12-118-0,Supernovas
+985,OP12-118-0,Bonney Pirates
+986,OP12-118-1,Supernovas
+987,OP12-118-1,Bonney Pirates
+988,OP12-118-2,Supernovas
+989,OP12-118-2,Bonney Pirates
+990,OP12-119-0,The Seven Warlords of the Sea
+991,OP12-119-0,Revolutionary Army
+992,OP12-119-1,The Seven Warlords of the Sea
+993,OP12-119-1,Revolutionary Army
+994,OP06-050-2,Navy
+995,OP09-013-1,Red-Haired Pirates
+996,OP09-037-2,ODYSSEY
+997,OP09-093-4,The Four Emperors
+998,OP09-093-4,Blackbeard Pirates
+999,OP09-093-5,The Four Emperors
+1000,OP09-093-5,Blackbeard Pirates
+1001,OP10-082-2,Former Navy
+1002,OP10-082-2,Blackbeard Pirates
+1003,ST13-011-2,Whitebeard Pirates
+1004,ST18-004-1,Straw Hat Crew
+1005,OP11-001-0,Navy
+1006,OP11-001-0,SWORD
+1007,OP11-001-1,Navy
+1008,OP11-001-1,SWORD
+1009,OP11-002-0,FILM
+1010,OP11-002-0,Neo Navy
+1011,OP11-003-0,Straw Hat Crew
+1012,OP11-004-0,Navy
+1013,OP11-004-0,SWORD
+1014,OP11-004-1,Navy
+1015,OP11-004-1,SWORD
+1016,OP11-005-0,Navy
+1017,OP11-006-0,FILM
+1018,OP11-006-0,Neo Navy
+1019,OP11-007-0,Navy
+1020,OP11-008-0,Navy
+1021,OP11-008-1,Navy
+1022,OP11-009-0,Straw Hat Crew
+1023,OP11-010-0,Navy
+1024,OP11-010-0,SWORD
+1025,OP11-010-1,Navy
+1026,OP11-010-1,SWORD
+1027,OP11-011-0,FILM
+1028,OP11-011-0,Neo Navy
+1029,OP11-012-0,Straw Hat Crew
+1030,OP11-013-0,Navy
+1031,OP11-013-0,SWORD
+1032,OP11-014-0,FILM
+1033,OP11-014-0,Navy
+1034,OP11-015-0,Punk Hazard
+1035,OP11-016-0,Straw Hat Crew
+1036,OP11-017-0,Navy
+1037,OP11-017-0,SWORD
+1038,OP11-017-0,Drake Pirates
+1039,OP11-018-0,Navy
+1040,OP11-018-0,SWORD
+1041,OP11-018-1,Navy
+1042,OP11-018-1,SWORD
+1043,OP11-019-0,Navy
+1044,OP11-019-0,SWORD
+1045,OP11-020-0,Navy
+1046,OP11-020-0,SWORD
+1047,OP11-020-0,Drake Pirates
+1048,OP11-021-0,Fish-Man
+1049,OP11-021-0,Straw Hat Crew
+1050,OP11-021-1,Fish-Man
+1051,OP11-021-1,Straw Hat Crew
+1052,OP11-022-0,Merfolk
+1053,OP11-022-0,Fish-Man Island
+1054,OP11-022-1,Merfolk
+1055,OP11-022-1,Fish-Man Island
+1056,OP11-023-0,Fish-Man
+1057,OP11-023-0,Fish-Man Island
+1058,OP11-023-0,The Sun Pirates
+1059,OP11-023-1,Fish-Man
+1060,OP11-023-1,Fish-Man Island
+1061,OP11-023-1,The Sun Pirates
+1062,OP11-024-0,Merfolk
+1063,OP11-024-0,Fish-Man Island
+1064,OP11-024-0,The Sun Pirates
+1065,OP11-025-0,Merfolk
+1066,OP11-025-0,Fish-Man Island
+1067,OP11-026-0,Neptunian
+1068,OP11-027-0,Neptunian
+1069,OP11-028-0,Neptunian
+1070,OP11-028-0,East Blue
+1071,OP11-029-0,Merfolk
+1072,OP11-029-0,Fish-Man Island
+1073,OP11-029-0,The Sun Pirates
+1074,OP11-030-0,Merfolk
+1075,OP11-030-0,Fish-Man Island
+1076,OP11-031-0,Fish-Man
+1077,OP11-031-0,Fish-Man Island
+1078,OP11-031-0,The Sun Pirates
+1079,OP11-031-1,Fish-Man
+1080,OP11-031-1,Fish-Man Island
+1081,OP11-031-1,The Sun Pirates
+1082,OP11-032-0,Animal
+1083,OP11-032-0,Fish-Man Island
+1084,OP11-033-0,Neptunian
+1085,OP11-034-0,Fish-Man
+1086,OP11-034-0,Fish-Man Island
+1087,OP11-034-0,Former Arlong Pirates
+1088,OP11-035-0,Fish-Man
+1089,OP11-035-0,Fish-Man Island
+1090,OP11-035-0,The Sun Pirates
+1091,OP11-036-0,Neptunian
+1092,OP11-037-0,Fish-Man Island
+1093,OP11-038-0,Fish-Man Island
+1094,OP11-038-0,Supernovas
+1095,OP11-038-0,Straw Hat Crew
+1096,OP11-039-0,Fish-Man
+1097,OP11-039-0,Fish-Man Island
+1098,OP11-039-0,The Sun Pirates
+1099,OP11-040-0,Straw Hat Crew
+1100,OP11-040-1,Straw Hat Crew
+1101,OP11-041-0,Straw Hat Crew
+1102,OP11-041-1,Straw Hat Crew
+1103,OP11-042-0,Firetank Pirates
+1104,OP11-043-0,The Vinsmoke Family
+1105,OP11-043-0,GERMA 66
+1106,OP11-044-0,The Vinsmoke Family
+1107,OP11-044-0,GERMA 66
+1108,OP11-045-0,The Vinsmoke Family
+1109,OP11-045-0,GERMA 66
+1110,OP11-046-0,The Vinsmoke Family
+1111,OP11-046-0,GERMA 66
+1112,OP11-047-0,The Vinsmoke Family
+1113,OP11-047-0,GERMA 66
+1114,OP11-047-1,The Vinsmoke Family
+1115,OP11-047-1,GERMA 66
+1116,OP11-048-0,Supernovas
+1117,OP11-048-0,Firetank Pirates
+1118,OP11-049-0,Minks
+1119,OP11-050-0,Firetank Pirates
+1120,OP11-051-0,The Vinsmoke Family
+1121,OP11-051-0,Straw Hat Crew
+1122,OP11-051-1,The Vinsmoke Family
+1123,OP11-051-1,Straw Hat Crew
+1124,OP11-052-0,Firetank Pirates
+1125,OP11-052-0,Former Rolling Pirates
+1126,OP11-053-0,Animal
+1127,OP11-053-0,Straw Hat Crew
+1128,OP11-054-0,Straw Hat Crew
+1129,OP11-054-1,Straw Hat Crew
+1130,OP11-055-0,Dressrosa
+1131,OP11-055-0,Supernovas
+1132,OP11-056-0,Straw Hat Crew
+1133,OP11-057-0,Minks
+1134,OP11-058-0,Straw Hat Crew
+1135,OP11-059-0,Straw Hat Crew
+1136,OP11-060-0,Straw Hat Crew
+1137,OP11-061-0,Straw Hat Crew
+1138,OP11-062-0,Big Mom Pirates
+1139,OP11-062-1,Big Mom Pirates
+1140,OP11-063-0,Impel Down
+1141,OP11-064-0,Impel Down
+1142,OP11-065-0,Big Mom Pirates
+1143,OP11-066-0,Big Mom Pirates
+1144,OP11-067-0,Big Mom Pirates
+1145,OP11-067-1,Big Mom Pirates
+1146,OP11-068-0,Big Mom Pirates
+1147,OP11-069-0,Big Mom Pirates
+1148,OP11-070-0,Big Mom Pirates
+1149,OP11-070-1,Big Mom Pirates
+1150,OP11-071-0,Big Mom Pirates
+1151,OP11-072-0,Big Mom Pirates
+1152,OP11-073-0,The Four Emperors
+1153,OP11-073-0,Big Mom Pirates
+1154,OP11-073-1,The Four Emperors
+1155,OP11-073-1,Big Mom Pirates
+1156,OP11-074-0,Big Mom Pirates
+1157,OP11-075-0,Giant
+1158,OP11-075-0,Ohara
+1159,OP11-075-0,Former Navy
+1160,OP11-076-0,Impel Down
+1161,OP11-077-0,Homies
+1162,OP11-077-0,Big Mom Pirates
+1163,OP11-078-0,Big Mom Pirates
+1164,OP11-079-0,Big Mom Pirates
+1165,OP11-080-0,Straw Hat Crew
+1166,OP11-080-1,Straw Hat Crew
+1167,OP11-081-0,The Four Emperors
+1168,OP11-081-0,Big Mom Pirates
+1169,OP11-082-0,Navy
+1170,OP11-083-0,Caribou Pirates
+1171,OP11-084-0,Navy
+1172,OP11-084-1,Navy
+1173,OP11-085-0,Land of Wano
+1174,OP11-085-0,Kurozumi Clan
+1175,OP11-086-0,Caribou Pirates
+1176,OP11-087-0,Animal Kingdom Pirates
+1177,OP11-087-0,SMILE
+1178,OP11-088-0,Navy
+1179,OP11-089-0,Animal Kingdom Pirates
+1180,OP11-090-0,Animal Kingdom Pirates
+1181,OP11-090-0,SMILE
+1182,OP11-091-0,Navy
+1183,OP11-092-0,Navy
+1184,OP11-092-0,SWORD
+1185,OP11-092-1,Navy
+1186,OP11-092-1,SWORD
+1187,OP11-093-0,Navy
+1188,OP11-094-0,Navy
+1189,OP11-095-0,Navy
+1190,OP11-095-1,Navy
+1191,OP11-096-0,East Blue
+1192,OP11-096-0,Navy
+1193,OP11-097-0,Navy
+1194,OP11-098-0,Navy
+1195,OP11-099-0,East Blue
+1196,OP11-099-0,Navy
+1197,OP11-100-0,Merfolk
+1198,OP11-100-0,Fish-Man Island
+1199,OP11-101-0,Supernovas
+1200,OP11-101-0,Firetank Pirates
+1201,OP11-101-1,Supernovas
+1202,OP11-101-1,Firetank Pirates
+1203,OP11-102-0,Merfolk
+1204,OP11-102-0,Fish-Man Island
+1205,OP11-103-0,Neptunian
+1206,OP11-104-0,Merfolk
+1207,OP11-104-0,Fish-Man Island
+1208,OP11-105-0,Firetank Pirates
+1209,OP11-105-0,Former Big Mom Pirates
+1210,OP11-106-0,Homies
+1211,OP11-106-0,Big Mom Pirates
+1212,OP11-106-1,Homies
+1213,OP11-106-1,Big Mom Pirates
+1214,OP11-107-0,Neptunian
+1215,OP11-108-0,Merfolk
+1216,OP11-108-0,Fish-Man Island
+1217,OP11-109-0,Animal
+1218,OP11-109-0,Fish-Man Island
+1219,OP11-110-0,Merfolk
+1220,OP11-110-0,Fish-Man Island
+1221,OP11-111-0,Merfolk
+1222,OP11-111-0,Fish-Man Island
+1223,OP11-112-0,Animal
+1224,OP11-112-0,Fish-Man Island
+1225,OP11-113-0,Merfolk
+1226,OP11-113-0,Fish-Man Island
+1227,OP11-114-0,Straw Hat Crew
+1228,OP11-114-1,Straw Hat Crew
+1229,OP11-115-0,Merfolk
+1230,OP11-115-0,Fish-Man Island
+1231,OP11-116-0,Merfolk
+1232,OP11-116-0,Fish-Man Island
+1233,OP11-117-0,Fish-Man Island
+1234,OP11-118-0,Straw Hat Crew
+1235,OP11-118-1,Straw Hat Crew
+1236,OP11-118-2,Straw Hat Crew
+1237,OP11-119-0,Navy
+1238,OP11-119-0,SWORD
+1239,OP11-119-1,Navy
+1240,OP11-119-1,SWORD
+1241,EB01-057-2,Merfolk
+1242,OP05-119-6,The Four Emperors
+1243,OP05-119-6,Straw Hat Crew
+1244,OP05-119-7,The Four Emperors
+1245,OP05-119-7,Straw Hat Crew
+1246,OP06-119-2,Straw Hat Crew
+1247,OP07-085-2,CP0
+1248,OP09-005-1,Roger Pirates
+1249,ST16-004-1,FILM
+1250,ST16-004-1,The Four Emperors
+1251,ST16-004-1,Red-Haired Pirates
+1252,ST18-005-1,Straw Hat Crew
+1253,OP10-001-0,Punk Hazard
+1254,OP10-001-0,Navy
+1255,OP10-001-1,Punk Hazard
+1256,OP10-001-1,Navy
+1257,OP10-002-0,Scientist
+1258,OP10-002-0,Punk Hazard
+1259,OP10-002-1,Scientist
+1260,OP10-002-1,Punk Hazard
+1261,OP10-003-0,Donquixote Pirates
+1262,OP10-003-1,Donquixote Pirates
+1263,OP10-004-0,Punk Hazard
+1264,OP10-004-0,Navy
+1265,OP10-004-0,Donquixote Pirates
+1266,OP10-005-0,Punk Hazard
+1267,OP10-005-0,Straw Hat Crew
+1268,OP10-005-1,Punk Hazard
+1269,OP10-005-1,Straw Hat Crew
+1270,OP10-006-0,Scientist
+1271,OP10-006-0,Punk Hazard
+1272,OP10-007-0,Punk Hazard
+1273,OP10-008-0,Punk Hazard
+1274,OP10-009-0,Biological Weapon
+1275,OP10-009-0,Punk Hazard
+1276,OP10-010-0,Punk Hazard
+1277,OP10-010-0,Brownbeard Pirates
+1278,OP10-011-0,Punk Hazard
+1279,OP10-011-0,Straw Hat Crew
+1280,OP10-012-0,Biological Weapon
+1281,OP10-012-0,Punk Hazard
+1282,OP10-013-0,Punk Hazard
+1283,OP10-013-0,Straw Hat Crew
+1284,OP10-014-0,Animal
+1285,OP10-014-0,Punk Hazard
+1286,OP10-014-0,Straw Hat Crew
+1287,OP10-015-0,Punk Hazard
+1288,OP10-016-0,Punk Hazard
+1289,OP10-016-0,Donquixote Pirates
+1290,OP10-016-1,Punk Hazard
+1291,OP10-016-1,Donquixote Pirates
+1292,OP10-017-0,Punk Hazard
+1293,OP10-018-0,Punk Hazard
+1294,OP10-018-0,Donquixote Pirates
+1295,OP10-019-0,The Four Emperors
+1296,OP10-019-0,Red-Haired Pirates
+1297,OP10-019-1,The Four Emperors
+1298,OP10-019-1,Red-Haired Pirates
+1299,OP10-020-0,Punk Hazard
+1300,OP10-020-0,Straw Hat Crew
+1301,OP10-021-0,Punk Hazard
+1302,OP10-022-0,Dressrosa
+1303,OP10-022-0,Supernovas
+1304,OP10-022-0,Heart Pirates
+1305,OP10-022-1,Dressrosa
+1306,OP10-022-1,Supernovas
+1307,OP10-022-1,Heart Pirates
+1308,OP10-023-0,Dressrosa
+1309,OP10-023-0,Navy
+1310,OP10-024-0,ODYSSEY
+1311,OP10-024-0,The Four Emperors
+1312,OP10-024-0,Whitebeard Pirates
+1313,OP10-025-0,ODYSSEY
+1314,OP10-025-0,Sky Island
+1315,OP10-026-0,Punk Hazard
+1316,OP10-026-0,Land of Wano
+1317,OP10-026-0,The Akazaya Nine
+1318,OP10-027-0,Punk Hazard
+1319,OP10-027-0,Land of Wano
+1320,OP10-027-0,The Akazaya Nine
+1321,OP10-028-0,Punk Hazard
+1322,OP10-028-0,Land of Wano
+1323,OP10-028-0,Kouzuki Clan
+1324,OP10-029-0,ODYSSEY
+1325,OP10-029-0,The Seven Warlords of the Sea
+1326,OP10-030-0,Punk Hazard
+1327,OP10-030-0,Navy
+1328,OP10-030-1,Punk Hazard
+1329,OP10-030-1,Navy
+1330,OP10-031-0,Dressrosa
+1331,OP10-031-0,Navy
+1332,OP10-032-0,Punk Hazard
+1333,OP10-032-0,Navy
+1334,OP10-032-1,Punk Hazard
+1335,OP10-032-1,Navy
+1336,OP10-033-0,ODYSSEY
+1337,OP10-033-0,Straw Hat Crew
+1338,OP10-034-0,ODYSSEY
+1339,OP10-034-0,Straw Hat Crew
+1340,OP10-035-0,ODYSSEY
+1341,OP10-035-0,Straw Hat Crew
+1342,OP10-036-0,ODYSSEY
+1343,OP10-036-0,Muggy Kingdom
+1344,OP10-036-0,Thriller Bark Pirates
+1345,OP10-037-0,ODYSSEY
+1346,OP10-037-1,ODYSSEY
+1347,OP10-038-0,ODYSSEY
+1348,OP10-038-0,Supernovas
+1349,OP10-038-0,Straw Hat Crew
+1350,OP10-039-0,ODYSSEY
+1351,OP10-039-0,Supernovas
+1352,OP10-039-0,Straw Hat Crew
+1353,OP10-040-0,Punk Hazard
+1354,OP10-040-0,The Seven Warlords of the Sea
+1355,OP10-040-0,Heart Pirates
+1356,OP10-041-0,Dressrosa
+1357,OP10-041-0,Supernovas
+1358,OP10-041-0,Heart Pirates
+1359,OP10-042-0,Dressrosa
+1360,OP10-042-0,Straw Hat Crew
+1361,OP10-042-1,Dressrosa
+1362,OP10-042-1,Straw Hat Crew
+1363,OP10-043-0,Animal
+1364,OP10-043-0,Dressrosa
+1365,OP10-044-0,The Tontattas
+1366,OP10-044-0,Dressrosa
+1367,OP10-045-0,Dressrosa
+1368,OP10-045-0,Beautiful Pirates
+1369,OP10-045-1,Dressrosa
+1370,OP10-045-1,Beautiful Pirates
+1371,OP10-046-0,Dressrosa
+1372,OP10-046-1,Dressrosa
+1373,OP10-047-0,Dressrosa
+1374,OP10-047-0,Revolutionary Army
+1375,OP10-048-0,Dressrosa
+1376,OP10-048-0,Happosui Army
+1377,OP10-049-0,Dressrosa
+1378,OP10-049-0,Revolutionary Army
+1379,OP10-050-0,Giant
+1380,OP10-050-0,Dressrosa
+1381,OP10-050-0,New Giant Pirates
+1382,OP10-051-0,Fish-Man
+1383,OP10-051-0,Dressrosa
+1384,OP10-051-0,Revolutionary Army
+1385,OP10-052-0,Dressrosa
+1386,OP10-052-0,Barto Club
+1387,OP10-053-0,The Tontattas
+1388,OP10-053-0,Dressrosa
+1389,OP10-054-0,Dressrosa
+1390,OP10-055-0,Whitebeard Pirates
+1391,OP10-056-0,The Tontattas
+1392,OP10-056-0,Dressrosa
+1393,OP10-057-0,The Tontattas
+1394,OP10-057-0,Dressrosa
+1395,OP10-058-0,Dressrosa
+1396,OP10-058-1,Dressrosa
+1397,OP10-059-0,Dressrosa
+1398,OP10-059-0,Straw Hat Crew
+1399,OP10-060-0,Dressrosa
+1400,OP10-060-0,Barto Club
+1401,OP10-061-0,Dressrosa
+1402,OP10-061-0,Straw Hat Crew
+1403,OP10-062-0,Donquixote Pirates
+1404,OP10-063-0,Kingdom of GERMA
+1405,OP10-063-0,The Vinsmoke Family
+1406,OP10-064-0,Kingdom of GERMA
+1407,OP10-065-0,Donquixote Pirates
+1408,OP10-066-0,Donquixote Pirates
+1409,OP10-067-0,Donquixote Pirates
+1410,OP10-067-1,Donquixote Pirates
+1411,OP10-068-0,Donquixote Pirates
+1412,OP10-069-0,Animal
+1413,OP10-069-0,Dressrosa
+1414,OP10-070-0,Donquixote Pirates
+1415,OP10-071-0,The Seven Warlords of the Sea
+1416,OP10-071-0,Donquixote Pirates
+1417,OP10-071-1,The Seven Warlords of the Sea
+1418,OP10-071-1,Donquixote Pirates
+1419,OP10-072-0,Navy
+1420,OP10-072-0,Donquixote Pirates
+1421,OP10-072-1,Navy
+1422,OP10-072-1,Donquixote Pirates
+1423,OP10-073-0,Donquixote Pirates
+1424,OP10-074-0,Donquixote Pirates
+1425,OP10-075-0,Foxy Pirates
+1426,OP10-076-0,Donquixote Pirates
+1427,OP10-077-0,Donquixote Pirates
+1428,OP10-078-0,The Seven Warlords of the Sea
+1429,OP10-078-0,Donquixote Pirates
+1430,OP10-079-0,The Seven Warlords of the Sea
+1431,OP10-079-0,Donquixote Pirates
+1432,OP10-080-0,Donquixote Pirates
+1433,OP10-081-0,Dressrosa
+1434,OP10-081-0,Straw Hat Crew
+1435,OP10-082-0,Former Navy
+1436,OP10-082-0,Blackbeard Pirates
+1437,OP10-082-1,Former Navy
+1438,OP10-082-1,Blackbeard Pirates
+1439,OP10-083-0,Dressrosa
+1440,OP10-083-0,Land of Wano
+1441,OP10-083-0,Kouzuki Clan
+1442,OP10-084-0,Giant
+1443,OP10-084-0,Blackbeard Pirates
+1444,OP10-085-0,Dressrosa
+1445,OP10-085-0,Blackbeard Pirates
+1446,OP10-086-0,Blackbeard Pirates
+1447,OP10-087-0,Animal
+1448,OP10-087-0,Dressrosa
+1449,OP10-087-0,Straw Hat Crew
+1450,OP10-088-0,Dressrosa
+1451,OP10-088-0,Straw Hat Crew
+1452,OP10-089-0,Dressrosa
+1453,OP10-089-0,Straw Hat Crew
+1454,OP10-090-0,Dressrosa
+1455,OP10-090-0,Straw Hat Crew
+1456,OP10-090-1,Dressrosa
+1457,OP10-090-1,Straw Hat Crew
+1458,OP10-091-0,Dressrosa
+1459,OP10-091-0,Straw Hat Crew
+1460,OP10-092-0,Thriller Bark Pirates
+1461,OP10-093-0,Celestial Dragons
+1462,OP10-094-0,Land of Wano
+1463,OP10-094-0,Thriller Bark Pirates
+1464,OP10-095-0,Dressrosa
+1465,OP10-095-0,Supernovas
+1466,OP10-095-0,Straw Hat Crew
+1467,OP10-096-0,Navy
+1468,OP10-097-0,Dressrosa
+1469,OP10-097-0,Supernovas
+1470,OP10-097-0,Straw Hat Crew
+1471,OP10-098-0,Blackbeard Pirates
+1472,OP10-099-0,Supernovas
+1473,OP10-099-0,Kid Pirates
+1474,OP10-099-1,Supernovas
+1475,OP10-099-1,Kid Pirates
+1476,OP10-100-0,Revolutionary Army
+1477,OP10-101-0,Supernovas
+1478,OP10-101-0,Fallen Monk Pirates
+1479,OP10-102-0,Revolutionary Army
+1480,OP10-103-0,Supernovas
+1481,OP10-103-0,Firetank Pirates
+1482,OP10-104-0,Supernovas
+1483,OP10-104-0,Caribou Pirates
+1484,OP10-105-0,Dressrosa
+1485,OP10-105-0,Supernovas
+1486,OP10-105-0,Beautiful Pirates
+1487,OP10-106-0,Supernovas
+1488,OP10-106-0,Kid Pirates
+1489,OP10-107-0,Supernovas
+1490,OP10-107-0,Bonney Pirates
+1491,OP10-108-0,Supernovas
+1492,OP10-108-0,On-Air Pirates
+1493,OP10-109-0,Supernovas
+1494,OP10-109-0,Hawkins Pirates
+1495,OP10-110-0,Kid Pirates
+1496,OP10-111-0,Supernovas
+1497,OP10-111-0,Straw Hat Crew
+1498,OP10-111-1,Supernovas
+1499,OP10-111-1,Straw Hat Crew
+1500,OP10-112-0,Supernovas
+1501,OP10-112-0,Kid Pirates
+1502,OP10-112-1,Supernovas
+1503,OP10-112-1,Kid Pirates
+1504,OP10-113-0,Supernovas
+1505,OP10-113-0,Straw Hat Crew
+1506,OP10-114-0,Supernovas
+1507,OP10-114-0,Navy
+1508,OP10-114-0,Drake Pirates
+1509,OP10-115-0,Supernovas
+1510,OP10-115-0,Kid Pirates
+1511,OP10-116-0,Supernovas
+1512,OP10-116-0,Kid Pirates
+1513,OP10-117-0,Supernovas
+1514,OP10-117-0,Heart Pirates
+1515,OP10-118-0,Dressrosa
+1516,OP10-118-0,Supernovas
+1517,OP10-118-0,Straw Hat Crew
+1518,OP10-118-1,Dressrosa
+1519,OP10-118-1,Supernovas
+1520,OP10-118-1,Straw Hat Crew
+1521,OP10-119-0,Dressrosa
+1522,OP10-119-0,Supernovas
+1523,OP10-119-0,Heart Pirates
+1524,OP10-119-1,Dressrosa
+1525,OP10-119-1,Supernovas
+1526,OP10-119-1,Heart Pirates
+1527,OP10-119-2,Dressrosa
+1528,OP10-119-2,Supernovas
+1529,OP10-119-2,Heart Pirates
+1530,EB01-056-2,Big Mom Pirates
+1531,OP07-021-1,Supernovas
+1532,OP07-021-1,Fallen Monk Pirates
+1533,ST12-012-1,Big Mom Pirates
+1534,ST14-003-1,Straw Hat Crew
+1535,ST15-002-1,The Four Emperors
+1536,ST15-002-1,Whitebeard Pirates
+1537,ST18-001-1,Straw Hat Crew
+1538,OP09-001-0,The Four Emperors
+1539,OP09-001-0,Red-Haired Pirates
+1540,OP09-001-1,The Four Emperors
+1541,OP09-001-1,Red-Haired Pirates
+1542,OP09-002-0,FILM
+1543,OP09-002-1,FILM
+1544,OP09-003-0,Heart Pirates
+1545,OP09-004-0,The Four Emperors
+1546,OP09-004-0,Red-Haired Pirates
+1547,OP09-004-1,The Four Emperors
+1548,OP09-004-1,Red-Haired Pirates
+1549,OP09-004-2,The Four Emperors
+1550,OP09-004-2,Red-Haired Pirates
+1551,OP09-005-0,Roger Pirates
+1552,OP09-006-0,Red-Haired Pirates
+1553,OP09-007-0,Kid Pirates
+1554,OP09-008-0,Red-Haired Pirates
+1555,OP09-009-0,Red-Haired Pirates
+1556,OP09-009-1,Red-Haired Pirates
+1557,OP09-010-0,Red-Haired Pirates
+1558,OP09-011-0,Red-Haired Pirates
+1559,OP09-012-0,Animal
+1560,OP09-012-0,Red-Haired Pirates
+1561,OP09-013-0,Red-Haired Pirates
+1562,OP09-014-0,Red-Haired Pirates
+1563,OP09-015-0,Red-Haired Pirates
+1564,OP09-016-0,Red-Haired Pirates
+1565,OP09-017-0,Kid Pirates
+1566,OP09-018-0,Red-Haired Pirates
+1567,OP09-019-0,Red-Haired Pirates
+1568,OP09-020-0,The Four Emperors
+1569,OP09-020-0,Red-Haired Pirates
+1570,OP09-021-0,Red-Haired Pirates
+1571,OP09-022-0,ODYSSEY
+1572,OP09-022-1,ODYSSEY
+1573,OP09-023-0,ODYSSEY
+1574,OP09-023-1,ODYSSEY
+1575,OP09-024-0,ODYSSEY
+1576,OP09-024-0,Straw Hat Crew
+1577,OP09-025-0,ODYSSEY
+1578,OP09-025-0,The Seven Warlords of the Sea
+1579,OP09-025-0,Baroque Works
+1580,OP09-026-0,ODYSSEY
+1581,OP09-026-0,Navy
+1582,OP09-027-0,ODYSSEY
+1583,OP09-027-0,Revolutionary Army
+1584,OP09-028-0,ODYSSEY
+1585,OP09-028-0,Straw Hat Crew
+1586,OP09-029-0,ODYSSEY
+1587,OP09-029-0,Animal
+1588,OP09-029-0,Straw Hat Crew
+1589,OP09-030-0,ODYSSEY
+1590,OP09-030-0,Supernovas
+1591,OP09-030-0,Heart Pirates
+1592,OP09-031-0,ODYSSEY
+1593,OP09-031-0,The Seven Warlords of the Sea
+1594,OP09-031-0,Donquixote Pirates
+1595,OP09-032-0,ODYSSEY
+1596,OP09-032-0,Navy
+1597,OP09-032-0,Donquixote Pirates
+1598,OP09-033-0,ODYSSEY
+1599,OP09-033-0,Straw Hat Crew
+1600,OP09-034-0,Muggy Kingdom
+1601,OP09-034-0,Thriller Bark Pirates
+1602,OP09-034-1,Muggy Kingdom
+1603,OP09-034-1,Thriller Bark Pirates
+1604,OP09-035-0,ODYSSEY
+1605,OP09-035-0,Whitebeard Pirates
+1606,OP09-036-0,ODYSSEY
+1607,OP09-036-0,Supernovas
+1608,OP09-036-0,Straw Hat Crew
+1609,OP09-037-0,ODYSSEY
+1610,OP09-037-1,ODYSSEY
+1611,OP09-038-0,ODYSSEY
+1612,OP09-038-0,CP9
+1613,OP09-039-0,ODYSSEY
+1614,OP09-039-0,Supernovas
+1615,OP09-039-0,Straw Hat Crew
+1616,OP09-040-0,ODYSSEY
+1617,OP09-040-0,Supernovas
+1618,OP09-040-0,Straw Hat Crew
+1619,OP09-041-0,ODYSSEY
+1620,OP09-041-0,Straw Hat Crew
+1621,OP09-042-0,The Four Emperors
+1622,OP09-042-0,Cross Guild
+1623,OP09-042-1,The Four Emperors
+1624,OP09-042-1,Cross Guild
+1625,OP09-043-0,Cross Guild
+1626,OP09-044-0,Land of Wano
+1627,OP09-044-0,Whitebeard Pirates
+1628,OP09-045-0,Cross Guild
+1629,OP09-046-0,Cross Guild
+1630,OP09-046-0,Former Baroque Works
+1631,OP09-046-1,Cross Guild
+1632,OP09-046-1,Former Baroque Works
+1633,OP09-047-0,Land of Wano
+1634,OP09-047-0,Whitebeard Pirates
+1635,OP09-048-0,Cross Guild
+1636,OP09-048-1,Cross Guild
+1637,OP09-049-0,Whitebeard Pirates
+1638,OP09-050-0,East Blue
+1639,OP09-050-1,East Blue
+1640,OP09-051-0,The Four Emperors
+1641,OP09-051-0,Cross Guild
+1642,OP09-051-1,The Four Emperors
+1643,OP09-051-1,Cross Guild
+1644,OP09-051-2,The Four Emperors
+1645,OP09-051-2,Cross Guild
+1646,OP09-052-0,Whitebeard Pirates
+1647,OP09-053-0,Cross Guild
+1648,OP09-054-0,Animal
+1649,OP09-054-0,Cross Guild
+1650,OP09-055-0,Cross Guild
+1651,OP09-055-0,Former Baroque Works
+1652,OP09-056-0,Cross Guild
+1653,OP09-056-0,Former Baroque Works
+1654,OP09-057-0,Cross Guild
+1655,OP09-058-0,Buggy Pirates
+1656,OP09-059-0,Buggy Pirates
+1657,OP09-060-0,Cross Guild
+1658,OP09-061-0,The Four Emperors
+1659,OP09-061-0,Straw Hat Crew
+1660,OP09-061-1,The Four Emperors
+1661,OP09-061-1,Straw Hat Crew
+1662,OP09-062-0,Straw Hat Crew
+1663,OP09-062-1,Straw Hat Crew
+1664,OP09-063-0,Straw Hat Crew
+1665,OP09-064-0,Kid Pirates
+1666,OP09-065-0,Straw Hat Crew
+1667,OP09-065-1,Straw Hat Crew
+1668,OP09-066-0,Heart Pirates
+1669,OP09-067-0,Fish-Man
+1670,OP09-067-0,Straw Hat Crew
+1671,OP09-068-0,Animal
+1672,OP09-068-0,Straw Hat Crew
+1673,OP09-069-0,Heart Pirates
+1674,OP09-069-1,Heart Pirates
+1675,OP09-070-0,Straw Hat Crew
+1676,OP09-071-0,Straw Hat Crew
+1677,OP09-072-0,Straw Hat Crew
+1678,OP09-072-1,Straw Hat Crew
+1679,OP09-073-0,Straw Hat Crew
+1680,OP09-074-0,Minks
+1681,OP09-074-0,Heart Pirates
+1682,OP09-075-0,Kid Pirates
+1683,OP09-076-0,Straw Hat Crew
+1684,OP09-077-0,The Four Emperors
+1685,OP09-077-0,Straw Hat Crew
+1686,OP09-078-0,The Four Emperors
+1687,OP09-078-0,Straw Hat Crew
+1688,OP09-079-0,The Four Emperors
+1689,OP09-079-0,Straw Hat Crew
+1690,OP09-080-0,Straw Hat Crew
+1691,OP09-081-0,The Four Emperors
+1692,OP09-081-0,Blackbeard Pirates
+1693,OP09-081-1,The Four Emperors
+1694,OP09-081-1,Blackbeard Pirates
+1695,OP09-082-0,Blackbeard Pirates
+1696,OP09-083-0,Blackbeard Pirates
+1697,OP09-084-0,Blackbeard Pirates
+1698,OP09-085-0,Thriller Bark Pirates
+1699,OP09-086-0,Blackbeard Pirates
+1700,OP09-087-0,Big Mom Pirates
+1701,OP09-088-0,Blackbeard Pirates
+1702,OP09-089-0,Animal
+1703,OP09-089-0,Blackbeard Pirates
+1704,OP09-090-0,Blackbeard Pirates
+1705,OP09-091-0,Blackbeard Pirates
+1706,OP09-092-0,Whitebeard Pirates
+1707,OP09-093-0,The Four Emperors
+1708,OP09-093-0,Blackbeard Pirates
+1709,OP09-093-1,The Four Emperors
+1710,OP09-093-1,Blackbeard Pirates
+1711,OP09-093-2,The Four Emperors
+1712,OP09-093-2,Blackbeard Pirates
+1713,OP09-094-0,Peachbeard Pirates
+1714,OP09-094-0,Blackbeard Pirates Allies
+1715,OP09-095-0,Blackbeard Pirates
+1716,OP09-096-0,Blackbeard Pirates
+1717,OP09-097-0,Blackbeard Pirates
+1718,OP09-098-0,Blackbeard Pirates
+1719,OP09-099-0,Blackbeard Pirates
+1720,OP09-100-0,Revolutionary Army
+1721,OP09-101-0,Navy
+1722,OP09-102-0,Ohara
+1723,OP09-103-0,Revolutionary Army
+1724,OP09-103-1,Revolutionary Army
+1725,OP09-104-0,Revolutionary Army
+1726,OP09-105-0,Egghead
+1727,OP09-105-0,Straw Hat Crew
+1728,OP09-106-0,Ohara
+1729,OP09-107-0,Straw Hat Crew
+1730,OP09-107-1,Straw Hat Crew
+1731,OP09-108-0,The Seven Warlords of the Sea
+1732,OP09-108-0,Revolutionary Army
+1733,OP09-109-0,Ohara
+1734,OP09-109-0,Giant
+1735,OP09-109-0,Navy
+1736,OP09-110-0,Animal
+1737,OP09-110-0,Sky Island
+1738,OP09-111-0,Egghead
+1739,OP09-111-0,Straw Hat Crew
+1740,OP09-112-0,Revolutionary Army
+1741,OP09-113-0,Giant
+1742,OP09-113-0,Revolutionary Army
+1743,OP09-114-0,Minks
+1744,OP09-114-0,Revolutionary Army
+1745,OP09-115-0,Navy
+1746,OP09-116-0,Revolutionary Army
+1747,OP09-117-0,Ohara
+1748,OP09-118-0,King of the Pirates
+1749,OP09-118-0,Roger Pirates
+1750,OP09-118-1,King of the Pirates
+1751,OP09-118-1,Roger Pirates
+1752,OP09-118-2,King of the Pirates
+1753,OP09-118-2,Roger Pirates
+1754,OP09-119-0,Straw Hat Crew
+1755,OP09-119-1,Straw Hat Crew
+1756,OP09-119-2,Straw Hat Crew
+1757,OP04-119-2,Navy
+1758,OP04-119-2,Donquixote Pirates
+1759,OP05-067-4,Straw Hat Crew
+1760,OP05-093-2,CP0
+1761,OP05-119-5,The Four Emperors
+1762,OP05-119-5,Straw Hat Crew
+1763,OP07-015-2,Revolutionary Army
+1764,OP07-051-3,The Seven Warlords of the Sea
+1765,OP07-051-3,Kuja Pirates
+1766,OP08-106-4,Egghead
+1767,OP08-106-4,Straw Hat Crew
+1768,OP09-004-3,The Four Emperors
+1769,OP09-004-3,Red-Haired Pirates
+1770,OP09-051-3,The Four Emperors
+1771,OP09-051-3,Cross Guild
+1772,OP09-093-3,The Four Emperors
+1773,OP09-093-3,Blackbeard Pirates
+1774,OP08-001-0,Animal
+1775,OP08-001-0,Drum Kingdom
+1776,OP08-001-0,Straw Hat Crew
+1777,OP08-001-1,Animal
+1778,OP08-001-1,Drum Kingdom
+1779,OP08-001-1,Straw Hat Crew
+1780,OP08-002-0,Whitebeard Pirates
+1781,OP08-002-1,Whitebeard Pirates
+1782,OP08-003-0,Drum Kingdom
+1783,OP08-004-0,Drum Kingdom
+1784,OP08-005-0,Drum Kingdom
+1785,OP08-006-0,Drum Kingdom
+1786,OP08-007-0,Animal
+1787,OP08-007-0,Drum Kingdom
+1788,OP08-007-0,Straw Hat Crew
+1789,OP08-007-1,Animal
+1790,OP08-007-1,Drum Kingdom
+1791,OP08-007-1,Straw Hat Crew
+1792,OP08-008-0,Drum Kingdom
+1793,OP08-009-0,Drum Kingdom
+1794,OP08-010-0,Animal
+1795,OP08-010-0,Drum Kingdom
+1796,OP08-011-0,FILM
+1797,OP08-011-0,Drum Kingdom
+1798,OP08-012-0,Animal
+1799,OP08-012-0,Drum Kingdom
+1800,OP08-013-0,Animal
+1801,OP08-013-0,Drum Kingdom
+1802,OP08-014-0,Drum Kingdom
+1803,OP08-015-0,Drum Kingdom
+1804,OP08-015-1,Drum Kingdom
+1805,OP08-016-0,Drum Kingdom
+1806,OP08-017-0,Drum Kingdom
+1807,OP08-018-0,Animal
+1808,OP08-018-0,Drum Kingdom
+1809,OP08-018-0,Straw Hat Crew
+1810,OP08-019-0,Drum Kingdom
+1811,OP08-020-0,Drum Kingdom
+1812,OP08-021-0,Minks
+1813,OP08-021-1,Minks
+1814,OP08-022-0,Minks
+1815,OP08-022-0,The Akazaya Nine
+1816,OP08-023-0,Minks
+1817,OP08-023-1,Minks
+1818,OP08-024-0,Minks
+1819,OP08-025-0,Minks
+1820,OP08-026-0,Minks
+1821,OP08-027-0,Minks
+1822,OP08-028-0,Minks
+1823,OP08-028-0,The Akazaya Nine
+1824,OP08-029-0,Minks
+1825,OP08-029-0,Big Mom Pirates
+1826,OP08-030-0,Minks
+1827,OP08-030-1,Minks
+1828,OP08-031-0,Minks
+1829,OP08-032-0,Minks
+1830,OP08-033-0,Minks
+1831,OP08-034-0,Minks
+1832,OP08-035-0,Minks
+1833,OP08-036-0,Minks
+1834,OP08-037-0,Minks
+1835,OP08-038-0,Minks
+1836,OP08-038-0,The Akazaya Nine
+1837,OP08-039-0,Animal
+1838,OP08-040-0,Whitebeard Pirates
+1839,OP08-041-0,Amazon Lily
+1840,OP08-042-0,The Seven Warlords of the Sea
+1841,OP08-043-0,The Four Emperors
+1842,OP08-043-0,Whitebeard Pirates
+1843,OP08-043-1,The Four Emperors
+1844,OP08-043-1,Whitebeard Pirates
+1845,OP08-044-0,Whitebeard Pirates
+1846,OP08-045-0,Whitebeard Pirates
+1847,OP08-046-0,Amazon Lily
+1848,OP08-047-0,Whitebeard Pirates
+1849,OP08-048-0,Amazon Lily
+1850,OP08-049-0,Whitebeard Pirates
+1851,OP08-050-0,Fish-Man
+1852,OP08-050-0,Whitebeard Pirates
+1853,OP08-051-0,Former Rocks Pirates
+1854,OP08-052-0,Whitebeard Pirates
+1855,OP08-052-1,Whitebeard Pirates
+1856,OP08-053-0,Whitebeard Pirates
+1857,OP08-054-0,Whitebeard Pirates
+1858,OP08-055-0,Former Whitebeard Pirates
+1859,OP08-056-0,Whitebeard Pirates
+1860,OP08-057-0,Animal Kingdom Pirates
+1861,OP08-057-1,Animal Kingdom Pirates
+1862,OP08-058-0,Big Mom Pirates
+1863,OP08-058-1,Big Mom Pirates
+1864,OP08-059-0,Lunarian
+1865,OP08-059-0,Animal Kingdom Pirates
+1866,OP08-060-0,Animal Kingdom Pirates
+1867,OP08-061-0,Big Mom Pirates
+1868,OP08-062-0,Big Mom Pirates
+1869,OP08-063-0,Big Mom Pirates
+1870,OP08-064-0,Big Mom Pirates
+1871,OP08-065-0,Big Mom Pirates
+1872,OP08-066-0,Big Mom Pirates
+1873,OP08-067-0,Big Mom Pirates
+1874,OP08-067-1,Big Mom Pirates
+1875,OP08-068-0,Big Mom Pirates
+1876,OP08-069-0,Former Rocks Pirates
+1877,OP08-069-0,Big Mom Pirates
+1878,OP08-069-1,Former Rocks Pirates
+1879,OP08-069-1,Big Mom Pirates
+1880,OP08-070-0,Big Mom Pirates
+1881,OP08-071-0,Big Mom Pirates
+1882,OP08-072-0,Big Mom Pirates
+1883,OP08-073-0,Big Mom Pirates
+1884,OP08-074-0,Animal Kingdom Pirates
+1885,OP08-074-1,Animal Kingdom Pirates
+1886,OP08-075-0,Big Mom Pirates
+1887,OP08-076-0,The Four Emperors
+1888,OP08-076-0,Big Mom Pirates
+1889,OP08-077-0,The Four Emperors
+1890,OP08-077-0,Animal Kingdom Pirates
+1891,OP08-077-0,Big Mom Pirates
+1892,OP08-078-0,Animal Kingdom Pirates
+1893,OP08-079-0,Former Rocks Pirates
+1894,OP08-079-0,Animal Kingdom Pirates
+1895,OP08-079-1,Former Rocks Pirates
+1896,OP08-079-1,Animal Kingdom Pirates
+1897,OP08-080-0,Animal Kingdom Pirates
+1898,OP08-080-1,Animal Kingdom Pirates
+1899,OP08-081-0,CP0
+1900,OP08-082-0,Animal Kingdom Pirates
+1901,OP08-083-0,Animal Kingdom Pirates
+1902,OP08-083-0,SMILE
+1903,OP08-084-0,Animal Kingdom Pirates
+1904,OP08-084-1,Animal Kingdom Pirates
+1905,OP08-085-0,Fish-Man
+1906,OP08-085-0,Straw Hat Crew
+1907,OP08-086-0,Animal Kingdom Pirates
+1908,OP08-086-0,SMILE
+1909,OP08-087-0,Animal Kingdom Pirates
+1910,OP08-087-0,On-Air Pirates
+1911,OP08-088-0,The Flying Fish Riders
+1912,OP08-089-0,Animal Kingdom Pirates
+1913,OP08-089-0,Hawkins Pirates
+1914,OP08-090-0,Animal Kingdom Pirates
+1915,OP08-090-0,SMILE
+1916,OP08-091-0,Animal Kingdom Pirates
+1917,OP08-091-0,Former CP9
+1918,OP08-092-0,Animal Kingdom Pirates
+1919,OP08-093-0,Navy
+1920,OP08-093-0,Drake Pirates
+1921,OP08-093-0,Animal Kingdom Pirates
+1922,OP08-094-0,Animal Kingdom Pirates
+1923,OP08-095-0,Animal Kingdom Pirates
+1924,OP08-095-0,Former CP9
+1925,OP08-096-0,Blackbeard Pirates
+1926,OP08-097-0,Animal Kingdom Pirates
+1927,OP08-098-0,Jaya
+1928,OP08-098-0,Sky Island
+1929,OP08-098-0,Shandian Warrior
+1930,OP08-098-1,Jaya
+1931,OP08-098-1,Sky Island
+1932,OP08-098-1,Shandian Warrior
+1933,OP08-099-0,Jaya
+1934,OP08-099-0,Sky Island
+1935,OP08-099-0,Shandian Warrior
+1936,OP08-100-0,Animal
+1937,OP08-100-0,Jaya
+1938,OP08-100-0,Sky Island
+1939,OP08-101-0,Big Mom Pirates
+1940,OP08-102-0,Big Mom Pirates
+1941,OP08-103-0,Big Mom Pirates
+1942,OP08-104-0,Big Mom Pirates
+1943,OP08-105-0,Egghead
+1944,OP08-105-0,Bonney Pirates
+1945,OP08-105-1,Egghead
+1946,OP08-105-1,Bonney Pirates
+1947,OP08-106-0,Egghead
+1948,OP08-106-0,Straw Hat Crew
+1949,OP08-106-1,Egghead
+1950,OP08-106-1,Straw Hat Crew
+1951,OP08-107-0,Big Mom Pirates
+1952,OP08-107-0,Homies
+1953,OP08-108-0,Jaya
+1954,OP08-108-0,Monkey Mountain Alliance
+1955,OP08-109-0,Jaya
+1956,OP08-109-0,Botanist
+1957,OP08-110-0,Sky Island
+1958,OP08-110-0,Shandian Warrior
+1959,OP08-110-1,Sky Island
+1960,OP08-110-1,Shandian Warrior
+1961,OP08-111-0,Egghead
+1962,OP08-111-0,Seraphim
+1963,OP08-112-0,Egghead
+1964,OP08-112-0,Seraphim
+1965,OP08-112-1,Egghead
+1966,OP08-112-1,Seraphim
+1967,OP08-113-0,Egghead
+1968,OP08-113-0,Seraphim
+1969,OP08-114-0,Egghead
+1970,OP08-114-0,Seraphim
+1971,OP08-115-0,Sky Island
+1972,OP08-115-0,Shandian Warrior
+1973,OP08-116-0,Sky Island
+1974,OP08-116-0,Shandian Warrior
+1975,OP08-117-0,Sky Island
+1976,OP08-117-0,Shandian Warrior
+1977,OP08-118-0,Former Roger Pirates
+1978,OP08-118-1,Former Roger Pirates
+1979,OP08-118-2,Former Roger Pirates
+1980,OP08-119-0,The Four Emperors
+1981,OP08-119-0,Animal Kingdom Pirates
+1982,OP08-119-0,Big Mom Pirates
+1983,OP08-119-1,The Four Emperors
+1984,OP08-119-1,Animal Kingdom Pirates
+1985,OP08-119-1,Big Mom Pirates
+1986,OP02-013-3,Whitebeard Pirates
+1987,OP03-112-4,Big Mom Pirates
+1988,ST02-007-3,Supernovas
+1989,ST02-007-3,Bonney Pirates
+1990,ST03-004-2,The Seven Warlords of the Sea
+1991,ST03-004-2,Thriller Bark Pirates
+1992,ST04-005-3,Animal Kingdom Pirates
+1993,ST06-006-2,Navy
+1994,OP07-001-0,Revolutionary Army
+1995,OP07-001-1,Revolutionary Army
+1996,OP07-002-0,FILM
+1997,OP07-002-0,Neo Navy
+1998,OP07-003-0,Goa Kingdom
+1999,OP07-004-0,Mountain Bandits
+2000,OP07-005-0,FILM
+2001,OP07-005-0,Grantesoro
+2002,OP07-005-1,FILM
+2003,OP07-005-1,Grantesoro
+2004,OP07-006-0,Goa Kingdom
+2005,OP07-007-0,FILM
+2006,OP07-007-0,Grantesoro
+2007,OP07-008-0,FILM
+2008,OP07-008-0,Grantesoro
+2009,OP07-009-0,Mountain Bandits
+2010,OP07-010-0,FILM
+2011,OP07-010-0,Grantesoro
+2012,OP07-011-0,Goa Kingdom
+2013,OP07-011-0,Bluejam Pirates
+2014,OP07-012-0,Goa Kingdom
+2015,OP07-012-0,Bluejam Pirates
+2016,OP07-013-0,Spade Pirates
+2017,OP07-014-0,Lulucia Kingdom
+2018,OP07-015-0,Revolutionary Army
+2019,OP07-015-1,Revolutionary Army
+2020,OP07-016-0,Revolutionary Army
+2021,OP07-017-0,Revolutionary Army
+2022,OP07-018-0,Impel Down
+2023,OP07-018-0,Revolutionary Army
+2024,OP07-019-0,Supernovas
+2025,OP07-019-0,Bonney Pirates
+2026,OP07-019-1,Supernovas
+2027,OP07-019-1,Bonney Pirates
+2028,OP07-020-0,Merfolk
+2029,OP07-020-0,The Sun Pirates
+2030,OP07-021-0,Supernovas
+2031,OP07-021-0,Fallen Monk Pirates
+2032,OP07-022-0,Land of Wano
+2033,OP07-022-1,Land of Wano
+2034,OP07-023-0,Supernovas
+2035,OP07-023-0,Caribou Pirates
+2036,OP07-024-0,Foolshout Island
+2037,OP07-025-0,Supernovas
+2038,OP07-025-0,Caribou Pirates
+2039,OP07-026-0,Supernovas
+2040,OP07-026-0,Bonney Pirates
+2041,OP07-026-1,Supernovas
+2042,OP07-026-1,Bonney Pirates
+2043,OP07-027-0,Fish-Man
+2044,OP07-027-0,The Sun Pirates
+2045,OP07-028-0,Supernovas
+2046,OP07-028-0,On-Air Pirates
+2047,OP07-029-0,Supernovas
+2048,OP07-029-0,Hawkins Pirates
+2049,OP07-029-1,Supernovas
+2050,OP07-029-1,Hawkins Pirates
+2051,OP07-030-0,Animal
+2052,OP07-031-0,Supernovas
+2053,OP07-031-0,Barto Club
+2054,OP07-032-0,Fish-Man
+2055,OP07-032-0,The Sun Pirates
+2056,OP07-033-0,Supernovas
+2057,OP07-033-0,Straw Hat Crew
+2058,OP07-034-0,Supernovas
+2059,OP07-034-0,Straw Hat Crew
+2060,OP07-035-0,Supernovas
+2061,OP07-035-0,Fallen Monk Pirates
+2062,OP07-036-0,Supernovas
+2063,OP07-036-0,Straw Hat Crew
+2064,OP07-037-0,Supernovas
+2065,OP07-037-0,Bonney Pirates
+2066,OP07-038-0,The Seven Warlords of the Sea
+2067,OP07-038-0,Kuja Pirates
+2068,OP07-038-1,The Seven Warlords of the Sea
+2069,OP07-038-1,Kuja Pirates
+2070,OP07-039-0,The Seven Warlords of the Sea
+2071,OP07-040-0,The Seven Warlords of the Sea
+2072,OP07-040-0,Baroque Works
+2073,OP07-041-0,Amazon Lily
+2074,OP07-042-0,The Seven Warlords of the Sea
+2075,OP07-042-0,Thriller Bark Pirates
+2076,OP07-043-0,Animal
+2077,OP07-043-0,Kuja Pirates
+2078,OP07-044-0,The Seven Warlords of the Sea
+2079,OP07-045-0,Fish-Man
+2080,OP07-045-0,The Seven Warlords of the Sea
+2081,OP07-045-0,The Sun Pirates
+2082,OP07-045-1,Fish-Man
+2083,OP07-045-1,The Seven Warlords of the Sea
+2084,OP07-045-1,The Sun Pirates
+2085,OP07-046-0,Navy
+2086,OP07-046-1,Navy
+2087,OP07-047-0,The Seven Warlords of the Sea
+2088,OP07-047-0,Heart Pirates
+2089,OP07-047-1,The Seven Warlords of the Sea
+2090,OP07-047-1,Heart Pirates
+2091,OP07-048-0,The Seven Warlords of the Sea
+2092,OP07-048-0,Donquixote Pirates
+2093,OP07-049-0,Weevil's Mother
+2094,OP07-050-0,Kuja Pirates
+2095,OP07-051-0,The Seven Warlords of the Sea
+2096,OP07-051-0,Kuja Pirates
+2097,OP07-051-1,The Seven Warlords of the Sea
+2098,OP07-051-1,Kuja Pirates
+2099,OP07-051-2,The Seven Warlords of the Sea
+2100,OP07-051-2,Kuja Pirates
+2101,OP07-052-0,Kuja Pirates
+2102,OP07-053-0,Whitebeard Pirates
+2103,OP07-054-0,Amazon Lily
+2104,OP07-055-0,Kuja Pirates
+2105,OP07-056-0,The Seven Warlords of the Sea
+2106,OP07-056-0,Kuja Pirates
+2107,OP07-057-0,The Seven Warlords of the Sea
+2108,OP07-057-0,Kuja Pirates
+2109,OP07-058-0,Amazon Lily
+2110,OP07-059-0,Foxy Pirates
+2111,OP07-059-1,Foxy Pirates
+2112,OP07-060-0,Foxy Pirates
+2113,OP07-061-0,Kingdom of GERMA
+2114,OP07-061-0,The Vinsmoke Family
+2115,OP07-062-0,Kingdom of GERMA
+2116,OP07-062-0,The Vinsmoke Family
+2117,OP07-063-0,Fish-Man
+2118,OP07-063-0,Foxy Pirates
+2119,OP07-064-0,Straw Hat Crew
+2120,OP07-064-1,Straw Hat Crew
+2121,OP07-065-0,Foxy Pirates
+2122,OP07-066-0,Animal
+2123,OP07-066-0,Foxy Pirates
+2124,OP07-067-0,Long Ring Long Land
+2125,OP07-068-0,Foxy Pirates
+2126,OP07-069-0,Foxy Pirates
+2127,OP07-070-0,Giant
+2128,OP07-070-0,Fish-Man
+2129,OP07-070-0,Foxy Pirates
+2130,OP07-071-0,Foxy Pirates
+2131,OP07-071-1,Foxy Pirates
+2132,OP07-072-0,Foxy Pirates
+2133,OP07-072-1,Foxy Pirates
+2134,OP07-073-0,Straw Hat Crew
+2135,OP07-074-0,Animal
+2136,OP07-074-0,Foxy Pirates
+2137,OP07-075-0,Foxy Pirates
+2138,OP07-076-0,Foxy Pirates
+2139,OP07-077-0,The Four Emperors
+2140,OP07-077-0,Land of Wano
+2141,OP07-078-0,Foxy Pirates
+2142,OP07-079-0,CP0
+2143,OP07-079-1,CP0
+2144,OP07-080-0,CP0
+2145,OP07-081-0,CP0
+2146,OP07-082-0,Thriller Bark Pirates
+2147,OP07-082-0,Former Rocks Pirates
+2148,OP07-083-0,The Seven Warlords of the Sea
+2149,OP07-083-0,Thriller Bark Pirates
+2150,OP07-084-0,CP0
+2151,OP07-085-0,CP0
+2152,OP07-085-1,CP0
+2153,OP07-086-0,CP0
+2154,OP07-087-0,World Government
+2155,OP07-088-0,Animal
+2156,OP07-088-0,CP0
+2157,OP07-089-0,CP0
+2158,OP07-090-0,Journalist
+2159,OP07-091-0,Straw Hat Crew
+2160,OP07-092-0,CP0
+2161,OP07-093-0,CP0
+2162,OP07-094-0,CP9
+2163,OP07-095-0,CP9
+2164,OP07-096-0,CP9
+2165,OP07-097-0,Scientist
+2166,OP07-097-0,Egghead
+2167,OP07-097-1,Scientist
+2168,OP07-097-1,Egghead
+2169,OP07-098-0,Scientist
+2170,OP07-098-0,Egghead
+2171,OP07-099-0,Egghead
+2172,OP07-099-0,Straw Hat Crew
+2173,OP07-100-0,Scientist
+2174,OP07-100-0,Egghead
+2175,OP07-101-0,Scientist
+2176,OP07-101-0,Egghead
+2177,OP07-102-0,Fish-Man
+2178,OP07-102-0,Egghead
+2179,OP07-102-0,Straw Hat Crew
+2180,OP07-103-0,Animal
+2181,OP07-103-0,Egghead
+2182,OP07-103-0,Straw Hat Crew
+2183,OP07-104-0,Egghead
+2184,OP07-104-0,Straw Hat Crew
+2185,OP07-105-0,Scientist
+2186,OP07-105-0,Egghead
+2187,OP07-106-0,Animal
+2188,OP07-106-0,Sky Island
+2189,OP07-107-0,Egghead
+2190,OP07-107-0,Straw Hat Crew
+2191,OP07-107-1,Egghead
+2192,OP07-107-1,Straw Hat Crew
+2193,OP07-108-0,Egghead
+2194,OP07-109-0,The Four Emperors
+2195,OP07-109-0,Egghead
+2196,OP07-109-0,Straw Hat Crew
+2197,OP07-109-1,The Four Emperors
+2198,OP07-109-1,Egghead
+2199,OP07-109-1,Straw Hat Crew
+2200,OP07-110-0,Scientist
+2201,OP07-110-0,Egghead
+2202,OP07-111-0,Scientist
+2203,OP07-111-0,Egghead
+2204,OP07-111-1,Scientist
+2205,OP07-111-1,Egghead
+2206,OP07-112-0,Dressrosa
+2207,OP07-112-0,Revolutionary Army
+2208,OP07-113-0,Egghead
+2209,OP07-113-0,Straw Hat Crew
+2210,OP07-114-0,Scientist
+2211,OP07-114-0,Egghead
+2212,OP07-115-0,Scientist
+2213,OP07-115-0,Egghead
+2214,OP07-116-0,Land of Wano
+2215,OP07-116-0,The Akazaya Nine
+2216,OP07-117-0,Egghead
+2217,OP07-118-0,Revolutionary Army
+2218,OP07-118-1,Revolutionary Army
+2219,OP07-119-0,Whitebeard Pirates
+2220,OP07-119-1,Whitebeard Pirates
+2221,OP01-035-2,Land of Wano
+2222,OP01-035-2,The Akazaya Nine
+2223,OP01-073-2,The Seven Warlords of the Sea
+2224,OP01-073-2,Donquixote Pirates
+2225,OP03-003-1,Land of Wano
+2226,OP03-003-1,Whitebeard Pirates
+2227,OP03-078-2,Navy
+2228,OP05-074-3,Kid Pirates
+2229,OP06-101-2,Straw Hat Crew
+2230,OP06-001-0,FILM
+2231,OP06-001-1,FILM
+2232,OP06-002-0,Revolutionary Army
+2233,OP06-004-0,FILM
+2234,OP06-004-0,Omatsuri Island
+2235,OP06-005-0,FILM
+2236,OP06-005-0,Former Navy
+2237,OP06-005-0,Gasparde Pirates
+2238,OP06-006-0,FILM
+2239,OP06-006-0,Asuka Island
+2240,OP06-007-0,FILM
+2241,OP06-007-0,The Four Emperors
+2242,OP06-007-0,Red-Haired Pirates
+2243,OP06-007-1,FILM
+2244,OP06-007-1,The Four Emperors
+2245,OP06-007-1,Red-Haired Pirates
+2246,OP06-008-0,FILM
+2247,OP06-008-0,Mugiwara Chase
+2248,OP06-009-0,FILM
+2249,OP06-009-0,Shipbuilding Town
+2250,OP06-009-1,FILM
+2251,OP06-009-1,Shipbuilding Town
+2252,OP06-010-0,FILM
+2253,OP06-010-0,The Pirates Fest
+2254,OP06-011-0,FILM
+2255,OP06-012-0,FILM
+2256,OP06-012-0,Trump Pirates
+2257,OP06-013-0,FILM
+2258,OP06-013-0,Straw Hat Crew
+2259,OP06-013-1,FILM
+2260,OP06-013-1,Straw Hat Crew
+2261,OP06-014-0,FILM
+2262,OP06-014-0,Mecha Island
+2263,OP06-015-0,FILM
+2264,OP06-015-0,Omatsuri Island
+2265,OP06-016-0,FILM
+2266,OP06-016-0,Revolutionary Army
+2267,OP06-017-0,FILM
+2268,OP06-017-0,Straw Hat Crew
+2269,OP06-018-0,FILM
+2270,OP06-018-0,Straw Hat Crew
+2271,OP06-019-0,FILM
+2272,OP06-019-0,Straw Hat Crew
+2273,OP06-020-0,Fish-Man
+2274,OP06-020-0,New Fish-Man Pirates
+2275,OP06-020-1,Fish-Man
+2276,OP06-020-1,New Fish-Man Pirates
+2277,OP06-021-0,Thriller Bark Pirates
+2278,OP06-021-1,Thriller Bark Pirates
+2279,OP06-022-0,Land of Wano
+2280,OP06-022-1,Land of Wano
+2281,OP06-024-0,Fish-Man
+2282,OP06-024-0,New Fish-Man Pirates
+2283,OP06-025-0,Merfolk
+2284,OP06-025-1,Merfolk
+2285,OP06-026-0,Frost Moon Village
+2286,OP06-027-0,Gyro Pirates
+2287,OP06-028-0,Fish-Man
+2288,OP06-028-0,New Fish-Man Pirates
+2289,OP06-029-0,Fish-Man
+2290,OP06-029-0,New Fish-Man Pirates
+2291,OP06-030-0,Fish-Man
+2292,OP06-030-0,New Fish-Man Pirates
+2293,OP06-031-0,Fish-Man
+2294,OP06-031-0,Former Arlong Pirates
+2295,OP06-032-0,Fish-Man
+2296,OP06-032-0,New Fish-Man Pirates
+2297,OP06-033-0,Fish-Man
+2298,OP06-033-0,Flying Pirates
+2299,OP06-034-0,Fish-Man
+2300,OP06-035-1,Fish-Man
+2301,OP06-035-1,New Fish-Man Pirates
+2302,OP06-037-0,Fish-Man
+2303,OP06-037-0,Flying Pirates
+2304,OP06-039-0,Straw Hat Crew
+2305,OP06-040-0,Fish-Man
+2306,OP06-040-0,New Fish-Man Pirates
+2307,OP06-041-0,Fish-Man Island
+2308,OP06-042-0,The Vinsmoke Family
+2309,OP06-042-0,GERMA 66
+2310,OP06-042-1,The Vinsmoke Family
+2311,OP06-042-1,GERMA 66
+2312,OP06-043-0,Navy
+2313,OP06-043-1,Navy
+2314,OP06-044-0,Navy
+2315,OP06-045-0,Navy
+2316,OP06-046-0,Navy
+2317,OP06-047-0,Big Mom Pirates
+2318,OP06-048-0,East Blue
+2319,OP06-049-0,Navy
+2320,OP06-050-0,Navy
+2321,OP06-050-1,Navy
+2322,OP06-051-0,Navy
+2323,OP06-052-0,Navy
+2324,OP06-053-0,Giant
+2325,OP06-053-0,Navy
+2326,OP06-054-0,Navy
+2327,OP06-055-0,Navy
+2328,OP06-057-0,Dressrosa
+2329,OP06-057-0,Straw Hat Crew
+2330,OP06-058-0,Navy
+2331,OP06-059-0,Navy
+2332,OP06-061-0,The Vinsmoke Family
+2333,OP06-061-0,GERMA 66
+2334,OP06-061-1,The Vinsmoke Family
+2335,OP06-061-1,GERMA 66
+2336,OP06-062-0,The Vinsmoke Family
+2337,OP06-062-0,GERMA 66
+2338,OP06-062-1,The Vinsmoke Family
+2339,OP06-062-1,GERMA 66
+2340,OP06-063-0,The Vinsmoke Family
+2341,OP06-063-0,Kingdom of GERMA
+2342,OP06-069-1,The Vinsmoke Family
+2343,OP06-069-1,GERMA 66
+2344,OP06-070-0,FILM
+2345,OP06-070-0,Eldoraggo Crew
+2346,OP06-071-0,FILM
+2347,OP06-071-0,Grantesoro
+2348,OP06-072-0,Kingdom of GERMA
+2349,OP06-073-0,FILM
+2350,OP06-073-0,Golden Lion Pirates
+2351,OP06-074-0,FILM
+2352,OP06-074-0,Navy
+2353,OP06-075-0,FILM
+2354,OP06-075-0,Crown Island
+2355,OP06-076-0,Supernovas
+2356,OP06-076-0,Kid Pirates
+2357,OP06-076-0,SMILE
+2358,OP06-077-0,The Vinsmoke Family
+2359,OP06-077-0,GERMA 66
+2360,OP06-078-0,The Vinsmoke Family
+2361,OP06-078-0,GERMA 66
+2362,OP06-080-0,The Seven Warlords of the Sea
+2363,OP06-080-0,Thriller Bark Pirates
+2364,OP06-080-1,The Seven Warlords of the Sea
+2365,OP06-080-1,Thriller Bark Pirates
+2366,OP06-081-0,Thriller Bark Pirates
+2367,OP06-081-1,Thriller Bark Pirates
+2368,OP06-082-0,Thriller Bark Pirates
+2369,OP06-083-0,Giant
+2370,OP06-083-0,Thriller Bark Pirates
+2371,OP06-084-0,Thriller Bark Pirates
+2372,OP06-085-0,Thriller Bark Pirates
+2373,OP06-086-1,The Seven Warlords of the Sea
+2374,OP06-086-1,Thriller Bark Pirates
+2375,OP06-087-0,Thriller Bark Pirates
+2376,OP06-088-0,Dressrosa
+2377,OP06-088-0,Happosui Army
+2378,OP06-089-0,Thriller Bark Pirates
+2379,OP06-090-0,Thriller Bark Pirates
+2380,OP06-092-0,Former Rumbar Pirates
+2381,OP06-093-0,Thriller Bark Pirates
+2382,OP06-093-1,Thriller Bark Pirates
+2383,OP06-094-0,Thriller Bark Pirates
+2384,OP06-095-0,The Seven Warlords of the Sea
+2385,OP06-095-0,Thriller Bark Pirates
+2386,OP06-096-0,Straw Hat Crew
+2387,OP06-097-0,Thriller Bark Pirates
+2388,OP06-098-0,Thriller Bark Pirates
+2389,OP06-099-0,Sky Island
+2390,OP06-101-0,Straw Hat Crew
+2391,OP06-101-1,Straw Hat Crew
+2392,OP06-102-0,Sky Island
+2393,OP06-102-0,Shandian Warrior
+2394,OP06-103-0,Fish-Man
+2395,OP06-103-0,Land of Wano
+2396,OP06-103-0,The Akazaya Nine
+2397,OP06-104-0,Land of Wano
+2398,OP06-104-0,The Akazaya Nine
+2399,OP06-105-0,Sky Island
+2400,OP06-105-0,Shandian Warrior
+2401,OP06-106-1,Land of Wano
+2402,OP06-106-1,Kouzuki Clan
+2403,OP06-107-0,Land of Wano
+2404,OP06-107-0,Kouzuki Clan
+2405,OP06-107-1,Land of Wano
+2406,OP06-107-1,Kouzuki Clan
+2407,OP06-108-0,Land of Wano
+2408,OP06-108-0,Kouzuki Clan
+2409,OP06-109-0,Land of Wano
+2410,OP06-109-0,The Akazaya Nine
+2411,OP06-111-0,Sky Island
+2412,OP06-111-0,Shandian Warrior
+2413,OP06-112-0,Land of Wano
+2414,OP06-112-0,The Akazaya Nine
+2415,OP06-113-0,Sky Island
+2416,OP06-113-0,Shandian Warrior
+2417,OP06-115-0,Sky Island
+2418,OP06-116-0,Sky Island
+2419,OP06-116-0,Shandian Warrior
+2420,OP06-117-0,Sky Island
+2421,OP06-118-1,Straw Hat Crew
+2422,OP06-118-2,Straw Hat Crew
+2423,OP06-119-0,Straw Hat Crew
+2424,OP06-119-1,Straw Hat Crew
+2425,OP03-008-1,Buggy Pirates
+2426,OP03-114-2,The Four Emperors
+2427,OP03-114-2,Big Mom Pirates
+2428,OP04-024-2,Donquixote Pirates
+2429,OP04-064-2,Baroque Works
+2430,OP05-051-2,Navy
+2431,OP05-091-2,Dressrosa
+2432,OP05-001-0,Revolutionary Army
+2433,OP05-001-1,Revolutionary Army
+2434,OP05-002-0,Revolutionary Army
+2435,OP05-002-1,Revolutionary Army
+2436,OP05-003-0,Revolutionary Army
+2437,OP05-004-0,Revolutionary Army
+2438,OP05-005-0,Revolutionary Army
+2439,OP05-006-1,Revolutionary Army
+2440,OP05-007-1,Revolutionary Army
+2441,OP05-008-0,Alabasta
+2442,OP05-009-0,Alabasta
+2443,OP05-011-0,The Seven Warlords of the Sea
+2444,OP05-011-0,Revolutionary Army
+2445,OP05-012-0,Fish-Man
+2446,OP05-012-0,Revolutionary Army
+2447,OP05-013-0,Revolutionary Army
+2448,OP05-014-0,Alabasta
+2449,OP05-015-1,Revolutionary Army
+2450,OP05-016-0,Giant
+2451,OP05-016-0,Revolutionary Army
+2452,OP05-017-0,Minks
+2453,OP05-017-0,Revolutionary Army
+2454,OP05-018-0,Revolutionary Army
+2455,OP05-019-0,Revolutionary Army
+2456,OP05-020-0,Fish-Man
+2457,OP05-020-0,Revolutionary Army
+2458,OP05-021-0,Revolutionary Army
+2459,OP05-022-0,Navy
+2460,OP05-022-0,Donquixote Pirates
+2461,OP05-022-1,Navy
+2462,OP05-022-1,Donquixote Pirates
+2463,OP05-023-0,Navy
+2464,OP05-023-0,Donquixote Pirates
+2465,OP05-024-0,Donquixote Pirates
+2466,OP05-025-0,Donquixote Pirates
+2467,OP05-026-0,Bellamy Pirates
+2468,OP05-027-0,Donquixote Pirates
+2469,OP05-028-0,Donquixote Pirates
+2470,OP05-029-0,Donquixote Pirates
+2471,OP05-030-0,Navy
+2472,OP05-030-0,Donquixote Pirates
+2473,OP05-031-0,Donquixote Pirates
+2474,OP05-032-0,Donquixote Pirates
+2475,OP05-032-1,Donquixote Pirates
+2476,OP05-033-0,Donquixote Pirates
+2477,OP05-034-1,Donquixote Pirates
+2478,OP05-035-0,Donquixote Pirates
+2479,OP05-036-0,Donquixote Pirates
+2480,OP05-037-0,Donquixote Pirates
+2481,OP05-038-0,Donquixote Pirates
+2482,OP05-039-0,Donquixote Pirates
+2483,OP05-040-0,Donquixote Pirates
+2484,OP05-041-0,Navy
+2485,OP05-041-1,Navy
+2486,OP05-042-0,Navy
+2487,OP05-043-1,Animal Kingdom Pirates
+2488,OP05-044-0,Giant
+2489,OP05-044-0,Navy
+2490,OP05-045-0,Navy
+2491,OP05-046-0,Navy
+2492,OP05-047-0,Animal Kingdom Pirates
+2493,OP05-047-0,Hawkins Pirates
+2494,OP05-048-0,Navy
+2495,OP05-049-0,Giant
+2496,OP05-049-0,Animal Kingdom Pirates
+2497,OP05-050-0,Navy
+2498,OP05-051-0,Navy
+2499,OP05-051-1,Navy
+2500,OP05-052-0,Navy
+2501,OP05-053-0,Navy
+2502,OP05-054-0,Navy
+2503,OP05-055-0,Navy
+2504,OP05-055-0,Drake Pirates
+2505,OP05-055-0,Animal Kingdom Pirates
+2506,OP05-055-1,Navy
+2507,OP05-055-1,Drake Pirates
+2508,OP05-055-1,Animal Kingdom Pirates
+2509,OP05-056-0,Former Navy
+2510,OP05-058-0,Navy
+2511,OP05-059-0,The Four Emperors
+2512,OP05-059-0,Animal Kingdom Pirates
+2513,OP05-060-0,Straw Hat Crew
+2514,OP05-060-1,Straw Hat Crew
+2515,OP05-061-0,Straw Hat Crew
+2516,OP05-062-0,Straw Hat Crew
+2517,OP05-063-0,Straw Hat Crew
+2518,OP05-064-0,Kid Pirates
+2519,OP05-065-0,Straw Hat Crew
+2520,OP05-066-0,Fish-Man
+2521,OP05-066-0,Straw Hat Crew
+2522,OP05-067-0,Straw Hat Crew
+2523,OP05-067-1,Straw Hat Crew
+2524,OP05-068-0,Animal
+2525,OP05-068-0,Straw Hat Crew
+2526,OP05-069-1,Heart Pirates
+2527,OP05-069-2,Heart Pirates
+2528,OP05-070-0,Straw Hat Crew
+2529,OP05-071-0,Minks
+2530,OP05-071-0,Heart Pirates
+2531,OP05-072-0,Straw Hat Crew
+2532,OP05-074-1,Kid Pirates
+2533,OP05-074-2,Kid Pirates
+2534,OP05-075-0,Baroque Works
+2535,OP05-076-0,Land of Wano
+2536,OP05-077-0,Heart Pirates
+2537,OP05-078-0,Kid Pirates
+2538,OP05-079-0,Dressrosa
+2539,OP05-080-0,Kingdom of Prodence
+2540,OP05-080-0,Dressrosa
+2541,OP05-083-0,Goa Kingdom
+2542,OP05-084-0,Celestial Dragons
+2543,OP05-085-0,Alabasta
+2544,OP05-086-0,Alabasta
+2545,OP05-087-0,Dressrosa
+2546,OP05-087-0,Beautiful Pirates
+2547,OP05-088-0,The Tontattas
+2548,OP05-088-0,Dressrosa
+2549,OP05-088-1,The Tontattas
+2550,OP05-088-1,Dressrosa
+2551,OP05-089-0,Celestial Dragons
+2552,OP05-090-0,Dressrosa
+2553,OP05-091-0,Dressrosa
+2554,OP05-091-1,Dressrosa
+2555,OP05-092-0,Celestial Dragons
+2556,OP05-093-0,CP0
+2557,OP05-093-1,CP0
+2558,OP05-094-0,The Tontattas
+2559,OP05-094-0,Dressrosa
+2560,OP05-095-0,Dressrosa
+2561,OP05-095-0,Revolutionary Army
+2562,OP05-096-0,Celestial Dragons
+2563,OP05-097-0,Mary Geoise
+2564,OP05-098-0,Sky Island
+2565,OP05-098-1,Sky Island
+2566,OP05-099-0,Sky Island
+2567,OP05-100-0,Sky Island
+2568,OP05-100-1,Sky Island
+2569,OP05-101-0,Sky Island
+2570,OP05-101-0,Vassals
+2571,OP05-102-0,Sky Island
+2572,OP05-102-0,Vassals
+2573,OP05-102-1,Sky Island
+2574,OP05-102-1,Vassals
+2575,OP05-103-0,Sky Island
+2576,OP05-104-0,Sky Island
+2577,OP05-106-0,Sky Island
+2578,OP05-106-0,Vassals
+2579,OP05-107-0,The Moon
+2580,OP05-108-0,Animal
+2581,OP05-108-0,Sky Island
+2582,OP05-109-0,Sky Island
+2583,OP05-110-0,Animal
+2584,OP05-110-0,Sky Island
+2585,OP05-111-0,Sky Island
+2586,OP05-112-0,Sky Island
+2587,OP05-113-0,Sky Island
+2588,OP05-116-0,Sky Island
+2589,OP05-118-1,The Four Emperors
+2590,OP05-118-1,Animal Kingdom Pirates
+2591,OP05-119-1,The Four Emperors
+2592,OP05-119-1,Straw Hat Crew
+2593,OP05-119-2,The Four Emperors
+2594,OP05-119-2,Straw Hat Crew
+2595,ST01-012-3,Supernovas
+2596,ST01-012-3,Straw Hat Crew
+2597,ST01-012-4,Supernovas
+2598,ST01-012-4,Straw Hat Crew
+2599,OP01-016-4,Straw Hat Crew
+2600,OP01-121-2,Land of Wano
+2601,OP02-120-2,FILM
+2602,OP03-092-2,CP9
+2603,OP04-044-2,The Four Emperors
+2604,OP04-044-2,Animal Kingdom Pirates
+2605,OP05-100-2,Sky Island
+2606,OP04-001-0,Alabasta
+2607,OP04-001-1,Alabasta
+2608,OP04-002-0,Alabasta
+2609,OP04-003-0,Alabasta
+2610,OP04-003-0,Straw Hat Crew
+2611,OP04-004-0,Animal
+2612,OP04-004-0,Alabasta
+2613,OP04-005-0,Animal
+2614,OP04-005-0,Alabasta
+2615,OP04-006-0,Alabasta
+2616,OP04-007-0,Alabasta
+2617,OP04-007-0,Straw Hat Crew
+2618,OP04-008-0,Alabasta
+2619,OP04-009-0,Animal
+2620,OP04-009-0,Alabasta
+2621,OP04-010-0,Animal
+2622,OP04-010-0,Alabasta
+2623,OP04-010-0,Straw Hat Crew
+2624,OP04-011-0,Alabasta
+2625,OP04-011-0,Straw Hat Crew
+2626,OP04-012-0,Alabasta
+2627,OP04-013-0,Alabasta
+2628,OP04-013-1,Alabasta
+2629,OP04-014-0,Alabasta
+2630,OP04-014-0,Straw Hat Crew
+2631,OP04-015-0,Alabasta
+2632,OP04-015-0,Straw Hat Crew
+2633,OP04-016-0,Alabasta
+2634,OP04-016-0,Straw Hat Crew
+2635,OP04-017-0,Alabasta
+2636,OP04-017-0,Straw Hat Crew
+2637,OP04-018-0,Alabasta
+2638,OP04-019-0,The Seven Warlords of the Sea
+2639,OP04-019-0,Donquixote Pirates
+2640,OP04-019-1,The Seven Warlords of the Sea
+2641,OP04-019-1,Donquixote Pirates
+2642,OP04-020-0,Navy
+2643,OP04-020-1,Navy
+2644,OP04-021-0,Donquixote Pirates
+2645,OP04-022-0,East Blue
+2646,OP04-023-0,East Blue
+2647,OP04-023-0,Black Cat Pirates
+2648,OP04-024-0,Donquixote Pirates
+2649,OP04-024-1,Donquixote Pirates
+2650,OP04-025-0,Donquixote Pirates
+2651,OP04-026-0,Donquixote Pirates
+2652,OP04-027-0,East Blue
+2653,OP04-027-0,Former Navy
+2654,OP04-028-0,Donquixote Pirates
+2655,OP04-028-1,Donquixote Pirates
+2656,OP04-030-0,Donquixote Pirates
+2657,OP04-030-1,Donquixote Pirates
+2658,OP04-031-1,The Seven Warlords of the Sea
+2659,OP04-031-1,Donquixote Pirates
+2660,OP04-033-0,Donquixote Pirates
+2661,OP04-034-0,Donquixote Pirates
+2662,OP04-035-0,The Seven Warlords of the Sea
+2663,OP04-035-0,Donquixote Pirates
+2664,OP04-037-0,The Seven Warlords of the Sea
+2665,OP04-037-0,Donquixote Pirates
+2666,OP04-038-0,The Seven Warlords of the Sea
+2667,OP04-038-0,Donquixote Pirates
+2668,OP04-039-0,Dressrosa
+2669,OP04-039-1,Dressrosa
+2670,OP04-040-0,Animal Kingdom Pirates
+2671,OP04-040-1,Animal Kingdom Pirates
+2672,OP04-041-0,East Blue
+2673,OP04-042-0,East Blue
+2674,OP04-043-0,Animal Kingdom Pirates
+2675,OP04-044-1,The Four Emperors
+2676,OP04-044-1,Animal Kingdom Pirates
+2677,OP04-045-0,Animal Kingdom Pirates
+2678,OP04-046-0,Animal Kingdom Pirates
+2679,OP04-047-0,Plague
+2680,OP04-047-0,Animal Kingdom Pirates
+2681,OP04-048-0,Animal Kingdom Pirates
+2682,OP04-049-0,Animal Kingdom Pirates
+2683,OP04-050-0,East Blue
+2684,OP04-051-0,Animal Kingdom Pirates
+2685,OP04-051-1,Animal Kingdom Pirates
+2686,OP04-052-0,Animal Kingdom Pirates
+2687,OP04-053-0,Animal Kingdom Pirates
+2688,OP04-054-0,Giant
+2689,OP04-054-0,Animal Kingdom Pirates
+2690,OP04-055-0,Animal Kingdom Pirates
+2691,OP04-057-0,The Four Emperors
+2692,OP04-057-0,Animal Kingdom Pirates
+2693,OP04-058-0,The Seven Warlords of the Sea
+2694,OP04-058-0,Baroque Works
+2695,OP04-058-1,The Seven Warlords of the Sea
+2696,OP04-058-1,Baroque Works
+2697,OP04-059-0,Water Seven
+2698,OP04-059-0,Galley-La Company
+2699,OP04-060-0,The Seven Warlords of the Sea
+2700,OP04-060-0,Baroque Works
+2701,OP04-060-1,The Seven Warlords of the Sea
+2702,OP04-060-1,Baroque Works
+2703,OP04-061-0,Fish-Man
+2704,OP04-061-0,Water Seven
+2705,OP04-062-0,Animal
+2706,OP04-063-0,Water Seven
+2707,OP04-063-0,The Franky Family
+2708,OP04-064-0,Baroque Works
+2709,OP04-064-1,Baroque Works
+2710,OP04-065-0,Baroque Works
+2711,OP04-066-0,Baroque Works
+2712,OP04-067-0,Baroque Works
+2713,OP04-068-0,Animal
+2714,OP04-068-0,Water Seven
+2715,OP04-069-0,Baroque Works
+2716,OP04-070-0,Baroque Works
+2717,OP04-071-0,Baroque Works
+2718,OP04-072-0,Baroque Works
+2719,OP04-072-1,Baroque Works
+2720,OP04-073-0,Animal
+2721,OP04-073-0,Baroque Works
+2722,OP04-074-0,Baroque Works
+2723,OP04-075-0,Baroque Works
+2724,OP04-076-0,The Seven Warlords of the Sea
+2725,OP04-076-0,Baroque Works
+2726,OP04-077-0,Dressrosa
+2727,OP04-078-0,Giant
+2728,OP04-078-0,World Government
+2729,OP04-079-0,Dressrosa
+2730,OP04-079-0,Yonta Maria Fleet
+2731,OP04-080-0,Dressrosa
+2732,OP04-081-0,Dressrosa
+2733,OP04-081-0,Beautiful Pirates
+2734,OP04-082-0,Dressrosa
+2735,OP04-082-1,Dressrosa
+2736,OP04-083-1,Dressrosa
+2737,OP04-083-1,Revolutionary Army
+2738,OP04-083-2,Dressrosa
+2739,OP04-083-2,Revolutionary Army
+2740,OP04-084-0,CP0
+2741,OP04-085-0,Dressrosa
+2742,OP04-086-0,Dressrosa
+2743,OP04-086-0,Happosui Army
+2744,OP04-087-0,Dressrosa
+2745,OP04-087-0,Heart Pirates
+2746,OP04-088-0,Giant
+2747,OP04-088-0,Dressrosa
+2748,OP04-088-0,New Giant Pirates
+2749,OP04-090-0,Dressrosa
+2750,OP04-090-0,Straw Hat Crew
+2751,OP04-090-1,Dressrosa
+2752,OP04-090-1,Straw Hat Crew
+2753,OP04-091-0,The Tontattas
+2754,OP04-091-0,Dressrosa
+2755,OP04-092-0,Dressrosa
+2756,OP04-093-0,Dressrosa
+2757,OP04-093-0,Straw Hat Crew
+2758,OP04-094-0,Dressrosa
+2759,OP04-096-0,Dressrosa
+2760,OP04-097-0,Land of Wano
+2761,OP04-098-0,Land of Wano
+2762,OP04-099-0,Land of Wano
+2763,OP04-099-0,The Four Emperors
+2764,OP04-099-0,Big Mom Pirates
+2765,OP04-100-1,Firetank Pirates
+2766,OP04-101-0,The House of Lambs
+2767,OP04-102-0,Land of Wano
+2768,OP04-103-0,Land of Wano
+2769,OP04-103-0,Kouzuki Clan
+2770,OP04-104-1,The Vinsmoke Family
+2771,OP04-105-0,Big Mom Pirates
+2772,OP04-106-0,Big Mom Pirates
+2773,OP04-107-0,Big Mom Pirates
+2774,OP04-108-0,Big Mom Pirates
+2775,OP04-109-0,Land of Wano
+2776,OP04-110-0,Whole Cake Island
+2777,OP04-111-0,Big Mom Pirates
+2778,OP04-111-0,Homies
+2779,OP04-112-1,Land of Wano
+2780,OP04-113-0,Big Mom Pirates
+2781,OP04-113-0,Homies
+2782,OP04-114-0,Big Mom Pirates
+2783,OP04-114-0,Homies
+2784,OP04-115-0,Land of Wano
+2785,OP04-115-0,Kouzuki Clan
+2786,OP04-116-0,The Vinsmoke Family
+2787,OP04-117-0,The Four Emperors
+2788,OP04-117-0,Big Mom Pirates
+2789,OP04-118-0,Alabasta
+2790,OP04-118-1,Alabasta
+2791,OP04-119-0,Navy
+2792,OP04-119-0,Donquixote Pirates
+2793,OP04-119-1,Navy
+2794,OP04-119-1,Donquixote Pirates
+2795,OP01-047-2,Supernovas
+2796,OP01-047-2,Heart Pirates
+2797,OP01-078-2,The Seven Warlords of the Sea
+2798,OP01-078-2,Kuja Pirates
+2799,OP02-004-2,The Four Emperors
+2800,OP02-004-2,Whitebeard Pirates
+2801,OP02-085-2,Impel Down
+2802,OP02-099-2,Navy
+2803,OP03-001-0,Whitebeard Pirates
+2804,OP03-001-1,Whitebeard Pirates
+2805,OP03-002-0,ODYSSEY
+2806,OP03-004-0,Whitebeard Pirates
+2807,OP03-005-0,Whitebeard Pirates
+2808,OP03-006-0,Whitebeard Pirates
+2809,OP03-007-0,Fish-Man
+2810,OP03-007-0,Whitebeard Pirates
+2811,OP03-008-0,Buggy Pirates
+2812,OP03-009-0,Whitebeard Pirates
+2813,OP03-010-0,Whitebeard Pirates
+2814,OP03-011-0,Whitebeard Pirates
+2815,OP03-012-0,Whitebeard Pirates
+2816,OP03-013-0,Whitebeard Pirates
+2817,OP03-013-1,Whitebeard Pirates
+2818,OP03-014-0,Navy
+2819,OP03-015-0,ODYSSEY
+2820,OP03-016-0,Whitebeard Pirates
+2821,OP03-017-0,Whitebeard Pirates
+2822,OP03-018-0,Whitebeard Pirates
+2823,OP03-018-1,Whitebeard Pirates
+2824,OP03-019-0,Whitebeard Pirates
+2825,OP03-020-0,Whitebeard Pirates
+2826,OP03-021-0,East Blue
+2827,OP03-021-0,Black Cat Pirates
+2828,OP03-021-1,East Blue
+2829,OP03-021-1,Black Cat Pirates
+2830,OP03-022-0,Fish-Man
+2831,OP03-022-0,East Blue
+2832,OP03-022-0,Arlong Pirates
+2833,OP03-022-1,Fish-Man
+2834,OP03-022-1,East Blue
+2835,OP03-022-1,Arlong Pirates
+2836,OP03-023-0,East Blue
+2837,OP03-023-0,Alvida Pirates
+2838,OP03-024-0,East Blue
+2839,OP03-024-0,Krieg Pirates
+2840,OP03-024-1,East Blue
+2841,OP03-024-1,Krieg Pirates
+2842,OP03-025-0,East Blue
+2843,OP03-025-0,Krieg Pirates
+2844,OP03-025-1,East Blue
+2845,OP03-025-1,Krieg Pirates
+2846,OP03-026-0,Fish-Man
+2847,OP03-026-0,East Blue
+2848,OP03-026-0,Arlong Pirates
+2849,OP03-027-0,East Blue
+2850,OP03-027-0,Black Cat Pirates
+2851,OP03-028-0,East Blue
+2852,OP03-028-0,Black Cat Pirates
+2853,OP03-029-0,Fish-Man
+2854,OP03-029-0,East Blue
+2855,OP03-029-0,Arlong Pirates
+2856,OP03-030-0,East Blue
+2857,OP03-030-0,Arlong Pirates
+2858,OP03-031-0,East Blue
+2859,OP03-031-0,Krieg Pirates
+2860,OP03-032-0,East Blue
+2861,OP03-032-0,Buggy Pirates
+2862,OP03-033-0,Fish-Man
+2863,OP03-033-0,East Blue
+2864,OP03-033-0,Arlong Pirates
+2865,OP03-034-0,East Blue
+2866,OP03-034-0,Black Cat Pirates
+2867,OP03-035-0,Animal
+2868,OP03-035-0,East Blue
+2869,OP03-036-0,East Blue
+2870,OP03-036-0,Black Cat Pirates
+2871,OP03-037-0,Fish-Man
+2872,OP03-037-0,East Blue
+2873,OP03-037-0,Arlong Pirates
+2874,OP03-038-0,East Blue
+2875,OP03-038-0,Krieg Pirates
+2876,OP03-039-0,East Blue
+2877,OP03-039-0,Black Cat Pirates
+2878,OP03-040-0,East Blue
+2879,OP03-040-1,East Blue
+2880,OP03-041-0,East Blue
+2881,OP03-041-1,East Blue
+2882,OP03-042-0,East Blue
+2883,OP03-043-0,East Blue
+2884,OP03-044-0,East Blue
+2885,OP03-045-0,East Blue
+2886,OP03-046-0,East Blue
+2887,OP03-047-0,East Blue
+2888,OP03-047-1,East Blue
+2889,OP03-048-0,East Blue
+2890,OP03-049-0,East Blue
+2891,OP03-050-0,East Blue
+2892,OP03-051-0,East Blue
+2893,OP03-051-0,Former Navy
+2894,OP03-052-0,East Blue
+2895,OP03-053-0,East Blue
+2896,OP03-054-0,East Blue
+2897,OP03-054-0,Straw Hat Crew
+2898,OP03-058-0,Water Seven
+2899,OP03-058-0,Galley-La Company
+2900,OP03-058-1,Water Seven
+2901,OP03-058-1,Galley-La Company
+2902,OP03-059-0,Water Seven
+2903,OP03-059-0,Galley-La Company
+2904,OP03-061-0,Water Seven
+2905,OP03-061-0,The Franky Family
+2906,OP03-062-0,Merfolk
+2907,OP03-062-0,Water Seven
+2908,OP03-063-0,Water Seven
+2909,OP03-063-0,The Franky Family
+2910,OP03-064-0,Water Seven
+2911,OP03-064-0,Galley-La Company
+2912,OP03-065-0,Animal
+2913,OP03-065-0,Water Seven
+2914,OP03-066-0,Water Seven
+2915,OP03-066-0,Galley-La Company
+2916,OP03-066-1,Water Seven
+2917,OP03-066-1,Galley-La Company
+2918,OP03-067-0,Water Seven
+2919,OP03-067-0,Galley-La Company
+2920,OP03-068-0,Impel Down
+2921,OP03-068-0,Jailer Beast
+2922,OP03-069-0,Impel Down
+2923,OP03-069-0,Jailer Beast
+2924,OP03-070-0,Water Seven
+2925,OP03-070-0,Straw Hat Crew
+2926,OP03-071-0,Water Seven
+2927,OP03-071-0,Galley-La Company
+2928,OP03-072-0,Water Seven
+2929,OP03-072-0,Straw Hat Crew
+2930,OP03-073-0,Water Seven
+2931,OP03-073-0,The Franky Family
+2932,OP03-074-0,Water Seven
+2933,OP03-074-0,Galley-La Company
+2934,OP03-075-0,Water Seven
+2935,OP03-075-0,Galley-La Company
+2936,OP03-076-0,CP9
+2937,OP03-076-1,CP9
+2938,OP03-077-0,The Four Emperors
+2939,OP03-077-0,Big Mom Pirates
+2940,OP03-077-1,The Four Emperors
+2941,OP03-077-1,Big Mom Pirates
+2942,OP03-078-0,Navy
+2943,OP03-078-1,Navy
+2944,OP03-080-0,CP9
+2945,OP03-080-1,CP9
+2946,OP03-081-0,CP9
+2947,OP03-081-1,CP9
+2948,OP03-082-0,CP9
+2949,OP03-083-0,World Government
+2950,OP03-084-0,CP6
+2951,OP03-085-0,CP9
+2952,OP03-086-0,CP9
+2953,OP03-086-1,CP9
+2954,OP03-087-0,CP9
+2955,OP03-088-0,CP9
+2956,OP03-090-0,CP9
+2957,OP03-091-0,Navy
+2958,OP03-092-0,CP9
+2959,OP03-092-1,CP9
+2960,OP03-093-0,CP7
+2961,OP03-095-0,CP9
+2962,OP03-096-0,CP9
+2963,OP03-097-0,CP9
+2964,OP03-098-0,World Government
+2965,OP03-099-0,Big Mom Pirates
+2966,OP03-099-1,Big Mom Pirates
+2967,OP03-100-0,Big Mom Pirates
+2968,OP03-100-0,Homies
+2969,OP03-101-0,Merfolk
+2970,OP03-102-0,The Vinsmoke Family
+2971,OP03-103-0,Big Mom Pirates
+2972,OP03-104-0,Merfolk
+2973,OP03-105-0,Big Mom Pirates
+2974,OP03-106-0,Big Mom Pirates
+2975,OP03-107-0,Big Mom Pirates
+2976,OP03-108-1,Big Mom Pirates
+2977,OP03-109-0,Big Mom Pirates
+2978,OP03-111-0,Merfolk
+2979,OP03-111-0,The Sun Pirates
+2980,OP03-112-0,Big Mom Pirates
+2981,OP03-112-1,Big Mom Pirates
+2982,OP03-113-1,Big Mom Pirates
+2983,OP03-114-0,The Four Emperors
+2984,OP03-114-0,Big Mom Pirates
+2985,OP03-114-1,The Four Emperors
+2986,OP03-114-1,Big Mom Pirates
+2987,OP03-115-0,Big Mom Pirates
+2988,OP03-117-0,Big Mom Pirates
+2989,OP03-117-0,Homies
+2990,OP03-118-0,The Four Emperors
+2991,OP03-118-0,Big Mom Pirates
+2992,OP03-119-0,Big Mom Pirates
+2993,OP03-120-0,Big Mom Pirates
+2994,OP03-122-1,Sniper Island
+2995,OP03-122-2,Sniper Island
+2996,OP03-123-1,Big Mom Pirates
+2997,OP01-051-2,Supernovas
+2998,OP01-051-2,Kid Pirates
+2999,ST01-012-1,Supernovas
+3000,ST01-012-1,Straw Hat Crew
+3001,ST03-009-1,The Seven Warlords of the Sea
+3002,ST03-009-1,Donquixote Pirates
+3003,ST04-003-1,The Four Emperors
+3004,ST04-003-1,Animal Kingdom Pirates
+3005,OP02-001-0,The Four Emperors
+3006,OP02-001-0,Whitebeard Pirates
+3007,OP02-001-1,The Four Emperors
+3008,OP02-001-1,Whitebeard Pirates
+3009,OP02-002-0,Navy
+3010,OP02-002-1,Navy
+3011,OP02-003-0,Whitebeard Pirates
+3012,OP02-004-1,The Four Emperors
+3013,OP02-004-1,Whitebeard Pirates
+3014,OP02-005-0,Mountain Bandits
+3015,OP02-006-0,Whitebeard Pirates
+3016,OP02-007-0,Whitebeard Pirates
+3017,OP02-008-0,Whitebeard Pirates
+3018,OP02-009-0,Whitebeard Pirates Allies
+3019,OP02-009-1,Whitebeard Pirates Allies
+3020,OP02-010-0,Mountain Bandits
+3021,OP02-011-0,Whitebeard Pirates
+3022,OP02-012-0,Whitebeard Pirates
+3023,OP02-013-1,Whitebeard Pirates
+3024,OP02-013-2,Whitebeard Pirates
+3025,OP02-014-0,Whitebeard Pirates Allies
+3026,OP02-016-0,Mountain Bandits
+3027,OP02-017-0,Spade Pirates
+3028,OP02-017-1,Spade Pirates
+3029,OP02-018-1,Whitebeard Pirates
+3030,OP02-019-0,Whitebeard Pirates
+3031,OP02-020-0,Giant
+3032,OP02-020-0,Whitebeard Pirates Allies
+3033,OP02-021-0,The Four Emperors
+3034,OP02-021-0,Whitebeard Pirates
+3035,OP02-022-0,Whitebeard Pirates
+3036,OP02-023-0,The Four Emperors
+3037,OP02-023-0,Whitebeard Pirates
+3038,OP02-024-0,Whitebeard Pirates
+3039,OP02-025-0,Land of Wano
+3040,OP02-025-0,The Akazaya Nine
+3041,OP02-025-1,Land of Wano
+3042,OP02-025-1,The Akazaya Nine
+3043,OP02-026-0,Straw Hat Crew
+3044,OP02-026-1,Straw Hat Crew
+3045,OP02-027-0,Minks
+3046,OP02-027-0,Land of Wano
+3047,OP02-027-0,The Akazaya Nine
+3048,OP02-028-0,FILM
+3049,OP02-028-0,Straw Hat Crew
+3050,OP02-029-0,Minks
+3051,OP02-030-0,Land of Wano
+3052,OP02-030-0,Kouzuki Clan
+3053,OP02-030-1,Land of Wano
+3054,OP02-030-1,Kouzuki Clan
+3055,OP02-031-0,Land of Wano
+3056,OP02-031-0,Kouzuki Clan
+3057,OP02-031-1,Land of Wano
+3058,OP02-031-1,Kouzuki Clan
+3059,OP02-032-0,Minks
+3060,OP02-033-0,FILM
+3061,OP02-033-0,Fish-Man
+3062,OP02-033-0,Straw Hat Crew
+3063,OP02-034-0,FILM
+3064,OP02-034-0,Animal
+3065,OP02-034-0,Straw Hat Crew
+3066,OP02-035-0,FILM
+3067,OP02-035-0,Supernovas
+3068,OP02-035-0,Heart Pirates
+3069,OP02-036-0,FILM
+3070,OP02-036-0,Straw Hat Crew
+3071,OP02-036-1,FILM
+3072,OP02-036-1,Straw Hat Crew
+3073,OP02-037-0,FILM
+3074,OP02-037-0,Straw Hat Crew
+3075,OP02-038-0,Minks
+3076,OP02-038-0,Land of Wano
+3077,OP02-038-0,The Akazaya Nine
+3078,OP02-039-0,FILM
+3079,OP02-039-0,Straw Hat Crew
+3080,OP02-040-0,FILM
+3081,OP02-040-0,Straw Hat Crew
+3082,OP02-041-0,FILM
+3083,OP02-041-0,Supernovas
+3084,OP02-041-0,Straw Hat Crew
+3085,OP02-041-1,FILM
+3086,OP02-041-1,Supernovas
+3087,OP02-041-1,Straw Hat Crew
+3088,OP02-042-0,Land of Wano
+3089,OP02-043-0,FILM
+3090,OP02-043-0,Supernovas
+3091,OP02-043-0,Straw Hat Crew
+3092,OP02-044-0,Minks
+3093,OP02-045-0,FILM
+3094,OP02-045-0,Supernovas
+3095,OP02-045-0,Straw Hat Crew
+3096,OP02-046-0,FILM
+3097,OP02-046-0,Straw Hat Crew
+3098,OP02-047-0,Land of Wano
+3099,OP02-047-0,Kouzuki Clan
+3100,OP02-048-0,Land of Wano
+3101,OP02-049-0,Impel Down
+3102,OP02-049-0,Revolutionary Army
+3103,OP02-049-1,Impel Down
+3104,OP02-049-1,Revolutionary Army
+3105,OP02-050-0,Impel Down
+3106,OP02-050-0,Revolutionary Army
+3107,OP02-051-0,Impel Down
+3108,OP02-051-0,Revolutionary Army
+3109,OP02-051-1,Impel Down
+3110,OP02-051-1,Revolutionary Army
+3111,OP02-052-0,Buggy Pirates
+3112,OP02-053-0,Impel Down
+3113,OP02-053-0,Former Baroque Works
+3114,OP02-054-0,The Seven Warlords of the Sea
+3115,OP02-054-0,Thriller Bark Pirates
+3116,OP02-055-0,The Seven Warlords of the Sea
+3117,OP02-056-0,The Seven Warlords of the Sea
+3118,OP02-056-0,Donquixote Pirates
+3119,OP02-057-0,The Seven Warlords of the Sea
+3120,OP02-057-0,Revolutionary Army
+3121,OP02-058-0,Impel Down
+3122,OP02-058-0,Buggy Pirates
+3123,OP02-058-1,Impel Down
+3124,OP02-058-1,Buggy Pirates
+3125,OP02-059-0,Impel Down
+3126,OP02-059-0,The Seven Warlords of the Sea
+3127,OP02-059-0,Kuja Pirates
+3128,OP02-059-1,Impel Down
+3129,OP02-059-1,The Seven Warlords of the Sea
+3130,OP02-059-1,Kuja Pirates
+3131,OP02-060-0,Buggy Pirates
+3132,OP02-061-0,Giant
+3133,OP02-061-0,Revolutionary Army
+3134,OP02-062-0,Impel Down
+3135,OP02-062-0,Straw Hat Crew
+3136,OP02-062-1,Impel Down
+3137,OP02-062-1,Straw Hat Crew
+3138,OP02-063-0,Impel Down
+3139,OP02-063-0,Former Baroque Works
+3140,OP02-064-0,Impel Down
+3141,OP02-064-0,Former Baroque Works
+3142,OP02-065-0,Impel Down
+3143,OP02-065-0,Former Baroque Works
+3144,OP02-066-0,Impel Down
+3145,OP02-067-0,Fish-Man
+3146,OP02-067-0,Impel Down
+3147,OP02-068-0,Impel Down
+3148,OP02-068-0,Straw Hat Crew
+3149,OP02-069-0,Impel Down
+3150,OP02-069-0,Revolutionary Army
+3151,OP02-070-0,Impel Down
+3152,OP02-071-0,Impel Down
+3153,OP02-071-1,Impel Down
+3154,OP02-072-0,FILM
+3155,OP02-072-0,Neo Navy
+3156,OP02-072-1,FILM
+3157,OP02-072-1,Neo Navy
+3158,OP02-073-0,Impel Down
+3159,OP02-073-1,Impel Down
+3160,OP02-074-0,Impel Down
+3161,OP02-075-0,FILM
+3162,OP02-075-0,Golden Lion Pirates
+3163,OP02-076-0,Impel Down
+3164,OP02-077-0,Animal Kingdom Pirates
+3165,OP02-077-0,SMILE
+3166,OP02-078-0,Animal Kingdom Pirates
+3167,OP02-078-0,SMILE
+3168,OP02-079-0,FILM
+3169,OP02-079-0,The Pirates Fest
+3170,OP02-080-0,Animal Kingdom Pirates
+3171,OP02-080-0,SMILE
+3172,OP02-081-0,Impel Down
+3173,OP02-082-0,World Pirates
+3174,OP02-083-0,Impel Down
+3175,OP02-084-0,Animal
+3176,OP02-084-0,Impel Down
+3177,OP02-085-0,Impel Down
+3178,OP02-085-1,Impel Down
+3179,OP02-086-0,Impel Down
+3180,OP02-086-0,Jailer Beast
+3181,OP02-086-1,Impel Down
+3182,OP02-086-1,Jailer Beast
+3183,OP02-087-0,Impel Down
+3184,OP02-087-0,Jailer Beast
+3185,OP02-088-0,Animal
+3186,OP02-088-0,Impel Down
+3187,OP02-090-0,Impel Down
+3188,OP02-091-0,Impel Down
+3189,OP02-092-0,Impel Down
+3190,OP02-093-0,Navy
+3191,OP02-093-1,Navy
+3192,OP02-094-0,Navy
+3193,OP02-095-0,Navy
+3194,OP02-096-1,Navy
+3195,OP02-097-0,Navy
+3196,OP02-098-0,Navy
+3197,OP02-099-1,Navy
+3198,OP02-100-0,Navy
+3199,OP02-101-0,Navy
+3200,OP02-102-0,Navy
+3201,OP02-103-0,Navy
+3202,OP02-104-0,Navy
+3203,OP02-105-0,Navy
+3204,OP02-105-1,Navy
+3205,OP02-107-0,Navy
+3206,OP02-108-0,Navy
+3207,OP02-108-0,Donquixote Pirates
+3208,OP02-108-1,Navy
+3209,OP02-108-1,Donquixote Pirates
+3210,OP02-109-0,Giant
+3211,OP02-109-0,Navy
+3212,OP02-110-0,Navy
+3213,OP02-111-0,Navy
+3214,OP02-112-0,Navy
+3215,OP02-113-0,Navy
+3216,OP02-114-1,Navy
+3217,OP02-115-0,Navy
+3218,OP02-115-1,Navy
+3219,OP02-116-0,Navy
+3220,OP02-118-0,Navy
+3221,OP02-119-0,Navy
+3222,OP02-120-0,FILM
+3223,OP02-120-1,FILM
+3224,OP02-121-1,Former Navy
+3225,OP01-001-0,Supernovas
+3226,OP01-001-0,Straw Hat Crew
+3227,OP01-001-1,Supernovas
+3228,OP01-001-1,Straw Hat Crew
+3229,OP01-002-0,Supernovas
+3230,OP01-002-0,Heart Pirates
+3231,OP01-002-1,Supernovas
+3232,OP01-002-1,Heart Pirates
+3233,OP01-003-0,Supernovas
+3234,OP01-003-0,Straw Hat Crew
+3235,OP01-003-1,Supernovas
+3236,OP01-003-1,Straw Hat Crew
+3237,OP01-004-0,Straw Hat Crew
+3238,OP01-005-0,FILM
+3239,OP01-007-0,Supernovas
+3240,OP01-007-0,Caribou Pirates
+3241,OP01-008-0,Supernovas
+3242,OP01-008-0,Beautiful Pirates
+3243,OP01-008-1,Supernovas
+3244,OP01-008-1,Beautiful Pirates
+3245,OP01-009-0,Minks
+3246,OP01-010-0,Animal
+3247,OP01-010-0,Land of Wano
+3248,OP01-011-0,FILM
+3249,OP01-012-0,Happosui Army
+3250,OP01-013-0,Straw Hat Crew
+3251,OP01-013-1,Straw Hat Crew
+3252,OP01-014-0,Fish-Man
+3253,OP01-014-0,Straw Hat Crew
+3254,OP01-015-0,Animal
+3255,OP01-015-0,Straw Hat Crew
+3256,OP01-016-0,Straw Hat Crew
+3257,OP01-016-1,Straw Hat Crew
+3258,OP01-017-0,Straw Hat Crew
+3259,OP01-018-0,Giant
+3260,OP01-018-0,New Giant Pirates
+3261,OP01-019-0,Supernovas
+3262,OP01-019-0,Barto Club
+3263,OP01-020-0,Land of Wano
+3264,OP01-021-0,Straw Hat Crew
+3265,OP01-022-0,Straw Hat Crew
+3266,OP01-023-0,Former Whitebeard Pirates
+3267,OP01-024-1,Supernovas
+3268,OP01-024-1,Straw Hat Crew
+3269,OP01-025-0,Supernovas
+3270,OP01-025-0,Straw Hat Crew
+3271,OP01-025-1,Supernovas
+3272,OP01-025-1,Straw Hat Crew
+3273,OP01-026-0,Supernovas
+3274,OP01-026-0,Straw Hat Crew
+3275,OP01-027-0,Supernovas
+3276,OP01-027-0,Beautiful Pirates
+3277,OP01-028-0,Straw Hat Crew
+3278,OP01-030-0,Straw Hat Crew
+3279,OP01-031-0,Land of Wano
+3280,OP01-031-0,Kouzuki Clan
+3281,OP01-031-1,Land of Wano
+3282,OP01-031-1,Kouzuki Clan
+3283,OP01-032-0,Land of Wano
+3284,OP01-032-0,The Akazaya Nine
+3285,OP01-034-0,Minks
+3286,OP01-034-0,Land of Wano
+3287,OP01-034-0,The Akazaya Nine
+3288,OP01-034-1,Minks
+3289,OP01-034-1,Land of Wano
+3290,OP01-034-1,The Akazaya Nine
+3291,OP01-035-0,Land of Wano
+3292,OP01-035-0,The Akazaya Nine
+3293,OP01-036-0,Land of Wano
+3294,OP01-037-0,Fish-Man
+3295,OP01-037-0,Land of Wano
+3296,OP01-037-0,The Akazaya Nine
+3297,OP01-038-0,Land of Wano
+3298,OP01-038-0,The Akazaya Nine
+3299,OP01-039-0,Supernovas
+3300,OP01-039-0,Kid Pirates
+3301,OP01-040-0,Land of Wano
+3302,OP01-040-0,The Akazaya Nine
+3303,OP01-040-1,Land of Wano
+3304,OP01-040-1,The Akazaya Nine
+3305,OP01-042-0,Land of Wano
+3306,OP01-042-0,Kouzuki Clan
+3307,OP01-043-0,Land of Wano
+3308,OP01-044-0,Heart Pirates
+3309,OP01-045-0,Heart Pirates
+3310,OP01-046-0,Land of Wano
+3311,OP01-046-0,The Akazaya Nine
+3312,OP01-047-1,Supernovas
+3313,OP01-047-1,Heart Pirates
+3314,OP01-048-0,Minks
+3315,OP01-048-0,Land of Wano
+3316,OP01-048-0,The Akazaya Nine
+3317,OP01-048-1,Minks
+3318,OP01-048-1,Land of Wano
+3319,OP01-048-1,The Akazaya Nine
+3320,OP01-049-0,Minks
+3321,OP01-049-0,Heart Pirates
+3322,OP01-050-0,Heart Pirates
+3323,OP01-051-1,Supernovas
+3324,OP01-051-1,Kid Pirates
+3325,OP01-053-0,Kid Pirates
+3326,OP01-054-0,Supernovas
+3327,OP01-054-0,Navy
+3328,OP01-054-0,Drake Pirates
+3329,OP01-055-0,Land of Wano
+3330,OP01-055-0,Kouzuki Clan
+3331,OP01-056-0,Supernovas
+3332,OP01-056-0,Hawkins Pirates
+3333,OP01-057-0,Land of Wano
+3334,OP01-057-0,Kouzuki Clan
+3335,OP01-058-0,Supernovas
+3336,OP01-058-0,Kid Pirates
+3337,OP01-059-0,Land of Wano
+3338,OP01-060-0,The Seven Warlords of the Sea
+3339,OP01-060-0,Donquixote Pirates
+3340,OP01-060-1,The Seven Warlords of the Sea
+3341,OP01-060-1,Donquixote Pirates
+3342,OP01-061-0,The Four Emperors
+3343,OP01-061-0,Animal Kingdom Pirates
+3344,OP01-061-1,The Four Emperors
+3345,OP01-061-1,Animal Kingdom Pirates
+3346,OP01-062-0,The Seven Warlords of the Sea
+3347,OP01-062-0,Baroque Works
+3348,OP01-062-1,The Seven Warlords of the Sea
+3349,OP01-062-1,Baroque Works
+3350,OP01-063-0,Fish-Man
+3351,OP01-063-0,Arlong Pirates
+3352,OP01-064-0,Buggy Pirates
+3353,OP01-064-1,Buggy Pirates
+3354,OP01-065-0,Navy
+3355,OP01-065-0,Donquixote Pirates
+3356,OP01-065-0,Punk Hazard
+3357,OP01-066-0,Krieg Pirates
+3358,OP01-067-0,The Seven Warlords of the Sea
+3359,OP01-067-0,Baroque Works
+3360,OP01-067-1,The Seven Warlords of the Sea
+3361,OP01-067-1,Baroque Works
+3362,OP01-068-0,The Seven Warlords of the Sea
+3363,OP01-068-0,Thriller Bark Pirates
+3364,OP01-069-0,Scientist
+3365,OP01-069-0,Punk Hazard
+3366,OP01-070-1,The Seven Warlords of the Sea
+3367,OP01-071-0,Fish-Man
+3368,OP01-071-0,Straw Hat Crew
+3369,OP01-072-0,Biological Weapon
+3370,OP01-072-0,Punk Hazard
+3371,OP01-073-0,The Seven Warlords of the Sea
+3372,OP01-073-0,Donquixote Pirates
+3373,OP01-073-1,The Seven Warlords of the Sea
+3374,OP01-073-1,Donquixote Pirates
+3375,OP01-074-0,The Seven Warlords of the Sea
+3376,OP01-074-0,Revolutionary Army
+3377,OP01-075-0,Biological Weapon
+3378,OP01-075-0,Navy
+3379,OP01-076-0,Dressrosa
+3380,OP01-077-0,Thriller Bark Pirates
+3381,OP01-077-1,Thriller Bark Pirates
+3382,OP01-078-1,The Seven Warlords of the Sea
+3383,OP01-078-1,Kuja Pirates
+3384,OP01-079-0,Baroque Works
+3385,OP01-080-0,Baroque Works
+3386,OP01-081-0,Punk Hazard
+3387,OP01-082-0,Donquixote Pirates
+3388,OP01-082-0,Punk Hazard
+3389,OP01-083-0,Baroque Works
+3390,OP01-084-0,Baroque Works
+3391,OP01-085-0,Baroque Works
+3392,OP01-086-0,The Seven Warlords of the Sea
+3393,OP01-086-0,Donquixote Pirates
+3394,OP01-087-0,Baroque Works
+3395,OP01-088-0,The Seven Warlords of the Sea
+3396,OP01-088-0,Baroque Works
+3397,OP01-089-0,The Seven Warlords of the Sea
+3398,OP01-089-0,Baroque Works
+3399,OP01-090-0,Baroque Works
+3400,OP01-091-0,Animal Kingdom Pirates
+3401,OP01-091-1,Animal Kingdom Pirates
+3402,OP01-092-0,Land of Wano
+3403,OP01-093-0,Animal Kingdom Pirates
+3404,OP01-093-1,Animal Kingdom Pirates
+3405,OP01-094-0,The Four Emperors
+3406,OP01-094-0,Animal Kingdom Pirates
+3407,OP01-094-1,The Four Emperors
+3408,OP01-094-1,Animal Kingdom Pirates
+3409,OP01-095-0,Land of Wano
+3410,OP01-096-0,Animal Kingdom Pirates
+3411,OP01-096-1,Animal Kingdom Pirates
+3412,OP01-097-0,Animal Kingdom Pirates
+3413,OP01-097-1,Animal Kingdom Pirates
+3414,OP01-098-0,Land of Wano
+3415,OP01-098-0,Kurozumi Clan
+3416,OP01-099-0,Land of Wano
+3417,OP01-099-0,Kurozumi Clan
+3418,OP01-100-0,Land of Wano
+3419,OP01-100-0,Kurozumi Clan
+3420,OP01-101-0,Animal Kingdom Pirates
+3421,OP01-102-0,Animal Kingdom Pirates
+3422,OP01-102-1,Animal Kingdom Pirates
+3423,OP01-103-0,Animal Kingdom Pirates
+3424,OP01-103-0,On-Air Pirates
+3425,OP01-104-0,Animal Kingdom Pirates
+3426,OP01-104-0,SMILE
+3427,OP01-105-0,Animal Kingdom Pirates
+3428,OP01-105-0,SMILE
+3429,OP01-106-0,Animal Kingdom Pirates
+3430,OP01-106-0,Hawkins Pirates
+3431,OP01-107-0,Animal Kingdom Pirates
+3432,OP01-107-0,SMILE
+3433,OP01-108-0,Supernovas
+3434,OP01-108-0,Kid Pirates
+3435,OP01-108-0,SMILE
+3436,OP01-109-0,Animal Kingdom Pirates
+3437,OP01-109-1,Animal Kingdom Pirates
+3438,OP01-110-0,Land of Wano
+3439,OP01-110-0,Animal Kingdom Pirates
+3440,OP01-111-0,Animal Kingdom Pirates
+3441,OP01-112-0,Animal Kingdom Pirates
+3442,OP01-113-0,Animal Kingdom Pirates
+3443,OP01-113-0,SMILE
+3444,OP01-114-0,Navy
+3445,OP01-114-0,Drake Pirates
+3446,OP01-114-0,Animal Kingdom Pirates
+3447,OP01-115-0,Animal Kingdom Pirates
+3448,OP01-115-0,SMILE
+3449,OP01-116-0,Animal Kingdom Pirates
+3450,OP01-116-0,SMILE
+3451,OP01-117-0,Animal Kingdom Pirates
+3452,OP01-117-0,SMILE
+3453,OP01-118-0,Animal Kingdom Pirates
+3454,OP01-119-0,The Four Emperors
+3455,OP01-119-0,Animal Kingdom Pirates
+3456,OP01-120-1,The Four Emperors
+3457,OP01-120-1,Red-Haired Pirates
+3458,OP01-120-2,The Four Emperors
+3459,OP01-120-2,Red-Haired Pirates
+3460,OP01-121-1,Land of Wano
+3461,ST22-001-0,The Four Emperors
+3462,ST22-001-0,Whitebeard Pirates
+3463,ST22-001-1,The Four Emperors
+3464,ST22-001-1,Whitebeard Pirates
+3465,ST22-002-0,Land of Wano
+3466,ST22-002-0,Whitebeard Pirates
+3467,ST22-002-1,Land of Wano
+3468,ST22-002-1,Whitebeard Pirates
+3469,ST22-003-0,The Four Emperors
+3470,ST22-003-0,Whitebeard Pirates
+3471,ST22-003-1,The Four Emperors
+3472,ST22-003-1,Whitebeard Pirates
+3473,ST22-004-0,Whitebeard Pirates Allies
+3474,ST22-004-1,Whitebeard Pirates Allies
+3475,ST22-005-0,Land of Wano
+3476,ST22-005-0,Kouzuki Clan
+3477,ST22-005-0,Whitebeard Pirates
+3478,ST22-005-1,Land of Wano
+3479,ST22-005-1,Kouzuki Clan
+3480,ST22-005-1,Whitebeard Pirates
+3481,ST22-006-0,Whitebeard Pirates
+3482,ST22-006-1,Whitebeard Pirates
+3483,ST22-007-0,Whitebeard Pirates Allies
+3484,ST22-007-1,Whitebeard Pirates Allies
+3485,ST22-008-0,Whitebeard Pirates Allies
+3486,ST22-008-1,Whitebeard Pirates Allies
+3487,ST22-009-0,Whitebeard Pirates
+3488,ST22-009-1,Whitebeard Pirates
+3489,ST22-010-0,Whitebeard Pirates
+3490,ST22-010-1,Whitebeard Pirates
+3491,ST22-011-0,Whitebeard Pirates
+3492,ST22-011-1,Whitebeard Pirates
+3493,ST22-012-0,Whitebeard Pirates
+3494,ST22-012-1,Whitebeard Pirates
+3495,ST22-013-0,Giant
+3496,ST22-013-0,Whitebeard Pirates Allies
+3497,ST22-013-1,Giant
+3498,ST22-013-1,Whitebeard Pirates Allies
+3499,ST22-014-0,Whitebeard Pirates Allies
+3500,ST22-014-1,Whitebeard Pirates Allies
+3501,ST22-015-0,The Four Emperors
+3502,ST22-015-0,Whitebeard Pirates
+3503,ST22-016-0,Whitebeard Pirates
+3504,ST22-017-0,Whitebeard Pirates
+3505,ST21-001-0,The Four Emperors
+3506,ST21-001-0,Straw Hat Crew
+3507,ST21-001-1,The Four Emperors
+3508,ST21-001-1,Straw Hat Crew
+3509,ST21-002-0,Straw Hat Crew
+3510,ST21-002-1,Straw Hat Crew
+3511,ST21-003-0,Straw Hat Crew
+3512,ST21-003-1,Straw Hat Crew
+3513,ST21-004-0,Egghead
+3514,ST21-004-0,Bonney Pirates
+3515,ST21-004-1,Egghead
+3516,ST21-004-1,Bonney Pirates
+3517,ST21-005-0,Fish-Man
+3518,ST21-005-0,Straw Hat Crew
+3519,ST21-005-1,Fish-Man
+3520,ST21-005-1,Straw Hat Crew
+3521,ST21-006-0,Egghead
+3522,ST21-006-1,Egghead
+3523,ST21-007-0,Egghead
+3524,ST21-007-0,Navy
+3525,ST21-007-1,Egghead
+3526,ST21-007-1,Navy
+3527,ST21-008-0,Animal
+3528,ST21-008-0,Straw Hat Crew
+3529,ST21-008-1,Animal
+3530,ST21-008-1,Straw Hat Crew
+3531,ST21-009-0,Straw Hat Crew
+3532,ST21-009-1,Straw Hat Crew
+3533,ST21-010-0,Straw Hat Crew
+3534,ST21-010-1,Straw Hat Crew
+3535,ST21-011-0,Straw Hat Crew
+3536,ST21-011-1,Straw Hat Crew
+3537,ST21-012-0,Straw Hat Crew
+3538,ST21-012-1,Straw Hat Crew
+3539,ST21-013-0,Scientist
+3540,ST21-013-0,Egghead
+3541,ST21-013-1,Scientist
+3542,ST21-013-1,Egghead
+3543,ST21-014-0,The Four Emperors
+3544,ST21-014-0,Straw Hat Crew
+3545,ST21-014-1,The Four Emperors
+3546,ST21-014-1,Straw Hat Crew
+3547,ST21-015-0,Straw Hat Crew
+3548,ST21-015-1,Straw Hat Crew
+3549,ST21-016-0,The Four Emperors
+3550,ST21-016-0,Straw Hat Crew
+3551,ST21-017-0,The Four Emperors
+3552,ST21-017-0,Straw Hat Crew
+3553,OP03-099-2,Big Mom Pirates
+3554,ST07-005-0,Big Mom Pirates
+3555,ST07-014-0,Minks
+3556,ST07-014-0,Big Mom Pirates
+3557,ST20-001-0,Big Mom Pirates
+3558,ST20-002-0,Big Mom Pirates
+3559,ST20-003-0,Big Mom Pirates
+3560,ST20-004-0,Big Mom Pirates
+3561,ST20-005-0,The Four Emperors
+3562,ST20-005-0,Big Mom Pirates
+3563,OP02-093-2,Navy
+3564,ST19-001-0,Navy
+3565,ST19-002-0,Navy
+3566,ST19-003-0,Navy
+3567,ST19-004-0,Navy
+3568,ST19-005-0,Navy
+3569,OP05-060-3,Straw Hat Crew
+3570,OP05-076-1,Land of Wano
+3571,P-041-0,The Four Emperors
+3572,P-041-0,Straw Hat Crew
+3573,ST18-001-0,Straw Hat Crew
+3574,ST18-002-0,Straw Hat Crew
+3575,ST18-003-0,Straw Hat Crew
+3576,ST18-004-0,Straw Hat Crew
+3577,ST18-005-0,Straw Hat Crew
+3578,OP01-060-2,The Seven Warlords of the Sea
+3579,OP01-060-2,Donquixote Pirates
+3580,P-030-0,Fish-Man
+3581,P-030-0,The Seven Warlords of the Sea
+3582,P-030-0,The Sun Pirates
+3583,ST03-002-0,The Seven Warlords of the Sea
+3584,ST03-004-0,The Seven Warlords of the Sea
+3585,ST03-004-0,Thriller Bark Pirates
+3586,ST17-001-0,The Seven Warlords of the Sea
+3587,ST17-001-0,Baroque Works
+3588,ST17-002-0,The Seven Warlords of the Sea
+3589,ST17-002-0,Heart Pirates
+3590,ST17-003-0,The Seven Warlords of the Sea
+3591,ST17-003-0,Buggy's Delivery
+3592,ST17-004-0,The Seven Warlords of the Sea
+3593,ST17-004-0,Kuja Pirates
+3594,ST17-005-0,The Seven Warlords of the Sea
+3595,ST17-005-0,Blackbeard Pirates
+3596,P-057-1,Music
+3597,P-057-1,FILM
+3598,P-058-1,Music
+3599,P-058-1,FILM
+3600,P-059-1,Music
+3601,P-059-1,FILM
+3602,P-060-1,Music
+3603,P-060-1,FILM
+3604,P-061-0,FILM
+3605,P-061-0,Straw Hat Crew
+3606,ST11-001-1,FILM
+3607,ST11-003-2,Music
+3608,ST11-003-2,FILM
+3609,ST11-004-2,Music
+3610,ST11-004-2,FILM
+3611,ST11-005-2,Music
+3612,ST11-005-2,FILM
+3613,ST16-001-0,FILM
+3614,ST16-002-0,FILM
+3615,ST16-003-0,FILM
+3616,ST16-003-0,Big Mom Pirates
+3617,ST16-004-0,FILM
+3618,ST16-004-0,The Four Emperors
+3619,ST16-004-0,Red-Haired Pirates
+3620,ST16-005-0,FILM
+3621,ST16-005-0,Supernovas
+3622,ST16-005-0,Straw Hat Crew
+3623,OP02-001-4,The Four Emperors
+3624,OP02-001-4,Whitebeard Pirates
+3625,ST15-001-0,Whitebeard Pirates
+3626,ST15-002-0,The Four Emperors
+3627,ST15-002-0,Whitebeard Pirates
+3628,ST15-003-0,Whitebeard Pirates
+3629,ST15-004-0,Whitebeard Pirates
+3630,ST15-005-0,Whitebeard Pirates
+3631,ST14-001-0,Straw Hat Crew
+3632,ST14-002-0,Straw Hat Crew
+3633,ST14-003-0,Straw Hat Crew
+3634,ST14-004-0,Fish-Man
+3635,ST14-004-0,The Sun Pirates
+3636,ST14-005-0,Animal
+3637,ST14-005-0,Straw Hat Crew
+3638,ST14-006-0,Straw Hat Crew
+3639,ST14-007-0,Straw Hat Crew
+3640,ST14-008-0,Sky Island
+3641,ST14-009-0,Straw Hat Crew
+3642,ST14-010-0,Straw Hat Crew
+3643,ST14-011-0,Bowin Island
+3644,ST14-012-0,Straw Hat Crew
+3645,ST14-013-0,Straw Hat Crew
+3646,ST14-014-0,Straw Hat Crew
+3647,ST14-015-0,Straw Hat Crew
+3648,ST14-016-0,Straw Hat Crew
+3649,ST14-017-0,Straw Hat Crew
+3650,ST13-001-0,Dressrosa
+3651,ST13-001-0,Revolutionary Army
+3652,ST13-001-1,Dressrosa
+3653,ST13-001-1,Revolutionary Army
+3654,ST13-002-0,Whitebeard Pirates
+3655,ST13-002-1,Whitebeard Pirates
+3656,ST13-003-0,Supernovas
+3657,ST13-003-0,Straw Hat Crew
+3658,ST13-003-1,Supernovas
+3659,ST13-003-1,Straw Hat Crew
+3660,ST13-004-0,The Four Emperors
+3661,ST13-004-0,Whitebeard Pirates
+3662,ST13-004-1,The Four Emperors
+3663,ST13-004-1,Whitebeard Pirates
+3664,ST13-005-0,Revolutionary Army
+3665,ST13-005-1,Revolutionary Army
+3666,ST13-006-0,Mountain Bandits
+3667,ST13-006-1,Mountain Bandits
+3668,ST13-007-0,Goa Kingdom
+3669,ST13-007-1,Goa Kingdom
+3670,ST13-008-0,Dressrosa
+3671,ST13-008-0,Revolutionary Army
+3672,ST13-008-1,Dressrosa
+3673,ST13-008-1,Revolutionary Army
+3674,ST13-009-0,The Four Emperors
+3675,ST13-009-0,Red-Haired Pirates
+3676,ST13-009-1,The Four Emperors
+3677,ST13-009-1,Red-Haired Pirates
+3678,ST13-010-0,Goa Kingdom
+3679,ST13-010-1,Goa Kingdom
+3680,ST13-011-0,Whitebeard Pirates
+3681,ST13-011-1,Whitebeard Pirates
+3682,ST13-012-0,Windmill Village
+3683,ST13-012-1,Windmill Village
+3684,ST13-013-0,Navy
+3685,ST13-013-1,Navy
+3686,ST13-014-0,Goa Kingdom
+3687,ST13-014-1,Goa Kingdom
+3688,ST13-015-0,Supernovas
+3689,ST13-015-0,Straw Hat Crew
+3690,ST13-015-1,Supernovas
+3691,ST13-015-1,Straw Hat Crew
+3692,ST13-016-0,Land of Wano
+3693,ST13-016-1,Land of Wano
+3694,ST13-017-0,Dressrosa
+3695,ST13-017-0,Revolutionary Army
+3696,ST13-018-0,Punk Hazard
+3697,ST13-018-0,Straw Hat Crew
+3698,ST13-019-0,Goa Kingdom
+3699,ST12-001-0,Straw Hat Crew
+3700,ST12-002-0,Frost Moon Village
+3701,ST12-003-0,The Seven Warlords of the Sea
+3702,ST12-003-0,Muggy Kingdom
+3703,ST12-004-0,Animal
+3704,ST12-004-0,Muggy Kingdom
+3705,ST12-005-0,Muggy Kingdom
+3706,ST12-005-0,Thriller Bark Pirates
+3707,ST12-006-0,East Blue
+3708,ST12-007-0,East Blue
+3709,ST12-008-0,Straw Hat Crew
+3710,ST12-009-0,Animal
+3711,ST12-010-0,Impel Down
+3712,ST12-010-0,Revolutionary Army
+3713,ST12-011-0,Straw Hat Crew
+3714,ST12-012-0,Big Mom Pirates
+3715,ST12-013-0,East Blue
+3716,ST12-015-0,East Blue
+3717,ST12-016-0,Straw Hat Crew
+3718,ST12-017-0,Straw Hat Crew
+3719,OP02-028-2,FILM
+3720,OP02-028-2,Straw Hat Crew
+3721,OP02-033-2,FILM
+3722,OP02-033-2,Fish-Man
+3723,OP02-033-2,Straw Hat Crew
+3724,OP02-034-2,FILM
+3725,OP02-034-2,Animal
+3726,OP02-034-2,Straw Hat Crew
+3727,OP02-035-3,FILM
+3728,OP02-035-3,Supernovas
+3729,OP02-035-3,Heart Pirates
+3730,OP02-037-2,FILM
+3731,OP02-037-2,Straw Hat Crew
+3732,OP02-039-2,FILM
+3733,OP02-039-2,Straw Hat Crew
+3734,OP02-040-2,FILM
+3735,OP02-040-2,Straw Hat Crew
+3736,OP02-041-3,FILM
+3737,OP02-041-3,Supernovas
+3738,OP02-041-3,Straw Hat Crew
+3739,OP02-043-2,FILM
+3740,OP02-043-2,Supernovas
+3741,OP02-043-2,Straw Hat Crew
+3742,OP02-045-2,FILM
+3743,OP02-045-2,Supernovas
+3744,OP02-045-2,Straw Hat Crew
+3745,ST11-001-0,FILM
+3746,ST11-002-0,FILM
+3747,ST11-003-0,Music
+3748,ST11-003-0,FILM
+3749,ST11-004-0,Music
+3750,ST11-004-0,FILM
+3751,ST11-005-0,Music
+3752,ST11-005-0,FILM
+3753,OP01-016-3,Straw Hat Crew
+3754,OP01-025-2,Supernovas
+3755,OP01-025-2,Straw Hat Crew
+3756,ST10-001-0,Heart Pirates
+3757,ST10-002-0,Straw Hat Crew
+3758,ST10-003-0,Kid Pirates
+3759,ST10-004-0,Straw Hat Crew
+3760,ST10-005-0,Fish-Man
+3761,ST10-005-0,Straw Hat Crew
+3762,ST10-006-0,Straw Hat Crew
+3763,ST10-007-0,Kid Pirates
+3764,ST10-008-0,Heart Pirates
+3765,ST10-009-0,Heart Pirates
+3766,ST10-011-0,Kid Pirates
+3767,ST10-012-0,Minks
+3768,ST10-012-0,Heart Pirates
+3769,ST10-013-0,Kid Pirates
+3770,ST10-014-0,Kid Pirates
+3771,ST10-015-0,Straw Hat Crew
+3772,ST10-016-0,Straw Hat Crew
+3773,ST10-017-0,Kid Pirates
+3774,ST09-001-0,Land of Wano
+3775,ST09-002-0,Land of Wano
+3776,ST09-003-0,Animal Kingdom Pirates
+3777,ST09-004-0,The Four Emperors
+3778,ST09-004-0,Animal Kingdom Pirates
+3779,ST09-005-0,Land of Wano
+3780,ST09-005-0,Kouzuki Clan
+3781,ST09-006-0,Land of Wano
+3782,ST09-006-0,Kouzuki Clan
+3783,ST09-007-0,Land of Wano
+3784,ST09-008-0,Land of Wano
+3785,ST09-009-0,Land of Wano
+3786,ST09-010-0,Land of Wano
+3787,ST09-010-0,Whitebeard Pirates
+3788,ST09-011-0,Land of Wano
+3789,ST09-011-0,Straw Hat Crew
+3790,ST09-012-0,Land of Wano
+3791,ST09-013-0,Land of Wano
+3792,ST09-015-0,Land of Wano
+3793,ST08-001-0,Straw Hat Crew
+3794,ST08-002-0,FILM
+3795,ST08-003-0,East Blue
+3796,ST08-004-0,Navy
+3797,ST08-005-0,Red-Haired Pirates
+3798,ST08-006-0,Merfolk
+3799,ST08-007-0,Alabasta
+3800,ST08-008-0,Mountain Bandits
+3801,ST08-009-0,Windmill Village
+3802,ST08-010-0,Navy
+3803,ST08-011-0,Straw Hat Crew
+3804,ST08-012-0,Animal
+3805,ST08-013-0,Former Baroque Works
+3806,ST08-014-0,Straw Hat Crew
+3807,ST08-015-0,Straw Hat Crew
+3808,ST07-001-0,The Four Emperors
+3809,ST07-001-0,Big Mom Pirates
+3810,ST07-002-0,Big Mom Pirates
+3811,ST07-003-0,Big Mom Pirates
+3812,ST07-004-0,Big Mom Pirates
+3813,ST07-006-0,Big Mom Pirates
+3814,ST07-008-0,Big Mom Pirates
+3815,ST07-009-0,Big Mom Pirates
+3816,ST07-010-0,The Four Emperors
+3817,ST07-010-0,Big Mom Pirates
+3818,ST07-011-0,Big Mom Pirates
+3819,ST07-011-0,Homies
+3820,ST07-012-0,Big Mom Pirates
+3821,ST07-013-0,Big Mom Pirates
+3822,ST07-013-0,Homies
+3823,ST07-015-0,The Four Emperors
+3824,ST07-015-0,Big Mom Pirates
+3825,ST07-016-0,Big Mom Pirates
+3826,ST07-017-0,Big Mom Pirates
+3827,ST07-017-0,Homies
+3828,ST06-001-0,Navy
+3829,ST06-002-0,Navy
+3830,ST06-003-0,Navy
+3831,ST06-004-0,Navy
+3832,ST06-005-0,Navy
+3833,ST06-006-0,Navy
+3834,ST06-007-0,Navy
+3835,ST06-008-0,Navy
+3836,ST06-009-0,Navy
+3837,ST06-011-0,Navy
+3838,ST06-012-0,Navy
+3839,ST06-013-0,Navy
+3840,ST06-015-0,Navy
+3841,ST06-016-0,Navy
+3842,ST06-017-0,Navy
+3843,ST05-001-0,FILM
+3844,ST05-001-0,The Four Emperors
+3845,ST05-001-0,Red-Haired Pirates
+3846,ST05-002-0,FILM
+3847,ST05-002-0,Neo Navy
+3848,ST05-003-0,FILM
+3849,ST05-003-0,The Pirates Fest
+3850,ST05-004-0,FILM
+3851,ST05-005-0,FILM
+3852,ST05-005-0,Grantesoro
+3853,ST05-006-0,FILM
+3854,ST05-006-0,Grantesoro
+3855,ST05-007-0,FILM
+3856,ST05-008-0,FILM
+3857,ST05-008-0,Golden Lion Pirates
+3858,ST05-009-0,FILM
+3859,ST05-009-0,Animal
+3860,ST05-009-0,Golden Lion Pirates
+3861,ST05-010-0,FILM
+3862,ST05-010-0,Neo Navy
+3863,ST05-011-0,FILM
+3864,ST05-011-0,The Pirates Fest
+3865,ST05-012-0,FILM
+3866,ST05-012-0,Grantesoro
+3867,ST05-013-0,FILM
+3868,ST05-013-0,Neo Navy
+3869,ST05-014-0,FILM
+3870,ST05-014-0,The Pirates Fest
+3871,ST05-015-0,FILM
+3872,ST05-015-0,Scientist
+3873,ST05-015-0,Golden Lion Pirates
+3874,ST05-016-0,FILM
+3875,ST05-016-0,Golden Lion Pirates
+3876,ST05-017-0,FILM
+3877,ST05-017-0,The Pirates Fest
+3878,ST04-001-0,The Four Emperors
+3879,ST04-001-0,Animal Kingdom Pirates
+3880,ST04-002-0,Animal Kingdom Pirates
+3881,ST04-004-0,Animal Kingdom Pirates
+3882,ST04-006-0,Animal Kingdom Pirates
+3883,ST04-007-0,Animal Kingdom Pirates
+3884,ST04-007-0,Smile
+3885,ST04-008-0,Animal Kingdom Pirates
+3886,ST04-009-0,Animal Kingdom Pirates
+3887,ST04-009-0,Smile
+3888,ST04-010-0,Animal Kingdom Pirates
+3889,ST04-011-0,Animal Kingdom Pirates
+3890,ST04-012-0,Animal Kingdom Pirates
+3891,ST04-013-0,Navy
+3892,ST04-013-0,Drake Pirates
+3893,ST04-013-0,Animal Kingdom Pirates
+3894,ST04-014-0,Animal Kingdom Pirates
+3895,ST04-015-0,Animal Kingdom Pirates
+3896,ST04-017-0,Animal Kingdom Pirates
+3897,ST03-001-0,The Seven Warlords of the Sea
+3898,ST03-001-0,Baroque Works
+3899,ST03-003-0,The Seven Warlords of the Sea
+3900,ST03-003-0,Baroque Works
+3901,ST03-006-0,Fish-Man
+3902,ST03-006-0,The Seven Warlords of the Sea
+3903,ST03-006-0,The Sun Pirates
+3904,ST03-007-0,Navy
+3905,ST03-009-0,The Seven Warlords of the Sea
+3906,ST03-009-0,Donquixote Pirates
+3907,ST03-010-0,The Seven Warlords of the Sea
+3908,ST03-010-0,Revolutionary Army
+3909,ST03-011-0,The Seven Warlords of the Sea
+3910,ST03-011-0,Buggy's Delivery
+3911,ST03-012-0,Biological Weapon
+3912,ST03-012-0,Navy
+3913,ST03-014-0,The Seven Warlords of the Sea
+3914,ST03-014-0,Blackbeard Pirates
+3915,ST03-015-0,The Seven Warlords of the Sea
+3916,ST03-015-0,Baroque Works
+3917,ST03-016-0,The Seven Warlords of the Sea
+3918,ST03-016-0,Revolutionary Army
+3919,ST03-017-0,The Seven Warlords of the Sea
+3920,ST03-017-0,Kuja Pirates
+3921,ST02-001-0,Supernovas
+3922,ST02-001-0,Kid Pirates
+3923,ST02-002-0,Firetank Pirates
+3924,ST02-003-0,Supernovas
+3925,ST02-003-0,Fallen Monk Pirates
+3926,ST02-005-0,Supernovas
+3927,ST02-005-0,Kid Pirates
+3928,ST02-006-0,Navy
+3929,ST02-007-0,Supernovas
+3930,ST02-007-0,Bonney Pirates
+3931,ST02-008-0,Supernovas
+3932,ST02-008-0,On-Air Pirates
+3933,ST02-009-0,Supernovas
+3934,ST02-009-0,Heart Pirates
+3935,ST02-010-0,Supernovas
+3936,ST02-010-0,Hawkins Pirates
+3937,ST02-011-0,Kid Pirates
+3938,ST02-012-0,Minks
+3939,ST02-012-0,Heart Pirates
+3940,ST02-013-0,Supernovas
+3941,ST02-013-0,Kid Pirates
+3942,ST02-014-0,Navy
+3943,ST02-014-0,Supernovas
+3944,ST02-014-0,Drake Pirates
+3945,ST02-015-0,Supernovas
+3946,ST02-015-0,Heart Pirates
+3947,ST02-016-0,Supernovas
+3948,ST02-016-0,Kid Pirates
+3949,ST02-017-0,Supernovas
+3950,ST02-017-0,Hawkins Pirates
+3951,ST01-001-0,Supernovas
+3952,ST01-001-0,Straw Hat Crew
+3953,ST01-002-0,Straw Hat Crew
+3954,ST01-003-0,Animal
+3955,ST01-003-0,Alabasta
+3956,ST01-004-0,Straw Hat Crew
+3957,ST01-005-0,Fish-Man
+3958,ST01-005-0,Straw Hat Crew
+3959,ST01-007-0,Straw Hat Crew
+3960,ST01-008-0,Straw Hat Crew
+3961,ST01-009-0,Alabasta
+3962,ST01-010-0,Straw Hat Crew
+3963,ST01-011-0,Straw Hat Crew
+3964,ST01-012-0,Supernovas
+3965,ST01-012-0,Straw Hat Crew
+3966,ST01-013-0,Supernovas
+3967,ST01-013-0,Straw Hat Crew
+3968,ST01-015-0,Supernovas
+3969,ST01-015-0,Straw Hat Crew
+3970,ST01-016-0,Straw Hat Crew
+3971,ST01-017-0,Straw Hat Crew
+3972,ST01-001-1,Supernovas
+3973,ST01-001-1,Straw Hat Crew
+3974,ST02-001-1,Supernovas
+3975,ST02-001-1,Kid Pirates
+3976,EB01-006-4,Animal
+3977,EB01-006-4,Straw Hat Crew
+3978,EB01-006-5,Animal
+3979,EB01-006-5,Straw Hat Crew
+3980,EB01-012-2,Supernovas
+3981,EB01-012-2,Beautiful Pirates
+3982,EB01-014-1,FILM
+3983,EB01-014-1,Straw Hat Crew
+3984,EB01-015-1,Supernovas
+3985,EB01-015-1,On-Air Pirates
+3986,EB01-046-2,Straw Hat Crew
+3987,EB01-046-3,Straw Hat Crew
+3988,EB02-019-1,East Blue
+3989,EB02-019-1,Straw Hat Crew
+3990,EB02-019-2,East Blue
+3991,EB02-019-2,Straw Hat Crew
+3992,EB02-055-1,Fish-Man
+3993,EB02-055-1,Straw Hat Crew
+3994,OP01-004-2,Straw Hat Crew
+3995,OP01-005-4,FILM
+3996,OP01-013-3,Straw Hat Crew
+3997,OP01-015-1,Animal
+3998,OP01-015-1,Straw Hat Crew
+3999,OP01-016-5,Straw Hat Crew
+4000,OP01-016-6,Straw Hat Crew
+4001,OP01-017-3,Straw Hat Crew
+4002,OP01-021-1,Straw Hat Crew
+4003,OP01-021-2,Straw Hat Crew
+4004,OP01-021-5,Straw Hat Crew
+4005,OP01-025-4,Supernovas
+4006,OP01-025-4,Straw Hat Crew
+4007,OP01-033-1,Land of Wano
+4008,OP01-033-1,Former Whitebeard Pirates
+4009,OP01-035-1,Land of Wano
+4010,OP01-035-1,The Akazaya Nine
+4011,OP01-041-1,Land of Wano
+4012,OP01-041-1,Kouzuki Clan
+4013,OP01-070-2,The Seven Warlords of the Sea
+4014,OP01-077-3,Thriller Bark Pirates
+4015,OP01-077-4,Thriller Bark Pirates
+4016,OP01-077-5,Thriller Bark Pirates
+4017,OP01-094-3,The Four Emperors
+4018,OP01-094-3,Animal Kingdom Pirates
+4019,OP01-108-1,Supernovas
+4020,OP01-108-1,Kid Pirates
+4021,OP01-108-1,SMILE
+4022,OP01-120-4,The Four Emperors
+4023,OP01-120-4,Red-Haired Pirates
+4024,OP02-029-2,Minks
+4025,OP02-034-3,FILM
+4026,OP02-034-3,Animal
+4027,OP02-034-3,Straw Hat Crew
+4028,OP02-035-1,FILM
+4029,OP02-035-1,Supernovas
+4030,OP02-035-1,Heart Pirates
+4031,OP02-059-2,Impel Down
+4032,OP02-059-2,The Seven Warlords of the Sea
+4033,OP02-059-2,Kuja Pirates
+4034,OP02-063-1,Impel Down
+4035,OP02-063-1,Former Baroque Works
+4036,OP02-096-3,Navy
+4037,OP02-098-1,Navy
+4038,OP02-098-3,Navy
+4039,OP02-099-4,Navy
+4040,OP02-105-3,Navy
+4041,OP02-108-2,Navy
+4042,OP02-108-2,Donquixote Pirates
+4043,OP02-114-3,Navy
+4044,OP03-033-1,Fish-Man
+4045,OP03-033-1,East Blue
+4046,OP03-033-1,Arlong Pirates
+4047,OP03-044-1,East Blue
+4048,OP03-044-2,East Blue
+4049,OP03-088-1,CP9
+4050,OP03-089-1,Navy
+4051,OP03-102-1,The Vinsmoke Family
+4052,OP03-112-2,Big Mom Pirates
+4053,OP03-112-3,Big Mom Pirates
+4054,OP03-116-1,Merfolk
+4055,OP03-116-4,Merfolk
+4056,OP03-123-2,Big Mom Pirates
+4057,OP04-010-1,Animal
+4058,OP04-010-1,Alabasta
+4059,OP04-010-1,Straw Hat Crew
+4060,OP04-083-3,Dressrosa
+4061,OP04-083-3,Revolutionary Army
+4062,OP04-092-1,Dressrosa
+4063,OP04-092-2,Dressrosa
+4064,OP04-112-2,Land of Wano
+4065,OP05-036-1,Donquixote Pirates
+4066,OP05-037-1,Donquixote Pirates
+4067,OP05-037-2,Donquixote Pirates
+4068,OP05-060-2,Straw Hat Crew
+4069,OP05-067-2,Straw Hat Crew
+4070,OP05-086-1,Alabasta
+4071,OP05-091-3,Dressrosa
+4072,OP05-098-2,Sky Island
+4073,OP05-106-1,Sky Island
+4074,OP05-106-1,Vassals
+4075,OP06-047-1,Big Mom Pirates
+4076,OP06-047-2,Big Mom Pirates
+4077,OP06-051-1,Navy
+4078,OP06-063-1,The Vinsmoke Family
+4079,OP06-063-1,Kingdom of GERMA
+4080,OP06-069-2,The Vinsmoke Family
+4081,OP06-069-2,GERMA 66
+4082,OP06-076-1,Supernovas
+4083,OP06-076-1,Kid Pirates
+4084,OP06-076-1,SMILE
+4085,OP06-093-2,Thriller Bark Pirates
+4086,OP06-101-3,Straw Hat Crew
+4087,OP06-110-3,Minks
+4088,OP06-110-3,Land of Wano
+4089,OP06-110-3,The Akazaya Nine
+4090,OP07-021-2,Supernovas
+4091,OP07-021-2,Fallen Monk Pirates
+4092,OP07-021-3,Supernovas
+4093,OP07-021-3,Fallen Monk Pirates
+4094,OP07-053-1,Whitebeard Pirates
+4095,OP07-053-2,Whitebeard Pirates
+4096,OP07-080-1,CP0
+4097,OP07-091-1,Straw Hat Crew
+4098,OP07-100-1,Scientist
+4099,OP07-100-1,Egghead
+4100,OP07-119-2,Whitebeard Pirates
+4101,OP08-062-1,Big Mom Pirates
+4102,OP08-067-2,Big Mom Pirates
+4103,OP08-074-2,Animal Kingdom Pirates
+4104,OP08-074-3,Animal Kingdom Pirates
+4105,OP08-084-2,Animal Kingdom Pirates
+4106,OP08-110-2,Sky Island
+4107,OP08-110-2,Shandian Warrior
+4108,OP09-002-2,FILM
+4109,OP09-011-1,Red-Haired Pirates
+4110,OP09-043-1,Cross Guild
+4111,OP09-050-2,East Blue
+4112,OP09-050-3,East Blue
+4113,OP09-069-2,Heart Pirates
+4114,OP09-089-1,Animal
+4115,OP09-089-1,Blackbeard Pirates
+4116,OP09-106-1,Ohara
+4117,OP09-106-2,Ohara
+4118,OP09-108-1,The Seven Warlords of the Sea
+4119,OP09-108-1,Revolutionary Army
+4120,OP10-107-1,Supernovas
+4121,OP10-107-1,Bonney Pirates
+4122,OP11-010-2,Navy
+4123,OP11-010-2,SWORD
+4124,OP11-119-2,Navy
+4125,OP11-119-2,SWORD
+4126,P-001-0,Supernovas
+4127,P-001-0,Straw Hat Crew
+4128,P-001-2,Supernovas
+4129,P-001-2,Straw Hat Crew
+4130,P-001-4,Supernovas
+4131,P-001-4,Straw Hat Crew
+4132,P-001-5,Supernovas
+4133,P-001-5,Straw Hat Crew
+4134,P-002-0,Straw Hat Crew
+4135,P-003-0,Supernovas
+4136,P-003-0,Kid Pirates
+4137,P-003-1,Supernovas
+4138,P-003-1,Kid Pirates
+4139,P-003-3,Supernovas
+4140,P-003-3,Kid Pirates
+4141,P-004-0,The Seven Warlords of the Sea
+4142,P-004-0,Baroque Works
+4143,P-005-0,The Four Emperors
+4144,P-005-0,Animal Kingdom Pirates
+4145,P-006-0,Supernovas
+4146,P-006-0,Straw Hat Crew
+4147,P-007-0,Supernovas
+4148,P-007-0,Straw Hat Crew
+4149,P-008-0,Land of Wano
+4150,P-009-0,Supernovas
+4151,P-009-0,Heart Pirates
+4152,P-010-0,The Four Emperors
+4153,P-010-0,Animal Kingdom Pirates
+4154,P-011-0,FILM
+4155,P-012-0,FILM
+4156,P-012-0,Jellyfish Pirates
+4157,P-013-0,FILM
+4158,P-015-0,FILM
+4159,P-015-0,Straw Hat Crew
+4160,P-016-0,FILM
+4161,P-016-0,The Four Emperors
+4162,P-016-0,Red-Haired Pirates
+4163,P-017-0,FILM
+4164,P-017-0,Supernovas
+4165,P-017-0,Heart Pirates
+4166,P-017-1,FILM
+4167,P-017-1,Supernovas
+4168,P-017-1,Heart Pirates
+4169,P-017-2,FILM
+4170,P-017-2,Supernovas
+4171,P-017-2,Heart Pirates
+4172,P-018-0,FILM
+4173,P-018-0,Supernovas
+4174,P-018-0,Barto Club
+4175,P-019-0,FILM
+4176,P-019-0,Minks
+4177,P-019-0,Heart Pirates
+4178,P-019-1,FILM
+4179,P-019-1,Minks
+4180,P-019-1,Heart Pirates
+4181,P-020-0,FILM
+4182,P-020-0,Navy
+4183,P-021-0,FILM
+4184,P-021-0,Red-Haired Pirates
+4185,P-022-0,FILM
+4186,P-022-0,Supernovas
+4187,P-022-0,Straw Hat Crew
+4188,P-023-0,FILM
+4189,P-023-0,Red-Haired Pirates
+4190,P-024-0,Supernovas
+4191,P-024-0,Straw Hat Crew
+4192,P-025-0,Navy
+4193,P-026-0,Navy
+4194,P-027-0,Straw Hat Crew
+4195,P-028-0,Whitebeard Pirates
+4196,P-028-1,Whitebeard Pirates
+4197,P-028-2,Whitebeard Pirates
+4198,P-031-0,FILM
+4199,P-032-0,Navy
+4200,P-033-0,Straw Hat Crew
+4201,P-034-0,The Vinsmoke Family
+4202,P-035-0,Straw Hat Crew
+4203,P-036-0,Land of Wano
+4204,P-036-0,Straw Hat Crew
+4205,P-037-0,Straw Hat Crew
+4206,P-038-0,Heart Pirates
+4207,P-039-0,Bellamy Pirates
+4208,P-040-0,The Four Emperors
+4209,P-040-0,Animal Kingdom Pirates
+4210,P-041-1,The Four Emperors
+4211,P-041-1,Straw Hat Crew
+4212,P-041-3,The Four Emperors
+4213,P-041-3,Straw Hat Crew
+4214,P-041-4,The Four Emperors
+4215,P-041-4,Straw Hat Crew
+4216,P-042-0,Straw Hat Crew
+4217,P-043-0,Straw Hat Crew
+4218,P-044-0,Revolutionary Army
+4219,P-045-0,Straw Hat Crew
+4220,P-046-0,Land of Wano
+4221,P-047-0,Straw Hat Crew
+4222,P-048-0,Fish-Man
+4223,P-048-0,Arlong Pirates
+4224,P-049-0,Straw Hat Crew
+4225,P-050-0,Straw Hat Crew
+4226,P-051-0,Red-Haired Pirates
+4227,P-052-0,The Seven Warlords of the Sea
+4228,P-054-0,Navy
+4229,P-056-0,Straw Hat Crew
+4230,P-057-0,Music
+4231,P-057-0,FILM
+4232,P-058-0,Music
+4233,P-058-0,FILM
+4234,P-059-0,Music
+4235,P-059-0,FILM
+4236,P-060-0,Music
+4237,P-060-0,FILM
+4238,P-062-0,Fish-Man
+4239,P-062-0,Merfolk
+4240,P-062-0,New Fish-Man Pirates
+4241,P-063-0,Fish-Man
+4242,P-064-0,Land of Wano
+4243,P-064-0,Kouzuki Clan
+4244,P-065-0,Animal
+4245,P-065-0,Straw Hat Crew
+4246,P-066-0,The Seven Warlords of the Sea
+4247,P-066-0,Kuja Pirates
+4248,P-067-0,Supernovas
+4249,P-067-0,Kid Pirates
+4250,P-068-0,Kingdom of GERMA
+4251,P-068-0,The Vinsmoke Family
+4252,P-069-0,Revolutionary Army
+4253,P-069-1,Revolutionary Army
+4254,P-070-0,Minks
+4255,P-071-0,Whitebeard Pirates
+4256,P-072-0,Monsters
+4257,P-076-0,Navy
+4258,P-077-0,Animal Kingdom Pirates
+4259,P-078-1,ODYSSEY
+4260,P-079-1,ODYSSEY
+4261,P-080-0,The Four Emperors
+4262,P-080-0,Egghead
+4263,P-080-0,Straw Hat Crew
+4264,P-081-1,Cross Guild
+4265,P-082-1,Cross Guild
+4266,P-082-1,Former Baroque Works
+4267,P-083-0,The Four Emperors
+4268,P-083-0,Red-Haired Pirates
+4269,P-084-0,The Four Emperors
+4270,P-084-0,Cross Guild
+4271,P-085-0,Supernovas
+4272,P-085-0,Bonney Pirates
+4273,P-086-0,Heart Pirates
+4274,P-087-0,Straw Hat Crew
+4275,P-088-0,Supernovas
+4276,P-088-0,Heart Pirates
+4277,P-089-0,Animal
+4278,P-089-0,Straw Hat Crew
+4279,P-090-0,Big Mom Pirates
+4280,P-091-0,Merfolk
+4281,P-091-0,Fish-Man Island
+4282,P-092-0,Navy
+4283,P-092-0,SWORD
+4284,P-093-0,Heart Pirates
+4285,P-094-0,Straw Hat Crew
+4286,ST01-001-3,Supernovas
+4287,ST01-001-3,Straw Hat Crew
+4288,ST01-004-2,Straw Hat Crew
+4289,ST01-005-3,Fish-Man
+4290,ST01-005-3,Straw Hat Crew
+4291,ST01-006-6,Animal
+4292,ST01-006-6,Straw Hat Crew
+4293,ST01-006-7,Animal
+4294,ST01-006-7,Straw Hat Crew
+4295,ST01-007-1,Straw Hat Crew
+4296,ST01-007-2,Straw Hat Crew
+4297,ST01-008-3,Straw Hat Crew
+4298,ST01-009-1,Alabasta
+4299,ST01-011-2,Straw Hat Crew
+4300,ST01-012-5,Supernovas
+4301,ST01-012-5,Straw Hat Crew
+4302,ST01-012-6,Supernovas
+4303,ST01-012-6,Straw Hat Crew
+4304,ST01-013-4,Supernovas
+4305,ST01-013-4,Straw Hat Crew
+4306,ST01-013-5,Supernovas
+4307,ST01-013-5,Straw Hat Crew
+4308,ST01-015-2,Supernovas
+4309,ST01-015-2,Straw Hat Crew
+4310,ST01-015-3,Supernovas
+4311,ST01-015-3,Straw Hat Crew
+4312,ST02-007-1,Supernovas
+4313,ST02-007-1,Bonney Pirates
+4314,ST02-008-2,Supernovas
+4315,ST02-008-2,On-Air Pirates
+4316,ST02-013-2,Supernovas
+4317,ST02-013-2,Kid Pirates
+4318,ST03-003-1,The Seven Warlords of the Sea
+4319,ST03-003-1,Baroque Works
+4320,ST03-004-1,The Seven Warlords of the Sea
+4321,ST03-004-1,Thriller Bark Pirates
+4322,ST03-005-1,The Seven Warlords of the Sea
+4323,ST03-005-2,The Seven Warlords of the Sea
+4324,ST03-007-1,Navy
+4325,ST03-008-1,The Seven Warlords of the Sea
+4326,ST03-008-1,Heart Pirates
+4327,ST03-008-3,The Seven Warlords of the Sea
+4328,ST03-008-3,Heart Pirates
+4329,ST03-008-4,The Seven Warlords of the Sea
+4330,ST03-008-4,Heart Pirates
+4331,ST03-014-1,The Seven Warlords of the Sea
+4332,ST03-014-1,Blackbeard Pirates
+4333,ST04-003-2,The Four Emperors
+4334,ST04-003-2,Animal Kingdom Pirates
+4335,ST04-005-2,Animal Kingdom Pirates
+4336,ST04-008-1,Animal Kingdom Pirates
+4337,ST04-010-1,Animal Kingdom Pirates
+4338,ST04-011-1,Animal Kingdom Pirates
+4339,ST04-011-3,Animal Kingdom Pirates
+4340,ST06-006-1,Navy
+4341,ST07-007-1,Big Mom Pirates
+4342,ST07-008-1,Big Mom Pirates
+4343,ST07-008-3,Big Mom Pirates
+4344,ST07-010-2,The Four Emperors
+4345,ST07-010-2,Big Mom Pirates
+4346,ST09-012-1,Land of Wano
+4347,ST10-004-1,Straw Hat Crew
+4348,ST10-006-2,Straw Hat Crew
+4349,ST10-008-1,Heart Pirates
+4350,ST10-010-2,Heart Pirates
+4351,ST10-013-2,Kid Pirates
+4352,ST11-003-1,Music
+4353,ST11-003-1,FILM
+4354,ST11-004-1,Music
+4355,ST11-004-1,FILM
+4356,ST11-005-1,Music
+4357,ST11-005-1,FILM
+4358,ST18-002-1,Straw Hat Crew
+4359,ST19-002-1,Navy
+4360,EB01-043-1,CP9
+4361,EB01-043-2,CP9
+4362,OP01-001-2,Supernovas
+4363,OP01-001-2,Straw Hat Crew
+4364,OP01-005-2,FILM
+4365,OP01-005-3,FILM
+4366,OP01-006-4,Land of Wano
+4367,OP01-013-2,Straw Hat Crew
+4368,OP01-014-2,Fish-Man
+4369,OP01-014-2,Straw Hat Crew
+4370,OP01-016-2,Straw Hat Crew
+4371,OP01-017-2,Straw Hat Crew
+4372,OP01-021-4,Straw Hat Crew
+4373,OP01-022-1,Straw Hat Crew
+4374,OP01-029-1,Straw Hat Crew
+4375,OP01-030-1,Straw Hat Crew
+4376,OP01-057-1,Land of Wano
+4377,OP01-057-1,Kouzuki Clan
+4378,OP01-114-1,Navy
+4379,OP01-114-1,Drake Pirates
+4380,OP01-114-1,Animal Kingdom Pirates
+4381,OP02-001-2,The Four Emperors
+4382,OP02-001-2,Whitebeard Pirates
+4383,OP02-005-1,Mountain Bandits
+4384,OP02-013-5,Whitebeard Pirates
+4385,OP02-015-3,Windmill Village
+4386,OP02-036-2,FILM
+4387,OP02-036-2,Straw Hat Crew
+4388,OP02-106-1,Navy
+4389,OP02-117-1,Navy
+4390,OP02-120-3,FILM
+4391,OP03-001-2,Whitebeard Pirates
+4392,OP03-013-3,Whitebeard Pirates
+4393,OP03-044-3,East Blue
+4394,OP03-055-1,East Blue
+4395,OP03-055-1,Straw Hat Crew
+4396,OP03-121-1,The Four Emperors
+4397,OP03-121-1,Big Mom Pirates
+4398,OP04-032-3,Donquixote Pirates
+4399,OP04-083-5,Dressrosa
+4400,OP04-083-5,Revolutionary Army
+4401,OP04-095-1,Dressrosa
+4402,OP04-095-1,Barto Club
+4403,OP04-105-1,Big Mom Pirates
+4404,OP05-004-1,Revolutionary Army
+4405,OP05-005-1,Revolutionary Army
+4406,OP05-019-1,Revolutionary Army
+4407,OP05-030-1,Navy
+4408,OP05-030-1,Donquixote Pirates
+4409,OP05-093-3,CP0
+4410,OP05-093-4,CP0
+4411,OP05-114-1,Sky Island
+4412,OP06-016-1,FILM
+4413,OP06-016-1,Revolutionary Army
+4414,OP06-038-1,Dressrosa
+4415,OP06-038-1,Straw Hat Crew
+4416,OP06-090-1,Thriller Bark Pirates
+4417,OP06-104-1,Land of Wano
+4418,OP06-104-1,The Akazaya Nine
+4419,OP06-118-4,Straw Hat Crew
+4420,OP07-064-2,Straw Hat Crew
+4421,OP07-109-2,The Four Emperors
+4422,OP07-109-2,Egghead
+4423,OP07-109-2,Straw Hat Crew
+4424,OP08-040-1,Whitebeard Pirates
+4425,OP08-069-2,Former Rocks Pirates
+4426,OP08-069-2,Big Mom Pirates
+4427,OP08-105-2,Egghead
+4428,OP08-105-2,Bonney Pirates
+4429,OP08-105-3,Egghead
+4430,OP08-105-3,Bonney Pirates
+4431,OP10-042-2,Dressrosa
+4432,OP10-042-2,Straw Hat Crew
+4433,P-001-1,Supernovas
+4434,P-001-1,Straw Hat Crew
+4435,P-011-1,FILM
+4436,P-016-2,FILM
+4437,P-016-2,The Four Emperors
+4438,P-016-2,Red-Haired Pirates
+4439,P-022-2,FILM
+4440,P-022-2,Supernovas
+4441,P-022-2,Straw Hat Crew
+4442,P-031-1,FILM
+4443,P-041-6,The Four Emperors
+4444,P-041-6,Straw Hat Crew
+4445,P-047-1,Straw Hat Crew
+4446,P-048-1,Fish-Man
+4447,P-048-1,Arlong Pirates
+4448,P-049-1,Straw Hat Crew
+4449,P-050-1,Straw Hat Crew
+4450,P-051-1,Red-Haired Pirates
+4451,P-052-1,The Seven Warlords of the Sea
+4452,P-053-1,Straw Hat Crew
+4453,P-055-1,Straw Hat Crew
+4454,P-056-1,Straw Hat Crew
+4455,P-072-1,Monsters
+4456,P-073-0,Dressrosa
+4457,P-073-0,Revolutionary Army
+4458,P-073-1,Dressrosa
+4459,P-073-1,Revolutionary Army
+4460,P-074-0,Whitebeard Pirates
+4461,P-074-1,Whitebeard Pirates
+4462,P-075-0,Supernovas
+4463,P-075-0,Straw Hat Crew
+4464,P-075-1,Supernovas
+4465,P-075-1,Straw Hat Crew
+4466,ST01-002-1,Straw Hat Crew
+4467,ST01-002-4,Straw Hat Crew
+4468,ST01-004-4,Straw Hat Crew
+4469,ST01-005-1,Fish-Man
+4470,ST01-005-1,Straw Hat Crew
+4471,ST01-006-1,Animal
+4472,ST01-006-1,Straw Hat Crew
+4473,ST01-006-4,Animal
+4474,ST01-006-4,Straw Hat Crew
+4475,ST01-007-5,Straw Hat Crew
+4476,ST01-007-6,Straw Hat Crew
+4477,ST01-007-7,Straw Hat Crew
+4478,ST01-008-1,Straw Hat Crew
+4479,ST01-010-1,Straw Hat Crew
+4480,ST01-011-4,Straw Hat Crew
+4481,ST01-013-3,Supernovas
+4482,ST01-013-3,Straw Hat Crew
+4483,ST02-001-2,Supernovas
+4484,ST02-001-2,Kid Pirates
+4485,ST02-004-2,Supernovas
+4486,ST02-004-2,Firetank Pirates
+4487,ST03-001-1,The Seven Warlords of the Sea
+4488,ST03-001-1,Baroque Works
+4489,ST03-012-1,Biological Weapon
+4490,ST03-012-1,Navy
+4491,ST03-013-1,The Seven Warlords of the Sea
+4492,ST03-013-1,Kuja Pirates
+4493,ST03-017-1,The Seven Warlords of the Sea
+4494,ST03-017-1,Kuja Pirates
+4495,ST04-001-1,The Four Emperors
+4496,ST04-001-1,Animal Kingdom Pirates
+4497,ST04-002-1,Animal Kingdom Pirates
+4498,ST04-016-1,The Four Emperors
+4499,ST04-016-1,Animal Kingdom Pirates
+4500,ST04-017-1,Animal Kingdom Pirates
+4501,ST05-002-2,FILM
+4502,ST05-002-2,Neo Navy
+4503,ST05-004-2,FILM
+4504,ST05-014-2,FILM
+4505,ST05-014-2,The Pirates Fest
+4506,ST06-008-1,Navy
+4507,ST08-002-2,FILM
+4508,ST10-013-3,Kid Pirates
+4509,ST10-013-4,Kid Pirates
+4510,ST13-001-2,Dressrosa
+4511,ST13-001-2,Revolutionary Army
+4512,ST13-001-3,Dressrosa
+4513,ST13-001-3,Revolutionary Army
+4514,ST13-002-2,Whitebeard Pirates
+4515,ST13-002-3,Whitebeard Pirates
+4516,ST13-003-2,Supernovas
+4517,ST13-003-2,Straw Hat Crew
+4518,ST13-003-3,Supernovas
+4519,ST13-003-3,Straw Hat Crew
+4520,ST13-012-2,Windmill Village
+4521,ST13-015-2,Supernovas
+4522,ST13-015-2,Straw Hat Crew
+4523,ST16-001-1,FILM
+4524,ST16-001-2,FILM
+4525,ST17-004-1,The Seven Warlords of the Sea
+4526,ST17-004-1,Kuja Pirates
+4527,ST17-004-2,The Seven Warlords of the Sea
+4528,ST17-004-2,Kuja Pirates

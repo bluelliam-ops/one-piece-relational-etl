@@ -2,7 +2,7 @@
 
 A normalized relational database that links **One Piece** anime/manga data (characters, episodes, story arcs) to the **One Piece Trading Card Game**, built with a pandas ETL pipeline and loaded into Postgres.
 
-Three messy, independently-sourced datasets — a wiki scrape of characters, an episode/arc list, and a TCG card database — share no common ID and use different name spellings for the same character. The pipeline resolves that: it builds one canonical name and ID per character, maps every alternate spelling from every source onto it, and produces seven clean, foreign-key-linked tables that can answer questions no single source could answer alone, such as:
+Three independently-sourced datasets a wiki scrape of characters, an episode/arc list, and a TCG card database. They share no common ID and use different name spellings for the same character. The pipeline resolves that issue. It builds one canonical name and ID per character, maps every alternate spelling from every source onto it, and produces seven clean, foreign-key-linked tables that can answer questions no single source could answer alone, such as:
 
 - Does a character's death status affect how often they're chosen for cards?
 - Does appearing in more episodes correlate with having more cards?
@@ -16,36 +16,24 @@ Seven tables: `arcs`, `episodes`, `characters`, `character_aliases`, `character_
 
 ## How the pipeline works
 
-The notebook ([`One_Piece_Database.ipynb`](One_Piece_Database.ipynb)) follows a standard Extract → Transform → Load structure:
-
-**Extract** — loads the three raw source files and profiles each one for nulls, row meaning, and structural quirks (e.g. the raw character table is actually a 57-column dump of the wiki's character, organization, *and* ship infoboxes mixed together).
-
-**Transform** — the bulk of the work:
-- Builds one `canonical_name` per character (preferring the official English name, falling back to the romanized name, then the raw wiki name), fixes ~29 names that got glued together by a missing separator, and resolves 8 collisions where the same name string referred to two different characters.
-- Assigns a stable `character_id` and builds a separate `character_aliases` table, since the TCG and episode datasets each spell character names differently (e.g. a card might say `Tony.Tony.Chopper` while an episode credit says `Chopper`) and each needs to resolve to the same ID.
-- Pulls `arcs` into its own table (derived from the earliest episode of each arc, since arc order doesn't exist anywhere in the source data) and normalizes `episodes`.
-- Explodes the episode dataset's `character_appearances` column — stored as a Python list inside a single CSV cell — into a proper `character_episode_appearances` join table, one row per (episode, character) pair. ~26,900 appearances matched automatically; the remaining unmatched names were resolved by frequency — anything appearing in 15+ episodes was manually verified and added as a new alias, everything rarer was dropped rather than risk mis-merging into a major character.
-- Cleans `Debut` (a mixed "Chapter X; Episode Y" text field) into separate, validated `debut_episode_id` and `debut_manga_id` columns, and similarly cleans `height_cm`, `age_at_death`, and `devil_fruit`.
-- Matches `cards` to `characters` by normalizing card names the same way, with a manual fix-up list for ~26 cards whose name included an alias/nickname (e.g. `Lucy` for `Sabo`) not present anywhere else. Splits each card's multi-value type field out into a `card_factions` table so questions like "how many cards are in the Straw Hat Crew faction" are queryable.
-
-**Load** — creates the Postgres tables from `schema.sql` and bulk-loads each with `psycopg2.extras.execute_values()` (notably faster than `executemany()` for this row count).
-
-**Check it** — a handful of verification queries, followed by three queries that answer the research questions above directly against the loaded database.
+The notebook ([`One_Piece_Database.ipynb`](One_Piece_Database.ipynb)) follows a standard Extract → Transform → Load structure.
 
 ## Data sources
 
-Raw data is **not included in this repo** (see [Data files](#data-files) below) — download the three CSVs yourself from Kaggle:
+Original raw data comes from three Kaggle datasets, all released for free use:
 
 - [One Piece Episode Summaries (Episodes 1–1130)](https://www.kaggle.com/datasets/tejadhiya/one-piece-episode-summaries-episodes-1-1130/data)
 - [One Piece TCG Card Database – July 2025](https://www.kaggle.com/datasets/jbowski/one-piece-tcg-card-database?resource=download)
 - [One Piece Dataset](https://www.kaggle.com/datasets/mexwell/one-piece-dataset) (character wiki data)
 
-Each dataset's license terms are set by its Kaggle uploader — check the license badge on each page before redistributing the raw files yourself. The underlying character, episode, and card data ultimately belongs to Eiichiro Oda / Shueisha / Toei Animation / Bandai; this project is a fan-made, non-commercial data engineering exercise.
+The underlying character, episode, and card data ultimately belongs to Eiichiro Oda / Shueisha / Toei Animation / Bandai; this project is a fan-made, non-commercial data engineering exercise.
 
 ### Data files
 
-- `data/raw/` — put the three downloaded CSVs here (gitignored — not checked in).
-- `data/processed/` — the seven cleaned, final tables as CSVs, exported directly from the notebook's transform step, so you can explore the results without running the pipeline or standing up a database.
+Both the raw and processed data are checked into this repo so anyone can explore or rerun the pipeline without hunting down the original Kaggle files:
+
+- `data/raw/` — the three source CSVs exactly as downloaded from Kaggle (`one_piece_tcg.csv`, `one_piece_episodes.csv`, `one_piece_characters.csv`).
+- `data/processed/` — the seven cleaned, final tables as CSVs (`arcs`, `episodes`, `characters`, `character_aliases`, `character_episode_appearances`, `cards`, `card_factions`), produced by actually running the notebook's Extract + Transform steps against the raw files above.
 
 ## Setup
 
@@ -56,8 +44,8 @@ python -m venv .venv && source .venv/bin/activate
 pip install -r requirements.txt
 ```
 
-1. Download the three source CSVs from the links above into `data/raw/` (see the notebook's Extract section for the exact filenames it expects).
-2. Copy `.env.example` to `.env` and fill in `DATABASE_URL` with a Postgres connection string (any standard Postgres works — a free tier on [Aiven](https://aiven.io), [Supabase](https://supabase.com), [Neon](https://neon.tech), or a local instance).
+1. Raw data is already in `data/raw/` — no download needed to just explore or rerun the transform.
+2. Copy `.env.example` to `.env` and fill in `DATABASE_URL` with a Postgres connection string (any standard Postgres works — a free tier on [Aiven](https://aiven.io), [Supabase](https://supabase.com), [Neon](https://neon.tech), or a local instance). Only needed if you want to run the Load section and query a real database.
 3. Run `jupyter notebook One_Piece_Database.ipynb` and run all cells top to bottom.
 
 Alternatively, run everything against the tables directly with `psql` using [`schema.sql`](schema.sql) and the CSVs in `data/processed/`.
@@ -98,10 +86,14 @@ From the notebook's "Check It" section, run against the loaded database:
 
 See the notebook for the full query SQL and complete results.
 
+## Power BI
+
+The three sample queries above are also visualized in Microsoft Power BI — see docs/query_data_visualizations_microsoft_power_bi.pdf for the exported charts.
+
 ## Tech stack
 
-pandas / numpy for the ETL, Postgres for storage, psycopg2 for loading, all orchestrated from a single Jupyter notebook.
+pandas / numpy for the ETL, Postgres for storage, psycopg2 for loading, all made from a single Jupyter notebook.
 
 ## License
 
-Code and documentation in this repo are MIT-licensed (see [`LICENSE`](LICENSE)). The underlying One Piece data is not — see [Data sources](#data-sources).
+Code and documentation in this repo are MIT-licensed (see [`LICENSE`](LICENSE)). The underlying One Piece data is not, see [Data sources](#data-sources).
