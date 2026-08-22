@@ -1,0 +1,16 @@
+# Environment / secrets
+.env
+
+# Python
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+.venv/
+venv/
+
+# OS cruft
+.DS_Store
+
+# Raw source data (large, redistributed license unclear — see README)
+data/raw/*
+!data/raw/.gitkeep
