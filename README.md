@@ -45,7 +45,7 @@ pip install -r requirements.txt
 ```
 
 1. Raw data is already in `data/raw/` — no download needed to just explore or rerun the transform.
-2. Copy `.env.example` to `.env` and fill in `DATABASE_URL` with a Postgres connection string (any standard Postgres works — a free tier on [Aiven](https://aiven.io), [Supabase](https://supabase.com), [Neon](https://neon.tech), or a local instance). Only needed if you want to run the Load section and query a real database.
+2. Copy `.env.example` to `.env` and fill in `DATABASE_URL` with a Postgres connection string (any standard Postgres works — a free tier on [Aiven](https://aiven.io) or a local instance). Only needed if you want to run the Load section and query a real database.
 3. Run `jupyter notebook One_Piece_Database.ipynb` and run all cells top to bottom.
 
 Alternatively, run everything against the tables directly with `psql` using [`schema.sql`](schema.sql) and the CSVs in `data/processed/`.
